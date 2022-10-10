@@ -13,4 +13,4 @@ async function browser(url) {
 }
 
 
-browser("https://shop.joelee.works");
+browser("https://joelee.works");
