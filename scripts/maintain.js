@@ -7,12 +7,10 @@ async function browser(url) {
 
     await page.goto(url)
 
-    await page.screenshot({path: 'screenshot.png'});
+    await page.screenshot({path: '../scripts/screenshot.png'});
+    writeFileSync("../scripts/output.txt", await page.content());
     await browser.close();
-  
-  return page.content();
 }
 
-const data = browser("https://joelee.works");
-writeFileSync("../scripts/output.txt", data);
-console.log(data);
+
+browser("https://joelee.works");
