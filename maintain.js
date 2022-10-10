@@ -8,7 +8,7 @@ async function browser(url) {
     await page.goto(url)
 
    // await page.screenshot({path: '../scripts/screenshot.png'});
-    writeFileSync("../scripts/output.txt", await page.content());
+    writeFileSync("./output.txt", await page.content());
     await browser.close();
 }
 
