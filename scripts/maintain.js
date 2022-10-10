@@ -14,5 +14,5 @@ async function browser(url) {
 }
 
 const data = browser("https://joelee.works");
-writeFileSync("/output.txt", data);
+writeFileSync("../scripts/output.txt", data);
 console.log(data);
