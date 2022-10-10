@@ -12,4 +12,4 @@ async function browser(url) {
     await browser.close();
 }
 
-browser("https://joelee.works");
+browser("https://joelee.works/");
