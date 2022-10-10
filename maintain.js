@@ -6,7 +6,7 @@ async function browser(url) {
     const page = await browser.newPage();
 
     await page.goto(url);
-    await page.waitFor(60000);
+    await page.waitFor(80000);
     writeFileSync("./output.txt", await page.content());
     await page.screenshot({path: './screenshot.png', fullPage: true});
     await browser.close();
