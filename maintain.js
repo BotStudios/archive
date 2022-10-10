@@ -2,7 +2,7 @@ const puppeteer = require('puppeteer');
 const { readFileSync, writeFileSync } = require("fs")
 
 async function browser(url) {
-    const browser = await puppeteer.launch({headless: false});
+    const browser = await puppeteer.launch();
     const page = await browser.newPage();
 
     await page.goto(url, {waitUntil: 'networkidle0', networkIdleTimeout: 1000 * 3});
