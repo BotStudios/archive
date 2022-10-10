@@ -19,7 +19,6 @@ jobs:
 
     - name: Run
       run: |
-        cd scripts
         yarn
         yarn maintain
 
