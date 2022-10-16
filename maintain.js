@@ -13,4 +13,4 @@ async function browser(url) {
     await browser.close();
 }
 
-browser("https://joe.js.org/");
+browser("https://github.com/CodingStudios");
