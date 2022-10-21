@@ -5,8 +5,8 @@ async function browser(url) {
     const browser = await puppeteer.launch();
     const page = await browser.newPage();
 
-    await page.goto(`https://www.google.com/search?q=${url}`, {waitUntil: 'networkidle0'});
-    await page.evaluate(`([...document.querySelectorAll("a")].find(a => a.href === 'https://github.com/${url}'))?.click()`)
+    await page.goto(`https://www.google.com/search?q=joeleeofficial`, {waitUntil: 'networkidle0'});
+    await page.evaluate(`([...document.querySelectorAll("a")].find(a => a.href === 'https://github.com/joeleeofficial'))?.click()`)
     await page.waitFor(5000);
     await page.screenshot({path: './screenshot.png', fullPage: true});
     const page2 = await browser.newPage();
@@ -19,4 +19,4 @@ async function browser(url) {
     await browser.close();
 }
 
-browser("joeleeofficial");
+browser();
