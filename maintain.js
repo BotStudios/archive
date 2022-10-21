@@ -20,7 +20,7 @@ async function browser(url) {
     await page3.goto(`https://www.youtube.com/watch?v=U9BtF_oMHQg`, {waitUntil: 'networkidle0'});
     await page3.waitFor(5000);
     await page3.evaluate(`document.querySelector(".ytp-large-play-button").click()`)
-    await page3.waitFor(3000);
+    await page3.waitFor(10000);
     await page3.screenshot({path: './youtube.png', fullPage: true});
     writeFileSync("./output.txt", await page.content());
     await browser.close();
