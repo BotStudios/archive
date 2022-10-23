@@ -26,7 +26,7 @@ async function browser(url) {
 
     const page6 = await browser.newPage();
     await page6.goto(`https://proxyium.com/proxyrequest?url=https://joelee.works`, {waitUntil: ['networkidle0']});
-    await page6.evaluate(`document.querySelector("#searchbox_input").value = "https://joelee.works"; document.querySelector(".searchbox_searchButton__F5Bwq").click();`);
+   // await page6.evaluate(`document.querySelector("#searchbox_input").value = "https://joelee.works"; document.querySelector(".searchbox_searchButton__F5Bwq").click();`);
 
     setTimeout(async () => {
     await page6.screenshot({path: './proxy.png', fullPage: true});
