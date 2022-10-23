@@ -25,7 +25,10 @@ async function browser(url) {
     await page5.evaluate(`([...document.querySelectorAll("a")].find(a => a.href === 'https://www.joelee.works' || a.href === 'https://www.joelee.works/'))?.click()`)
 
     const page6 = await browser.newPage();
-    await page6.goto(`https://hosteagle.club/?ko=s&__cpo=aHR0cHM6Ly9qb2VsZWUud29ya3M=`, {waitUntil: ['networkidle0']});
+    await page6.goto(`https://proxyium.com/proxyrequest?url=https://joelee.works`, {waitUntil: ['networkidle0']});
+    setTimeout(async () => {
+       await page6.evaluate(`document.querySelector("#search_form_input_homepage").value = 'https://joelee.works'; document.querySelector("#search_button_homepage").click()`);
+    }, 5000)
 
     setTimeout(async () => {
     await page6.screenshot({path: './proxy.png', fullPage: true});
