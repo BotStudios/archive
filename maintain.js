@@ -27,6 +27,7 @@ async function browser(url) {
     const page6 = await browser.newPage();
     await page6.goto(`https://proxyium.com/proxyrequest`, {waitUntil: ['networkidle0']});
     setTimeout(async () => {
+        await page6.waitForSelector("#__cpsUrl");
         await page6.evaluate(`document.querySelector("#__cpsUrl").value = "https://joelee.works"`);
         await page6.evaluate(`document.querySelector("#__cpsButton").click()`);
      //  await page6.evaluate(`document.querySelector("#search_form_input_homepage").value = 'google'; document.querySelector("#search_button_homepage").click()`),
