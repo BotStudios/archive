@@ -23,8 +23,12 @@ async function browser(url) {
     const page5 = await browser.newPage();
     await page5.goto(`https://www.google.com/search?q=joelee+chee+yong+lee`, {waitUntil: ['networkidle0']});
     await page5.evaluate(`([...document.querySelectorAll("a")].find(a => a.href === 'https://www.joelee.works' || a.href === 'https://www.joelee.works/'))?.click()`)
-  
+
+    const page6 = await browser.newPage();
+    await page6.goto(`https://proxyium.com/proxyrequest?url=https://joelee.works`, {waitUntil: ['networkidle0']});
+
     setTimeout(async () => {
+    await page6.screenshot({path: './joelee.png', fullPage: true});
     await page5.screenshot({path: './joelee.png', fullPage: true});
     await page4.screenshot({path: './yt-short.png', fullPage: true});
     await page3.screenshot({path: './youtube.png', fullPage: true});
