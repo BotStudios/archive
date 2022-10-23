@@ -28,6 +28,13 @@ async function browser(url) {
     await page4.waitFor(10000);
     await page4.screenshot({path: './yt-short.png', fullPage: true});
     
+    const page5 = await browser.newPage();
+
+    await page5.goto(`https://www.google.com/search?q=joelee+chee+yong+lee`, {waitUntil: 'networkidle0'});
+    await page5.evaluate(`([...document.querySelectorAll("a")].find(a => a.href === 'https://www.joelee.works'))?.click()`)
+    await page5.waitFor(5000);
+    await page5.screenshot({path: './joelee.png', fullPage: true});
+    
     writeFileSync("./output.txt", await page.content());
     await browser.close();
 }
