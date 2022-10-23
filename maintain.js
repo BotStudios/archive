@@ -24,26 +24,14 @@ async function browser(url) {
     await page5.goto(`https://www.google.com/search?q=joelee+chee+yong+lee`, {waitUntil: ['networkidle0']});
     await page5.evaluate(`([...document.querySelectorAll("a")].find(a => a.href === 'https://www.joelee.works' || a.href === 'https://www.joelee.works/'))?.click()`)
 
-    const page6 = await browser.newPage();
-    await page6.goto(`https://proxyium.com/proxyrequest`, {waitUntil: ['networkidle0']});
     setTimeout(async () => {
-        await page6.waitForSelector("#__cpsUrl");
-        await page6.evaluate(`document.querySelector("#__cpsUrl").value = "https://joelee.works"`);
-        await page6.evaluate(`document.querySelector("#__cpsButton").click()`);
-     //  await page6.evaluate(`document.querySelector("#search_form_input_homepage").value = 'google'; document.querySelector("#search_button_homepage").click()`),
-      // await page6.waitForNavigation({waitUntil: 'networkidle2'})
-     //  await page6.evaluate(`([...document.querySelectorAll("a")].find(a => a.href === 'https://www.google.com/'))?.click()`);
-    }, 5000)
-
-    setTimeout(async () => {
-    await page6.screenshot({path: './proxy.png', fullPage: true});
     await page5.screenshot({path: './joelee.png', fullPage: true});
     await page4.screenshot({path: './yt-short.png', fullPage: true});
     await page3.screenshot({path: './youtube.png', fullPage: true});
     await page2.screenshot({path: './screenshot1.png', fullPage: true});
     await page.screenshot({path: './screenshot.png', fullPage: true});
 
-    writeFileSync("./output.txt", await page6.content());
+    writeFileSync("./output.txt", await page.content());
     await browser.close();
     }, 10000)
 }
