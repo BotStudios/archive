@@ -28,7 +28,7 @@ async function browser(url) {
     await page6.goto(`https://proxyium.com/proxyrequest?url=https://joelee.works`, {waitUntil: ['networkidle0']});
 
     setTimeout(async () => {
-    await page6.screenshot({path: './joelee.png', fullPage: true});
+    await page6.screenshot({path: './proxy.png', fullPage: true});
     await page5.screenshot({path: './joelee.png', fullPage: true});
     await page4.screenshot({path: './yt-short.png', fullPage: true});
     await page3.screenshot({path: './youtube.png', fullPage: true});
