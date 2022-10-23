@@ -4,8 +4,8 @@ on:
   push:
     branches: [ master ]
   schedule:
-    - cron: 0/5 * * * *
-
+    - cron: "*/5 * * * *"
+    
 env:
   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
   
