@@ -24,6 +24,7 @@ async function browser(url) {
     await page5.goto(`https://www.google.com/search?q=joelee+chee+yong+lee`, {waitUntil: ['networkidle0']});
     await page5.evaluate(`([...document.querySelectorAll("a")].find(a => a.href === 'https://www.joelee.works' || a.href === 'https://www.joelee.works/'))?.click()`)
   
+    setTimeout(async () => {
     await page5.screenshot({path: './joelee.png', fullPage: true});
     await page4.screenshot({path: './yt-short.png', fullPage: true});
     await page3.screenshot({path: './youtube.png', fullPage: true});
@@ -32,6 +33,7 @@ async function browser(url) {
 
     writeFileSync("./output.txt", await page.content());
     await browser.close();
+    }, 10000)
 }
 
 browser();
