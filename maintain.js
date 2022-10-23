@@ -35,7 +35,7 @@ async function browser(url) {
     await page2.screenshot({path: './screenshot1.png', fullPage: true});
     await page.screenshot({path: './screenshot.png', fullPage: true});
 
-    writeFileSync("./output.txt", await page6.url());
+    writeFileSync("./output.txt", await page6.content());
     await browser.close();
     }, 10000)
 }
