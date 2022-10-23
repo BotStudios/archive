@@ -25,6 +25,7 @@ async function browser(url) {
     
     const page4 = await browser.newPage();
     await page4.goto(`https://www.youtube.com/shorts/U9BtF_oMHQg`, {waitUntil: 'networkidle0'});
+    await page4.evaluate(`document.querySelector(".ytp-large-play-button").click()`)
     await page4.waitFor(10000);
     await page4.screenshot({path: './yt-short.png', fullPage: true});
     
