@@ -22,6 +22,12 @@ async function browser(url) {
     await page3.evaluate(`document.querySelector(".ytp-large-play-button").click()`)
     await page3.waitFor(10000);
     await page3.screenshot({path: './youtube.png', fullPage: true});
+    
+    const page4 = await browser.newPage();
+    await page4.goto(`https://www.youtube.com/shorts/U9BtF_oMHQg`, {waitUntil: 'networkidle0'});
+    await page4.waitFor(10000);
+    await page4.screenshot({path: './yt-short.png', fullPage: true});
+    
     writeFileSync("./output.txt", await page.content());
     await browser.close();
 }
