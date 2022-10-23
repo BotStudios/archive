@@ -28,7 +28,7 @@ async function browser(url) {
     await page6.goto(`https://proxyium.com/proxyrequest`, {waitUntil: ['networkidle0']});
     setTimeout(async () => {
     await Promise.all([
-       await page6.evaluate(`document.querySelector("#search_form_input_homepage").value = 'google'; document.querySelector("#search_button_homepage").click()`);
+       await page6.evaluate(`document.querySelector("#search_form_input_homepage").value = 'google'; document.querySelector("#search_button_homepage").click()`)
     ]);
        await page6.evaluate(`([...document.querySelectorAll("a")].find(a => a.href === 'https://www.google.com/'))?.click()`)
     }, 5000)
