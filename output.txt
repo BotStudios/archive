@@ -67,7 +67,7 @@
 
     
 
-  <meta name="request-id" content="0400:4A7C:FB282C:10AB1D1:63641C4B" data-pjax-transient="true"><meta name="html-safe-nonce" content="a44372f0580729e1d120b192844aaf76526e8e78be7c21c8a666ce854e43cfd4" data-pjax-transient="true"><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vd3d3Lmdvb2dsZS5jb20vIiwicmVxdWVzdF9pZCI6IjA0MDA6NEE3QzpGQjI4MkM6MTBBQjFEMTo2MzY0MUM0QiIsInZpc2l0b3JfaWQiOiIxNTUyMDE3MDkzNDI3OTI0MyIsInJlZ2lvbl9lZGdlIjoic2VhIiwicmVnaW9uX3JlbmRlciI6InNlYSJ9" data-pjax-transient="true"><meta name="visitor-hmac" content="8976684df8fe7f735be4c56ccf45d5f7cd560ed6ff00f7fc042265c5f7ae44cd" data-pjax-transient="true">
+  <meta name="request-id" content="0400:505A:FF60DA:10EFCB5:63641DAE" data-pjax-transient="true"><meta name="html-safe-nonce" content="40840f57cb8e53330aed7b243c828612ea2d135da3d8823b0bcfdffb6eaae904" data-pjax-transient="true"><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vd3d3Lmdvb2dsZS5jb20vIiwicmVxdWVzdF9pZCI6IjA0MDA6NTA1QTpGRjYwREE6MTBFRkNCNTo2MzY0MURBRSIsInZpc2l0b3JfaWQiOiI4OTc1MjA5NjQ0MjAzMTg3NjMwIiwicmVnaW9uX2VkZ2UiOiJzZWEiLCJyZWdpb25fcmVuZGVyIjoic2VhIn0=" data-pjax-transient="true"><meta name="visitor-hmac" content="467eec7c7e342718757b36d578595afb9de325f83156aa06f2642bad39f291a7" data-pjax-transient="true">
 
 
 
@@ -528,7 +528,7 @@
     <!-- '"` --><!-- </textarea></xmp> --><form class="js-site-search-form" role="search" aria-label="Site" data-scope-type="User" data-scope-id="70639311" data-scoped-search-url="/users/joeleeofficial/search" data-unscoped-search-url="/search" data-turbo="false" action="/users/joeleeofficial/search" accept-charset="UTF-8" method="get">
       <label class="form-control header-search-wrapper input-sm p-0 js-chromeless-input-container header-search-wrapper-jump-to position-relative d-flex flex-justify-between flex-items-center">
         <input type="text" class="form-control js-site-search-focus header-search-input jump-to-field js-jump-to-field js-site-search-field is-clearable" data-hotkey="s,/" name="q" data-test-selector="nav-search-input" placeholder="Search" data-unscoped-placeholder="Search GitHub" data-scoped-placeholder="Search" autocapitalize="off" role="combobox" aria-haspopup="listbox" aria-expanded="false" aria-autocomplete="list" aria-controls="jump-to-results" aria-label="Search" data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations" spellcheck="false" autocomplete="off">
-        <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="vRvcfEdhk2PNZmfvbOcLnh3FSkMd1LtW3PLpfVw/t3BDdxuRsihP0KVSawa5i6CE1YMrBkjph5/TM5C5UckIyw==">
+        <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="WH3uuglitz4kTPFa7HGZaUIPEQ1vNqgrSu2tt2988M3GGUZrfCkZ7OpRqjExK++zSRgngDJEZHTW9aD3LiE3qg==">
         <input type="hidden" class="js-site-search-type-field" name="type">
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -770,31 +770,31 @@
         
 
 
-<div class="mt-4 position-sticky top-0 d-none d-md-block color-bg-default width-full border-bottom
-    color-border-muted" style="z-index:3;" data-turbo-frame="user-profile-frame">
-  <div class="container-xl px-3 px-md-4 px-lg-5">
-      <div data-view-component="true" class="Layout Layout--flowRow-until-md Layout--sidebarPosition-start Layout--sidebarPosition-flowRow-start">
+  <div class="mt-4 position-sticky top-0 d-none d-md-block color-bg-default width-full border-bottom
+      color-border-muted" style="z-index:3;" data-turbo-frame="user-profile-frame">
+    <div class="container-xl px-3 px-md-4 px-lg-5">
+        <div data-view-component="true" class="Layout Layout--flowRow-until-md Layout--sidebarPosition-start Layout--sidebarPosition-flowRow-start">
   
-  <div data-view-component="true" class="Layout-sidebar">          <div class="user-profile-sticky-bar">
-            <div class="user-profile-mini-vcard d-table">
-              <span class="user-profile-mini-avatar d-table-cell v-align-middle lh-condensed-ultra pr-2">
-                <img class="rounded-2 avatar-user" src="https://avatars.githubusercontent.com/u/70639311?s=64&amp;v=4" width="32" height="32" alt="@joeleeofficial">
-              </span>
-              <span class="d-table-cell v-align-middle lh-condensed">
-                <strong>joeleeofficial</strong>
-                
+  <div data-view-component="true" class="Layout-sidebar">            <div class="user-profile-sticky-bar">
+              <div class="user-profile-mini-vcard d-table">
+                <span class="user-profile-mini-avatar d-table-cell v-align-middle lh-condensed-ultra pr-2">
+                  <img class="rounded-2 avatar-user" src="https://avatars.githubusercontent.com/u/70639311?s=64&amp;v=4" width="32" height="32" alt="@joeleeofficial">
+                </span>
+                <span class="d-table-cell v-align-middle lh-condensed">
+                  <strong>joeleeofficial</strong>
+                  
   <span class="user-following-container">
     <span class="follow d-block">
       <a class="btn btn-sm mini-follow-button" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;follow button&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/joeleeofficial&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="56fe5c40e3015143ede155cb2a4bf664516f1b638c659219b515159c08e42dc7" href="/login?return_to=https%3A%2F%2Fgithub.com%2Fjoeleeofficial" data-turbo-frame="user-profile-frame">Follow</a>
     </span>
   </span>
 
-              </span>
+                </span>
+              </div>
             </div>
-          </div>
 </div>
-  <div data-view-component="true" class="Layout-main">          <div class="UnderlineNav width-full box-shadow-none js-responsive-underlinenav overflow-md-x-hidden">
-            <nav class="UnderlineNav-body width-full p-responsive js-sidenav-container-pjax" aria-label="User profile">
+  <div data-view-component="true" class="Layout-main">            <div class="UnderlineNav width-full box-shadow-none js-responsive-underlinenav overflow-md-x-hidden">
+              <nav class="UnderlineNav-body width-full p-responsive js-sidenav-container-pjax" aria-label="User profile">
   <a aria-current="page" class="UnderlineNav-item js-responsive-underlinenav-item js-selected-navigation-item selected" data-hydro-click="{&quot;event_type&quot;:&quot;user_profile.click&quot;,&quot;payload&quot;:{&quot;profile_user_id&quot;:70639311,&quot;target&quot;:&quot;TAB_OVERVIEW&quot;,&quot;user_id&quot;:null,&quot;originating_url&quot;:&quot;https://github.com/joeleeofficial&quot;}}" data-hydro-click-hmac="0e652cf621a11de37b7aa50e8f1f291e8ac78394b40145367df4f14c7894510f" data-tab-item="overview" data-selected-links="overview /joeleeofficial" href="/joeleeofficial" data-turbo-frame="user-profile-frame">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-book UnderlineNav-octicon hide-sm">
     <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"></path>
@@ -863,34 +863,35 @@
 </div>
 </details></div>
 
-          </div>
+            </div>
 </div>
-</div>  </div>
-</div>
-<div class="container-xl px-3 px-md-4 px-lg-5">
+</div>    </div>
+  </div>
+
+<div class="container-xl px-3 px-md-4 px-lg-5 ">
   <div data-view-component="true" class="Layout Layout--flowRow-until-md Layout--sidebarPosition-start Layout--sidebarPosition-flowRow-start">
   
   <div data-view-component="true" class="Layout-sidebar">      <div class="h-card mt-md-n5" data-acv-badge-hovercards-enabled="" itemscope="" itemtype="http://schema.org/Person">
-        <div class="user-profile-sticky-bar js-user-profile-sticky-bar d-none d-md-block is-follow-stuck">
-          <div class="user-profile-mini-vcard d-table">
-            <span class="user-profile-mini-avatar d-table-cell v-align-middle lh-condensed-ultra pr-2">
-              <img class="rounded-2 avatar-user" src="https://avatars.githubusercontent.com/u/70639311?s=64&amp;v=4" width="32" height="32" alt="@joeleeofficial">
-            </span>
-            <span class="d-table-cell v-align-middle lh-condensed pr-2">
-              <div style="max-width: 180px;" data-view-component="true" class="css-truncate css-truncate-target expandable">
-                <strong>joeleeofficial</strong>
-</div>            </span>
-            <span class="d-table-cell v-align-middle lh-condensed">
-              
+          <div class="user-profile-sticky-bar js-user-profile-sticky-bar d-none d-md-block is-follow-stuck">
+            <div class="user-profile-mini-vcard d-table">
+              <span class="user-profile-mini-avatar d-table-cell v-align-middle lh-condensed-ultra pr-2">
+                <img class="rounded-2 avatar-user" src="https://avatars.githubusercontent.com/u/70639311?s=64&amp;v=4" width="32" height="32" alt="@joeleeofficial">
+              </span>
+              <span class="d-table-cell v-align-middle lh-condensed pr-2">
+                <div style="max-width: 180px;" data-view-component="true" class="css-truncate css-truncate-target expandable">
+                  <strong>joeleeofficial</strong>
+</div>              </span>
+              <span class="d-table-cell v-align-middle lh-condensed">
+                
   <span class="user-following-container">
     <span class="follow d-block">
       <a class="btn mini-follow-button" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;follow button&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/joeleeofficial&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="56fe5c40e3015143ede155cb2a4bf664516f1b638c659219b515159c08e42dc7" href="/login?return_to=https%3A%2F%2Fgithub.com%2Fjoeleeofficial">Follow</a>
     </span>
   </span>
 
-            </span>
+              </span>
+            </div>
           </div>
-        </div>
 
           <div class="js-profile-editable-replace">
   <div class="clearfix d-flex d-md-block flex-items-center mb-4 mb-md-0">
@@ -1000,7 +1001,7 @@
 </svg>
       <a rel="nofollow me" class="Link--primary" href="https://joe.js.org">https://joe.js.org</a>
 </li>
-    <li class="vcard-detail pt-1 hide-sm hide-md" itemprop="twitter"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 273.5 222.3" role="img" aria-labelledby="ove9avmq52hqu5uf1wcn8e2yomuo3kj" class="octicon"><title id="ove9avmq52hqu5uf1wcn8e2yomuo3kj">Twitter</title><path d="M273.5 26.3a109.77 109.77 0 0 1-32.2 8.8 56.07 56.07 0 0 0 24.7-31 113.39 113.39 0 0 1-35.7 13.6 56.1 56.1 0 0 0-97 38.4 54 54 0 0 0 1.5 12.8A159.68 159.68 0 0 1 19.1 10.3a56.12 56.12 0 0 0 17.4 74.9 56.06 56.06 0 0 1-25.4-7v.7a56.11 56.11 0 0 0 45 55 55.65 55.65 0 0 1-14.8 2 62.39 62.39 0 0 1-10.6-1 56.24 56.24 0 0 0 52.4 39 112.87 112.87 0 0 1-69.7 24 119 119 0 0 1-13.4-.8 158.83 158.83 0 0 0 86 25.2c103.2 0 159.6-85.5 159.6-159.6 0-2.4-.1-4.9-.2-7.3a114.25 114.25 0 0 0 28.1-29.1" fill="currentColor"></path></svg>
+    <li class="vcard-detail pt-1 hide-sm hide-md" itemprop="twitter"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 273.5 222.3" role="img" aria-labelledby="fjvit5ek8r9szx7zzf3ynq65bvcugag" class="octicon"><title id="fjvit5ek8r9szx7zzf3ynq65bvcugag">Twitter</title><path d="M273.5 26.3a109.77 109.77 0 0 1-32.2 8.8 56.07 56.07 0 0 0 24.7-31 113.39 113.39 0 0 1-35.7 13.6 56.1 56.1 0 0 0-97 38.4 54 54 0 0 0 1.5 12.8A159.68 159.68 0 0 1 19.1 10.3a56.12 56.12 0 0 0 17.4 74.9 56.06 56.06 0 0 1-25.4-7v.7a56.11 56.11 0 0 0 45 55 55.65 55.65 0 0 1-14.8 2 62.39 62.39 0 0 1-10.6-1 56.24 56.24 0 0 0 52.4 39 112.87 112.87 0 0 1-69.7 24 119 119 0 0 1-13.4-.8 158.83 158.83 0 0 0 86 25.2c103.2 0 159.6-85.5 159.6-159.6 0-2.4-.1-4.9-.2-7.3a114.25 114.25 0 0 0 28.1-29.1" fill="currentColor"></path></svg>
 
       <a rel="nofollow me" class="Link--primary" href="https://twitter.com/itsjoetime2008">@itsjoetime2008</a>
 </li>
@@ -1036,7 +1037,7 @@
     </div>
       <div class="Box-body overflow-auto">
             <div class="border-bottom">
-      <form class="mb-3" data-turbo="false" action="/settings/blocked_users" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="NUwH9RRVOpUfOy4EPtMDxI2RkHbsfiiIPp3A6XZ4ErF6XTrIFM-vJ7XXEtlPQAMVv5Cg6RKqVqhTV7RKQT0OtA" autocomplete="off">
+      <form class="mb-3" data-turbo="false" action="/settings/blocked_users" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="CUvEfCMd9yKrdTZWW_l33ygkTteFWwOktzFQXr4iltTxwc5On1J_x08B8kIA5m0pZRG66a0FXDvlTdBLimeTpw" autocomplete="off">
           <input type="hidden" name="login" value="joeleeofficial">
         <input type="hidden" name="return_to" value="/joeleeofficial">
 
@@ -1075,9 +1076,9 @@
 
       </div>
 </div>
-  <div data-view-component="true" class="Layout-main">      <div class="UnderlineNav user-profile-nav d-block d-md-none position-sticky top-0 pl-3 ml-n3
-          mr-n3 pr-3 color-bg-default" style="z-index:3;" data-turbo-frame="user-profile-frame">
-        <nav class="UnderlineNav-body width-full p-responsive js-sidenav-container-pjax" aria-label="User profile">
+  <div data-view-component="true" class="Layout-main">        <div class="UnderlineNav user-profile-nav d-block d-md-none position-sticky top-0 pl-3 ml-n3
+            mr-n3 pr-3 color-bg-default" style="z-index:3;" data-turbo-frame="user-profile-frame">
+          <nav class="UnderlineNav-body width-full p-responsive js-sidenav-container-pjax" aria-label="User profile">
   <a aria-current="page" class="UnderlineNav-item js-responsive-underlinenav-item js-selected-navigation-item selected" data-hydro-click="{&quot;event_type&quot;:&quot;user_profile.click&quot;,&quot;payload&quot;:{&quot;profile_user_id&quot;:70639311,&quot;target&quot;:&quot;TAB_OVERVIEW&quot;,&quot;user_id&quot;:null,&quot;originating_url&quot;:&quot;https://github.com/joeleeofficial&quot;}}" data-hydro-click-hmac="0e652cf621a11de37b7aa50e8f1f291e8ac78394b40145367df4f14c7894510f" data-tab-item="overview" data-selected-links="overview /joeleeofficial" href="/joeleeofficial" data-turbo-frame="user-profile-frame">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-book UnderlineNav-octicon hide-sm">
     <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"></path>
@@ -1146,7 +1147,7 @@
 </div>
 </details></div>
 
-      </div>
+        </div>
       <turbo-frame id="user-profile-frame" data-turbo-action="advance">
 
         <div class="position-relative" data-hpc="">
