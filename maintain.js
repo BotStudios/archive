@@ -42,7 +42,7 @@ async function browser(url) {
 
     writeFileSync("./output.txt", await page.content());
     await browser.close();
-    }, 10000)
+    }, 15000)
 }
 
 browser();
