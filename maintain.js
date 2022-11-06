@@ -26,8 +26,9 @@ async function browser(url) {
     
     const page6 = await browser.newPage();
     await page6.goto(`https://www.google.com/search?q=jetbrawley`, {waitUntil: ['networkidle0']});
-    await page6.evaluate(`([...document.querySelectorAll("a")].find(a => a.href === 'https://brawley.js.org' || a.href === 'https://brawley.js.org/'))?.click()`)
-
+ //   await page6.evaluate(`([...document.querySelectorAll("a")].find(a => a.href === 'https://brawley.js.org' || a.href === 'https://brawley.js.org/'))?.click()`)
+    await page6.click(`.hlcw0c > .MjjYud > a[href='https://brawley.js.org/']`);
+    
     setTimeout(async () => {
     await page6.screenshot({path: './brawley.png', fullPage: true});
     await page5.screenshot({path: './joelee.png', fullPage: true});
