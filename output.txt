@@ -68,7 +68,7 @@
 
     
 
-  <meta name="request-id" content="0402:83DA:30D4818:458BC7E:636756D7" data-pjax-transient="true"><meta name="html-safe-nonce" content="d60b16848cb9a1147da4959cafc8443cf01708c56d56f2a8f11792f6ea2aba94" data-pjax-transient="true"><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vd3d3Lmdvb2dsZS5jb20vIiwicmVxdWVzdF9pZCI6IjA0MDI6ODNEQTozMEQ0ODE4OjQ1OEJDN0U6NjM2NzU2RDciLCJ2aXNpdG9yX2lkIjoiNTIyNzQxMTUwNTE1MjQ4MDk4MyIsInJlZ2lvbl9lZGdlIjoiaWFkIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-pjax-transient="true"><meta name="visitor-hmac" content="628f8da5fd34306c223f0f1fbc74bec522c43dc6981d5f9d11bc642472e1cfe3" data-pjax-transient="true">
+  <meta name="request-id" content="0402:657C:2E21DD4:427D184:63675985" data-pjax-transient="true"><meta name="html-safe-nonce" content="a80e6b617dfeb634b74c3290aad6ae71a81d8c41679b6de506e167ffbb70aa85" data-pjax-transient="true"><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vd3d3Lmdvb2dsZS5jb20vIiwicmVxdWVzdF9pZCI6IjA0MDI6NjU3QzoyRTIxREQ0OjQyN0QxODQ6NjM2NzU5ODUiLCJ2aXNpdG9yX2lkIjoiNDI2MTgzMDExMzE1MDU4OTMxNyIsInJlZ2lvbl9lZGdlIjoiaWFkIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-pjax-transient="true"><meta name="visitor-hmac" content="438c6a9d647671bf1ac6be52e15f2bf45b681666295fddc2a69c39a39197812c" data-pjax-transient="true">
 
 
 
@@ -529,7 +529,7 @@
     <!-- '"` --><!-- </textarea></xmp> --><form class="js-site-search-form" role="search" aria-label="Site" data-scope-type="User" data-scope-id="70639311" data-scoped-search-url="/users/joeleeofficial/search" data-unscoped-search-url="/search" data-turbo="false" action="/users/joeleeofficial/search" accept-charset="UTF-8" method="get">
       <label class="form-control header-search-wrapper input-sm p-0 js-chromeless-input-container header-search-wrapper-jump-to position-relative d-flex flex-justify-between flex-items-center">
         <input type="text" class="form-control js-site-search-focus header-search-input jump-to-field js-jump-to-field js-site-search-field is-clearable" data-hotkey="s,/" name="q" data-test-selector="nav-search-input" placeholder="Search" data-unscoped-placeholder="Search GitHub" data-scoped-placeholder="Search" autocapitalize="off" role="combobox" aria-haspopup="listbox" aria-expanded="false" aria-autocomplete="list" aria-controls="jump-to-results" aria-label="Search" data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations" spellcheck="false" autocomplete="off">
-        <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="ZhBf5l3UKVu/1y83T9Ll7BRxX5lmbGr7a1SyNeGGIcXd+DCACktszXIOw1e2VwYedUfcf3hVUpb1W/5eAsz67A==">
+        <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="wHTHYHTT/x3eWjY4jy7RZJxJk0fAZl7yM0gjoFtyE6Yp8m+wku3Tjh6/ACcwygCZXMENeQjBTPn6V6sjPGE0Gg==">
         <input type="hidden" class="js-site-search-type-field" name="type">
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -1002,7 +1002,7 @@
 </svg>
       <a rel="nofollow me" class="Link--primary" href="https://joe.js.org">https://joe.js.org</a>
 </li>
-    <li class="vcard-detail pt-1 hide-sm hide-md" itemprop="twitter"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 273.5 222.3" role="img" aria-labelledby="91ebvz9f2z6tp02slif5uyx26lf7n45" class="octicon"><title id="91ebvz9f2z6tp02slif5uyx26lf7n45">Twitter</title><path d="M273.5 26.3a109.77 109.77 0 0 1-32.2 8.8 56.07 56.07 0 0 0 24.7-31 113.39 113.39 0 0 1-35.7 13.6 56.1 56.1 0 0 0-97 38.4 54 54 0 0 0 1.5 12.8A159.68 159.68 0 0 1 19.1 10.3a56.12 56.12 0 0 0 17.4 74.9 56.06 56.06 0 0 1-25.4-7v.7a56.11 56.11 0 0 0 45 55 55.65 55.65 0 0 1-14.8 2 62.39 62.39 0 0 1-10.6-1 56.24 56.24 0 0 0 52.4 39 112.87 112.87 0 0 1-69.7 24 119 119 0 0 1-13.4-.8 158.83 158.83 0 0 0 86 25.2c103.2 0 159.6-85.5 159.6-159.6 0-2.4-.1-4.9-.2-7.3a114.25 114.25 0 0 0 28.1-29.1" fill="currentColor"></path></svg>
+    <li class="vcard-detail pt-1 hide-sm hide-md" itemprop="twitter"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 273.5 222.3" role="img" aria-labelledby="7cmjfpggj7dh4mgogxb8r17ipavd43y" class="octicon"><title id="7cmjfpggj7dh4mgogxb8r17ipavd43y">Twitter</title><path d="M273.5 26.3a109.77 109.77 0 0 1-32.2 8.8 56.07 56.07 0 0 0 24.7-31 113.39 113.39 0 0 1-35.7 13.6 56.1 56.1 0 0 0-97 38.4 54 54 0 0 0 1.5 12.8A159.68 159.68 0 0 1 19.1 10.3a56.12 56.12 0 0 0 17.4 74.9 56.06 56.06 0 0 1-25.4-7v.7a56.11 56.11 0 0 0 45 55 55.65 55.65 0 0 1-14.8 2 62.39 62.39 0 0 1-10.6-1 56.24 56.24 0 0 0 52.4 39 112.87 112.87 0 0 1-69.7 24 119 119 0 0 1-13.4-.8 158.83 158.83 0 0 0 86 25.2c103.2 0 159.6-85.5 159.6-159.6 0-2.4-.1-4.9-.2-7.3a114.25 114.25 0 0 0 28.1-29.1" fill="currentColor"></path></svg>
 
       <a rel="nofollow me" class="Link--primary" href="https://twitter.com/itsjoetime2008">@itsjoetime2008</a>
 </li>
@@ -1038,7 +1038,7 @@
     </div>
       <div class="Box-body overflow-auto">
             <div class="border-bottom">
-      <form class="mb-3" data-turbo="false" action="/settings/blocked_users" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="a5UYGlQsKHewp_q6jcnqikJr0ce9CJ9mkxMeWwgQIoqTkIeWlfCVSTvyb6H96FHS8lsVCpFb1ED37bf5YbnCyA" autocomplete="off">
+      <form class="mb-3" data-turbo="false" action="/settings/blocked_users" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="_fZrChFzlmC1eO7xTxsgSGRwSXzg12B_i-TR8jvCVIVkIStLR9b_uNjihqVciAMD_P1FzydTCkZPAZgSJKfMzQ" autocomplete="off">
           <input type="hidden" name="login" value="joeleeofficial">
         <input type="hidden" name="return_to" value="/joeleeofficial">
 
