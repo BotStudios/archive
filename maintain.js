@@ -6,7 +6,8 @@ async function browser(url) {
    
     const page = await browser.newPage();
     await page.goto(`https://www.google.com/search?q=joeleeofficial+github`, {waitUntil: ['networkidle0']});
-    await page.evaluate(`([...document.querySelectorAll("a")].find(a => a.href === 'https://github.com/joeleeofficial'))?.click()`)
+    //await page.evaluate(`([...document.querySelectorAll("a")].find(a => a.href === 'https://github.com/joeleeofficial'))?.click()`)
+    await page.click("a[href='https://github.com/joeleeofficial']");
    
     const page2 = await browser.newPage();
     await page2.goto(`https://www.google.com/search?q=leecheeyong`, {waitUntil: ['networkidle0']});
@@ -26,7 +27,7 @@ async function browser(url) {
     
     const page6 = await browser.newPage();
     await page6.goto(`https://www.google.com/search?q=jetbrawley`, {waitUntil: ['networkidle0']});
- //   await page6.evaluate(`([...document.querySelectorAll("a")].find(a => a.href === 'https://brawley.js.org' || a.href === 'https://brawley.js.org/'))?.click()`)
+    //await page6.evaluate(`([...document.querySelectorAll("a")].find(a => a.href === 'https://brawley.js.org' || a.href === 'https://brawley.js.org/'))?.click()`)
     await page6.click(`a[href='https://brawley.js.org/']`);
     
     setTimeout(async () => {
