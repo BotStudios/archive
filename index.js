@@ -19,7 +19,7 @@ var indexFile = require('./videos.json');
     //download homepage
     const t = performance.now();  
     const t0 = performance.now();
-    for(let i = 0; i < 5; i++) {
+    for(let i = 0; i < 10; i++) {
     try {
     const homepage = await search.homepage();
     homepage.forEach(async (video) => {
@@ -48,7 +48,7 @@ var indexFile = require('./videos.json');
     console.log(`Downloaded homepage in ${msTmin(t1 - t0)} milliseconds.`);
     //download trending
     const t2 = performance.now();
-    for(let i = 0; i < 5; i++) {
+    for(let i = 0; i < 10; i++) {
     try {
     const trending = await search.trending();
     trending.forEach(async (video) => {
@@ -74,10 +74,10 @@ var indexFile = require('./videos.json');
     } catch (e) { console.log(e); }
     }
     // download search
- /*   const t4 = performance.now();
+    const t4 = performance.now();
     customSearch.forEach(async e => {
         try {
-        const info = await search.search(e, { limit: 3 });
+        const info = await search.search(e, { limit: 10 });
         info.forEach(async (video) => {
             try {
             if(videos.includes(`${video.id}.mp4`)) return;
@@ -106,7 +106,6 @@ var indexFile = require('./videos.json');
     
     const t5 = performance.now();
     console.log(`Downloaded search in ${msTmin(t5 - t4)} milliseconds.`);
-    */
     const t3 = performance.now();
     console.log(`Downloaded trending in ${msTmin(t3 - t2)} milliseconds.`);
     if(!indexFile.videos) indexFile.videos = [];
