@@ -1,6 +1,6 @@
 {
-  "totalSize": "360.7 MB",
-  "totalVideos": 107,
+  "totalSize": "373.1 MB",
+  "totalVideos": 112,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -963,6 +963,51 @@
       "channel": {
         "name": "Huberman Lab Clips",
         "id": "UCkZjTZNvuxq1CYMS3cwZa1Q"
+      }
+    },
+    {
+      "id": "c5SebUtKm8Q",
+      "title": "Watch Obama's closing message to voters in Philadelphia",
+      "duration": 339,
+      "channel": {
+        "name": "CNN",
+        "id": "UCupvZG-5ko_eiXAupbDfxWw"
+      }
+    },
+    {
+      "id": "pDZwaP5Me-w",
+      "title": "They Didn't Give Him Candy",
+      "duration": 117,
+      "channel": {
+        "name": "Daily Dose Of Internet",
+        "id": "UCdC0An4ZPNr_YiFiYoVbwaw"
+      }
+    },
+    {
+      "id": "ulk0Z3gmWz4",
+      "title": "BULLIED DANCER'S 1 YEAR TRANSFORMATION!",
+      "duration": 359,
+      "channel": {
+        "name": "Matt Steffanina",
+        "id": "UCczFdwWpVEpoqb-eMm4c4dQ"
+      }
+    },
+    {
+      "id": "c38E-g67m3c",
+      "title": "Rumble is Earth Bending in VR and it's Exhausting",
+      "duration": 513,
+      "channel": {
+        "name": "habie147",
+        "id": "UC-FHoOa_jNSZy3IFctMEq2w"
+      }
+    },
+    {
+      "id": "HKVBvooZ2c8",
+      "title": "New Rule: Democracy's Deathbed | Real Time with Bill Maher (HBO)",
+      "duration": 474,
+      "channel": {
+        "name": "Real Time with Bill Maher",
+        "id": "UCy6kyFxaMqGtpE3pQTflK8A"
       }
     }
   ]
