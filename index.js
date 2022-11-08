@@ -106,8 +106,8 @@ var indexFile = require('./videos.json');
     
     const t5 = performance.now();
     console.log(`Downloaded search in ${msTmin(t5 - t4)} milliseconds.`);
-    const t3 = performance.now();
     */
+    const t3 = performance.now();
     console.log(`Downloaded trending in ${msTmin(t3 - t2)} milliseconds.`);
     if(!indexFile.videos) indexFile.videos = [];
     const allVideos = indexFile.videos.concat(data);
