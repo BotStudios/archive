@@ -1,6 +1,6 @@
 {
-  "totalSize": "373.1 MB",
-  "totalVideos": 112,
+  "totalSize": "387.5 MB",
+  "totalVideos": 116,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -1008,6 +1008,42 @@
       "channel": {
         "name": "Real Time with Bill Maher",
         "id": "UCy6kyFxaMqGtpE3pQTflK8A"
+      }
+    },
+    {
+      "id": "8Y6xXGiXiJw",
+      "title": "The Furniture Salesman that Saved Houston: Mattress Mack",
+      "duration": 434,
+      "channel": {
+        "name": "VICE",
+        "id": "UCn8zNIfYAQNdrFRrr8oibKw"
+      }
+    },
+    {
+      "id": "RSY6bWdSiVE",
+      "title": "SURPRISE!!",
+      "duration": 349,
+      "channel": {
+        "name": "Jen Smith",
+        "id": "UCqIqRzEge-Qvt4Iglx-uKdQ"
+      }
+    },
+    {
+      "id": "zf2HMJ43DZ4",
+      "title": "Why the US issued me a Purple Passport",
+      "duration": 544,
+      "channel": {
+        "name": "Luke Korns",
+        "id": "UCcDzewAE13qJXHbCmTPAT6A"
+      }
+    },
+    {
+      "id": "zCDIhq9nMBE",
+      "title": "The government approves of this shark now.",
+      "duration": 356,
+      "channel": {
+        "name": "Tom Scott",
+        "id": "UCBa659QWEk1AI4Tg--mrJ2A"
       }
     }
   ]
