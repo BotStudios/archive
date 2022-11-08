@@ -27,7 +27,7 @@ var indexFile = require('./videos.json');
         if(videos.includes(`${video.id}.mp4`)) return;
         if(downloaded.includes(video.id)) return;
         if((video.duration / 60 ) > maxDuration) return;
-        await ytdl(`https://www.youtube.com/watch?v=${video.id}`, { quality: 720 }).pipe(fs.createWriteStream(path.join(__dirname, 'videos', `${video.id}.mp4`)));
+        await ytdl(`https://www.youtube.com/watch?v=${video.id}`, { quality: 'lowestvideo' }).pipe(fs.createWriteStream(path.join(__dirname, 'videos', `${video.id}.mp4`)));
         downloaded.push(video.id);
         data.push({
             id: video.id,
@@ -56,7 +56,7 @@ var indexFile = require('./videos.json');
         if(videos.includes(`${video.id}.mp4`)) return;
         if(downloaded.includes(video.id)) return;
         if((video.duration / 60 ) > maxDuration) return;
-        await ytdl(`https://www.youtube.com/watch?v=${video.id}`, { quality: 720 }).pipe(fs.createWriteStream(path.join(__dirname, 'videos', `${video.id}.mp4`)));
+        await ytdl(`https://www.youtube.com/watch?v=${video.id}`, { quality: 'lowestvideo' }).pipe(fs.createWriteStream(path.join(__dirname, 'videos', `${video.id}.mp4`)));
         downloaded.push(video.id);
         data.push({
             id: video.id,
@@ -83,7 +83,7 @@ var indexFile = require('./videos.json');
             if(videos.includes(`${video.id}.mp4`)) return;
             if(downloaded.includes(video.id)) return;
             if((video.duration / 60 ) > maxDuration) return;
-            await ytdl(`https://www.youtube.com/watch?v=${video.id}`, { quality: 720 }).pipe(fs.createWriteStream(path.join(__dirname, 'videos', `${video.id}.mp4`)));
+            await ytdl(`https://www.youtube.com/watch?v=${video.id}`, { quality: 'lowestvideo' }).pipe(fs.createWriteStream(path.join(__dirname, 'videos', `${video.id}.mp4`)));
             downloaded.push(video.id);
             data.push({
                 id: video.id,
