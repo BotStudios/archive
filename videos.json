@@ -1,6 +1,6 @@
 {
-  "totalSize": "312.9 MB",
-  "totalVideos": 92,
+  "totalSize": "347.7 MB",
+  "totalVideos": 102,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -828,6 +828,96 @@
       "channel": {
         "name": "Guns N' Roses",
         "id": "UCIak6JLVOjqhStxrL1Lcytw"
+      }
+    },
+    {
+      "id": "2BxPQ6fg1LY",
+      "title": "When Young NBA Stars Tried TRASH TALKING Steph Curry",
+      "duration": 574,
+      "channel": {
+        "name": "Hoop Reports",
+        "id": "UCJ3u2OkwClq8-dxDVDa2fBg"
+      }
+    },
+    {
+      "id": "rApTzWboLrA",
+      "title": "The library of rare colors",
+      "duration": 313,
+      "channel": {
+        "name": "Tom Scott",
+        "id": "UCBa659QWEk1AI4Tg--mrJ2A"
+      }
+    },
+    {
+      "id": "UdgRUCVUts0",
+      "title": "The iPhone USB-C Law: Explained!",
+      "duration": 557,
+      "channel": {
+        "name": "Marques Brownlee",
+        "id": "UCBJycsmduvYEL83R_U4JriQ"
+      }
+    },
+    {
+      "id": "FiYiFxnPMUM",
+      "title": "White People are Banned from Seeing Black Panther: Wakanda Forever?!",
+      "duration": 571,
+      "channel": {
+        "name": "Tyrone Magnus",
+        "id": "UCs95gwav7frv5HTVqAGa7uQ"
+      }
+    },
+    {
+      "id": "EQnciL_Jt64",
+      "title": "Medical Emergencies Caught On Live TV",
+      "duration": 503,
+      "channel": {
+        "name": "Doctor Mike",
+        "id": "UC0QHWhjbe5fGJEPz3sVb6nw"
+      }
+    },
+    {
+      "id": "o0aucb4_V7I",
+      "title": "Baseball Mascots | Late Night with Conan O’Brien",
+      "duration": 324,
+      "channel": {
+        "name": "Conan O'Brien",
+        "id": "UCo3nWXH_6vVJ5-xbF3bKb3Q"
+      }
+    },
+    {
+      "id": "hPtH43VmvJI",
+      "title": "COVID Commercial - SNL",
+      "duration": 157,
+      "channel": {
+        "name": "Saturday Night Live",
+        "id": "UCqFzWxSCi39LnW1JKFR3efg"
+      }
+    },
+    {
+      "id": "KuNeC0vm0Mg",
+      "title": "Tom Brady leads GAME-WINNING DRIVE in less than 1 minute",
+      "duration": 239,
+      "channel": {
+        "name": "Highlight Heaven",
+        "id": "UCq0grzC77X9UZd9xngQRTjg"
+      }
+    },
+    {
+      "id": "2vA_rlm9Fqc",
+      "title": "If Your Chocolate Looks Dusty, This Is What It Is",
+      "duration": 505,
+      "channel": {
+        "name": "BRIGHT SIDE",
+        "id": "UC4rlAVgAK0SGk-yTfe48Qpw"
+      }
+    },
+    {
+      "id": "CdtmwGw5pVs",
+      "title": "How Cincinnati Bengals WR Ja'Marr Chase Spent His First $1M | My First Million | GQ Sports",
+      "duration": 539,
+      "channel": {
+        "name": "GQ Sports",
+        "id": "UCKbNOpmhmwBuJXXMYOg_txA"
       }
     }
   ]
