@@ -1,5 +1,15 @@
 {
-  "totalSize": "4.0 KB",
-  "totalVideos": 0,
-  "videos": []
+  "totalSize": "4.9 MB",
+  "totalVideos": 1,
+  "videos": [
+    {
+      "id": "4c_CvOey-BM",
+      "title": "Companies follow Twitter and fire staff",
+      "duration": 81,
+      "channel": {
+        "name": "Sky News Australia",
+        "id": "UCO0akufu9MOzyz3nvGIXAAw"
+      }
+    }
+  ]
 }
