@@ -1,6 +1,6 @@
 {
-  "totalSize": "4.9 MB",
-  "totalVideos": 1,
+  "totalSize": "6.2 MB",
+  "totalVideos": 2,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -9,6 +9,15 @@
       "channel": {
         "name": "Sky News Australia",
         "id": "UCO0akufu9MOzyz3nvGIXAAw"
+      }
+    },
+    {
+      "id": "EocJm3Dry4E",
+      "title": "The US-Canada border splits this road down the middle",
+      "duration": 175,
+      "channel": {
+        "name": "Tom Scott",
+        "id": "UCBa659QWEk1AI4Tg--mrJ2A"
       }
     }
   ]
