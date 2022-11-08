@@ -77,7 +77,7 @@ var indexFile = require('./videos.json');
     const t4 = performance.now();
     customSearch.forEach(async e => {
         try {
-        const info = await search.search(e, { limit: 20 });
+        const info = await search.search(e, { limit: 50 });
         info.forEach(async (video) => {
             try {
             if(videos.includes(`${video.id}.mp4`)) return;
