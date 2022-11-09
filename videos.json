@@ -1,8 +1,8 @@
 {
   "totalSize": "1.0 GB",
-  "totalVideoSize": "994.9 MB",
-  "totalAudioSize": "74.7 MB",
-  "totalVideos": 306,
+  "totalVideoSize": "996.8 MB",
+  "totalAudioSize": "76.4 MB",
+  "totalVideos": 307,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -2756,6 +2756,15 @@
       "channel": {
         "name": "Boxoffice Movie Scenes",
         "id": "UCfk4Df9QxO267wlFbStSyAw"
+      }
+    },
+    {
+      "id": "k2qgadSvNyU",
+      "title": "Dua Lipa - New Rules (Official Music Video)",
+      "duration": 225,
+      "channel": {
+        "name": "Dua Lipa",
+        "id": "UC-J-KZfRV8c13fOCkhXdLiQ"
       }
     }
   ]
