@@ -1,8 +1,8 @@
 {
-  "totalSize": "1.0 GB",
-  "totalVideoSize": "996.8 MB",
-  "totalAudioSize": "76.4 MB",
-  "totalVideos": 307,
+  "totalSize": "1.1 GB",
+  "totalVideoSize": "998.1 MB",
+  "totalAudioSize": "80.0 MB",
+  "totalVideos": 308,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -2765,6 +2765,15 @@
       "channel": {
         "name": "Dua Lipa",
         "id": "UC-J-KZfRV8c13fOCkhXdLiQ"
+      }
+    },
+    {
+      "id": "v056B-LchHk",
+      "title": "Here are some of the major takeaways from Election Night",
+      "duration": 124,
+      "channel": {
+        "name": "Fox News",
+        "id": "UCXIJgqnII2ZOINSWNOGFThA"
       }
     }
   ]
