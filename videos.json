@@ -1,8 +1,8 @@
 {
   "totalSize": "1.1 GB",
-  "totalVideoSize": "1004.8 MB",
-  "totalAudioSize": "91.9 MB",
-  "totalVideos": 312,
+  "totalVideoSize": "1006.8 MB",
+  "totalAudioSize": "94.9 MB",
+  "totalVideos": 313,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -2810,6 +2810,15 @@
       "channel": {
         "name": "Live Speedy",
         "id": "UC2bW_AY9BlbYLGJSXAbjS4Q"
+      }
+    },
+    {
+      "id": "Mmg8rIYRIsA",
+      "title": "Joe: You Can't Overstate How Historic Last Night's Win Was",
+      "duration": 202,
+      "channel": {
+        "name": "MSNBC",
+        "id": "UCaXkIU1QidjPwiAYu6GcHjg"
       }
     }
   ]
