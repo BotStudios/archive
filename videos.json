@@ -1,6 +1,6 @@
 {
-  "totalSize": "959.4 MB",
-  "totalVideos": 296,
+  "totalSize": "967.8 MB",
+  "totalVideos": 299,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -2664,6 +2664,33 @@
       "channel": {
         "name": "Ice Cream Sandwich",
         "id": "UCOsATJw-IZgqGT8MFrHjKGg"
+      }
+    },
+    {
+      "id": "URQdyQoNZZw",
+      "title": "Subtropical Storm Nicole Strengthening As It Heads Toward Florida",
+      "duration": 192,
+      "channel": {
+        "name": "FOX Weather",
+        "id": "UC1FbPiXx59_ltnFVx7IxWow"
+      }
+    },
+    {
+      "id": "S7fAsYHntH8",
+      "title": "Honest Trailers | House of the Dragon",
+      "duration": 378,
+      "channel": {
+        "name": "Screen Junkies",
+        "id": "UCOpcACMWblDls9Z6GERVi1A"
+      }
+    },
+    {
+      "id": "sQILMCWbmsY",
+      "title": "Brit Hume analyzes the potential outcome of midterms",
+      "duration": 473,
+      "channel": {
+        "name": "Fox Business",
+        "id": "UCCXoCcu9Rp7NPbTzIvogpZg"
       }
     }
   ]
