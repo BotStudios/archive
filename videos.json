@@ -1,6 +1,8 @@
 {
-  "totalSize": "978.2 MB",
-  "totalVideos": 301,
+  "totalSize": "1.0 GB",
+  "totalVideoSize": "991.8 MB",
+  "totalAudioSize": "53.2 MB",
+  "totalVideos": 304,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -2709,6 +2711,33 @@
       "channel": {
         "name": "SSSniperWolf",
         "id": "UCpB959t8iPrxQWj7G6n0ctQ"
+      }
+    },
+    {
+      "id": "yyGa3f26r1g",
+      "title": "How Everyday Things Are Made",
+      "duration": 589,
+      "channel": {
+        "name": "SSSniperWolf",
+        "id": "UCpB959t8iPrxQWj7G6n0ctQ"
+      }
+    },
+    {
+      "id": "r34KwZzUmV8",
+      "title": "How To Learn Anything, Anywhere - Elon Musk",
+      "duration": 455,
+      "channel": {
+        "name": "DB Business",
+        "id": "UC1xLA4Ydt0csftFL5Z31drA"
+      }
+    },
+    {
+      "id": "_jXQNyqFj9I",
+      "title": "Hobbies",
+      "duration": 535,
+      "channel": {
+        "name": "TheOdd1sOut",
+        "id": "UCo8bcnLyZH8tBIH9V1mLgqQ"
       }
     }
   ]
