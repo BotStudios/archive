@@ -16,6 +16,7 @@ const index = [];
 var indexFile = require('./videos.json');
 
 async function downloadVideo(video) {
+    try {
     await ytdl(`${video.url}`, { quality: 'lowestvideo' }).pipe(fs.createWriteStream(path.join(__dirname, 'videos', `${video.id}.mp4`)));
     const stream = ytdl(`${video?.url}`, { filter: 'audioonly' });
     const file = fs.createWriteStream(`./audio/${video?.id}.mp3`);
@@ -32,6 +33,7 @@ async function downloadVideo(video) {
             id: video.channel.id
         }
    })
+    }catch(e) {console.log(e)}
 }
 
 (async() => {
