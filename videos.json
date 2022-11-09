@@ -1,8 +1,8 @@
 {
   "totalSize": "1.1 GB",
-  "totalVideoSize": "1008.2 MB",
-  "totalAudioSize": "100.7 MB",
-  "totalVideos": 315,
+  "totalVideoSize": "1009.7 MB",
+  "totalAudioSize": "105.2 MB",
+  "totalVideos": 317,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -2837,6 +2837,24 @@
       "channel": {
         "name": "FRANCE 24 English",
         "id": "UCQfwfsi5VrQ8yKZ-UWmAEFg"
+      }
+    },
+    {
+      "id": "TYGamNqOBJw",
+      "title": "LOCKED OUT: Fresno family forced out due to real estate scam",
+      "duration": 216,
+      "channel": {
+        "name": "CBS47 KSEE24",
+        "id": "UCBjofXtZArg9QSuzOWwbflw"
+      }
+    },
+    {
+      "id": "fGUNX4z-Nuo",
+      "title": "Democrats fend off 'red wave' in midterm elections l GMA",
+      "duration": 273,
+      "channel": {
+        "name": "Good Morning America",
+        "id": "UCH1oRy1dINbMVp3UFWrKP0w"
       }
     }
   ]
