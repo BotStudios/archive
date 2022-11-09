@@ -103,6 +103,7 @@ async function downloadVideo(video) {
         index.push(allVideos.slice(i, i + 20));
     }
     getSize('./videos', async (err, size) => {
+    getSize('./audio', async (err, size2) => {
     index.forEach((e, i) => {
         fs.writeFileSync(`./index/index-${i}.json`, JSON.stringify({
           page: i,
@@ -110,10 +111,11 @@ async function downloadVideo(video) {
           totalPages: index.length
       }));
     })
-    fs.writeFileSync('./videos.json', JSON.stringify({ totalSize: bts(size), totalVideos: allVideos.length, videos: allVideos  }, null, 2));
+    fs.writeFileSync('./videos.json', JSON.stringify({ totalSize: bts(size + size2), totalVideoSize: bts(size), totalAudioSize: bts(size2), totalVideos: allVideos.length, videos: allVideos  }, null, 2));
     const tEnd = performance.now();
     console.log(`Done in ${msTmin(tEnd - t)} milliseconds.`);
     console.log(`Total size of videos: ${bts(size)}`);
+    });
     });
 })();
 
