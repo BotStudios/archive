@@ -1,6 +1,6 @@
 {
-  "totalSize": "958.7 MB",
-  "totalVideos": 294,
+  "totalSize": "959.4 MB",
+  "totalVideos": 296,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -2646,6 +2646,24 @@
       "channel": {
         "name": "Beast Philanthropy",
         "id": "UCAiLfjNXkNv24uhpzUgPa6A"
+      }
+    },
+    {
+      "id": "A9XVJi1dsSw",
+      "title": "Midterm elections: Republicans expected to take control of the House",
+      "duration": 425,
+      "channel": {
+        "name": "Yahoo Finance",
+        "id": "UCEAZeUIeJs0IjQiqTCdVSIg"
+      }
+    },
+    {
+      "id": "i8nqsIIFp2o",
+      "title": "getting sick",
+      "duration": 333,
+      "channel": {
+        "name": "Ice Cream Sandwich",
+        "id": "UCOsATJw-IZgqGT8MFrHjKGg"
       }
     }
   ]
