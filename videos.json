@@ -1,6 +1,6 @@
 {
-  "totalSize": "967.8 MB",
-  "totalVideos": 299,
+  "totalSize": "978.2 MB",
+  "totalVideos": 301,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -2691,6 +2691,24 @@
       "channel": {
         "name": "Fox Business",
         "id": "UCCXoCcu9Rp7NPbTzIvogpZg"
+      }
+    },
+    {
+      "id": "0O1l8uKzmCY",
+      "title": "Fetterman Defeats Oz In PA Senate Race, Praised For Performance After Stroke",
+      "duration": 518,
+      "channel": {
+        "name": "MSNBC",
+        "id": "UCaXkIU1QidjPwiAYu6GcHjg"
+      }
+    },
+    {
+      "id": "jJJ84tVpj0Q",
+      "title": "How Everyday Objects Are Made",
+      "duration": 580,
+      "channel": {
+        "name": "SSSniperWolf",
+        "id": "UCpB959t8iPrxQWj7G6n0ctQ"
       }
     }
   ]
