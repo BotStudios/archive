@@ -8,12 +8,31 @@ const ytdl = require('ytdl-core');
 const search = require("youtube-sr").default;
 const fs = require('fs');
 const path = require('path');
+const ffmpeg = require('fluent-ffmpeg');
 const videos = fs.readdirSync('./videos').filter(file => file.endsWith('.mp4'));
 const downloaded = [];
 const data = [];
 const index = [];
 var indexFile = require('./videos.json');
 
+async function downloadVideo(video) {
+    await ytdl(`${video.url}`, { quality: 'lowestvideo' }).pipe(fs.createWriteStream(path.join(__dirname, 'videos', `${video.id}.mp4`)));
+    const stream = ytdl(`${video?.url}`, { filter: 'audioonly' });
+    const file = fs.createWriteStream(`./audio/${video?.id}.mp3`);
+    ffmpeg(stream)
+        .format('mp3') 
+        .save(file);
+    downloaded.push(video.id);
+    data.push({
+        id: video.id,
+        title: video.title,
+        duration: video.duration,
+        channel: {
+            name: video.channel.name,
+            id: video.channel.id
+        }
+   })
+}
 
 (async() => {
     //download homepage
@@ -27,17 +46,7 @@ var indexFile = require('./videos.json');
         if(videos.includes(`${video.id}.mp4`)) return;
         if(downloaded.includes(video.id)) return;
         if((video.duration / 60 ) > maxDuration) return;
-        await ytdl(`https://www.youtube.com/watch?v=${video.id}`, { quality: 'lowestvideo' }).pipe(fs.createWriteStream(path.join(__dirname, 'videos', `${video.id}.mp4`)));
-        downloaded.push(video.id);
-        data.push({
-            id: video.id,
-            title: video.title,
-            duration: video.duration,
-            channel: {
-                name: video.channel.name,
-                id: video.channel.id
-            }
-        })
+        await downloadVideo(video);
         } catch (e) {
             console.log(e);
         }
@@ -56,17 +65,7 @@ var indexFile = require('./videos.json');
         if(videos.includes(`${video.id}.mp4`)) return;
         if(downloaded.includes(video.id)) return;
         if((video.duration / 60 ) > maxDuration) return;
-        await ytdl(`https://www.youtube.com/watch?v=${video.id}`, { quality: 'lowestvideo' }).pipe(fs.createWriteStream(path.join(__dirname, 'videos', `${video.id}.mp4`)));
-        downloaded.push(video.id);
-        data.push({
-            id: video.id,
-            title: video.title,
-            duration: video.duration,
-            channel: {
-                name: video.channel.name,
-                id: video.channel.id
-            }
-        })
+        await downloadVideo(video);
         } catch (e) {
             console.log(e);
         }
@@ -83,17 +82,7 @@ var indexFile = require('./videos.json');
             if(videos.includes(`${video.id}.mp4`)) return;
             if(downloaded.includes(video.id)) return;
             if((video.duration / 60 ) > maxDuration) return;
-            await ytdl(`https://www.youtube.com/watch?v=${video.id}`, { quality: 'lowestvideo' }).pipe(fs.createWriteStream(path.join(__dirname, 'videos', `${video.id}.mp4`)));
-            downloaded.push(video.id);
-            data.push({
-                id: video.id,
-                title: video.title,
-                duration: video.duration,
-                channel: {
-                    name: video.channel.name,
-                    id: video.channel.id
-                }
-        })
+            await downloadVideo(video);
         } catch (e) {
             console.log(e);
         }
