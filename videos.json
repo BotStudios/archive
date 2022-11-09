@@ -1,8 +1,8 @@
 {
   "totalSize": "1.1 GB",
   "totalVideoSize": "1006.8 MB",
-  "totalAudioSize": "94.9 MB",
-  "totalVideos": 313,
+  "totalAudioSize": "98.1 MB",
+  "totalVideos": 314,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -2819,6 +2819,15 @@
       "channel": {
         "name": "MSNBC",
         "id": "UCaXkIU1QidjPwiAYu6GcHjg"
+      }
+    },
+    {
+      "id": "CBFbKMU4DjA",
+      "title": "FORECAST: An *ALERT* for heavy rain & a gusty wind heading into the weekend!",
+      "duration": 225,
+      "channel": {
+        "name": "WFSB 3",
+        "id": "UCByGc7P_siORkC1pum8T3_Q"
       }
     }
   ]
