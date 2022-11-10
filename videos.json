@@ -1,8 +1,8 @@
 {
   "totalSize": "1.3 GB",
   "totalVideoSize": "1.0 GB",
-  "totalAudioSize": "240.7 MB",
-  "totalVideos": 360,
+  "totalAudioSize": "242.8 MB",
+  "totalVideos": 361,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -3242,6 +3242,15 @@
       "channel": {
         "name": "The Daily Show with Trevor Noah",
         "id": "UCwWhs_6x42TyRM4Wstoq8HA"
+      }
+    },
+    {
+      "id": "ew-MwjCC19c",
+      "title": "Hundred of migrants released on streets of El Paso but their not Venezuelans",
+      "duration": 136,
+      "channel": {
+        "name": "KTSM 9 NEWS",
+        "id": "UCmZJz1J64RD7Ur7tI09s-FA"
       }
     }
   ]
