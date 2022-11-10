@@ -1,8 +1,8 @@
 {
-  "totalSize": "1.1 GB",
+  "totalSize": "1.2 GB",
   "totalVideoSize": "1.0 GB",
-  "totalAudioSize": "145.2 MB",
-  "totalVideos": 329,
+  "totalAudioSize": "150.5 MB",
+  "totalVideos": 330,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -2963,6 +2963,15 @@
       "channel": {
         "name": "9NEWS",
         "id": "UC72nbKQLSDyiSARhg0Ywj4w"
+      }
+    },
+    {
+      "id": "KAUj_lgTEDg",
+      "title": "The red wave that wasn't | Breaking down the midterm election results",
+      "duration": 213,
+      "channel": {
+        "name": "CBS 8 San Diego",
+        "id": "UCMscWako8oDvpdF4pppku-g"
       }
     }
   ]
