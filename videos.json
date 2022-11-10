@@ -1,8 +1,8 @@
 {
   "totalSize": "1.2 GB",
   "totalVideoSize": "1.0 GB",
-  "totalAudioSize": "157.2 MB",
-  "totalVideos": 333,
+  "totalAudioSize": "160.8 MB",
+  "totalVideos": 335,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -2999,6 +2999,24 @@
       "channel": {
         "name": "Itsdanielmac",
         "id": "UCYRg9w3AfuRCKfh4JcDp8xw"
+      }
+    },
+    {
+      "id": "Wpii7t26aZU",
+      "title": "I Am Vanessa Guillen | Official Trailer | Netflix",
+      "duration": 142,
+      "channel": {
+        "name": "Netflix",
+        "id": "UCWOA1ZGywLbqmigxE4Qlvuw"
+      }
+    },
+    {
+      "id": "Qp0Z0VwBky4",
+      "title": "Jacob Tremblay SHOCKS Fans With Grown-Up Red Carpet Throwback | E! News",
+      "duration": 95,
+      "channel": {
+        "name": "E! News",
+        "id": "UCjDsbbzHgTrGc4Ff26TJtsA"
       }
     }
   ]
