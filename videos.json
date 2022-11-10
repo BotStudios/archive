@@ -1,8 +1,8 @@
 {
   "totalSize": "1.2 GB",
   "totalVideoSize": "1.0 GB",
-  "totalAudioSize": "160.8 MB",
-  "totalVideos": 335,
+  "totalAudioSize": "162.1 MB",
+  "totalVideos": 336,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -3017,6 +3017,15 @@
       "channel": {
         "name": "E! News",
         "id": "UCjDsbbzHgTrGc4Ff26TJtsA"
+      }
+    },
+    {
+      "id": "SXrcyqCPu4E",
+      "title": "Rod Wave - Break My Heart (Official Video)",
+      "duration": 182,
+      "channel": {
+        "name": "RodWave",
+        "id": "UCenjunBhBhvKjfDAESnoppw"
       }
     }
   ]
