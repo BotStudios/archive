@@ -1,8 +1,8 @@
 {
   "totalSize": "1.2 GB",
   "totalVideoSize": "1.0 GB",
-  "totalAudioSize": "174.6 MB",
-  "totalVideos": 339,
+  "totalAudioSize": "176.2 MB",
+  "totalVideos": 340,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -3053,6 +3053,15 @@
       "channel": {
         "name": "Psych2Go",
         "id": "UCkJEpR7JmS36tajD34Gp4VA"
+      }
+    },
+    {
+      "id": "RxHTaTmPlwQ",
+      "title": "Seeing Cell Division Like Never Before",
+      "duration": 110,
+      "channel": {
+        "name": "Harvard Medical School",
+        "id": "UCjG-bUhM813LndEDNOJNCcw"
       }
     }
   ]
