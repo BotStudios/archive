@@ -1,8 +1,8 @@
 {
   "totalSize": "1.2 GB",
   "totalVideoSize": "1.0 GB",
-  "totalAudioSize": "154.3 MB",
-  "totalVideos": 331,
+  "totalAudioSize": "155.2 MB",
+  "totalVideos": 332,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -2981,6 +2981,15 @@
       "channel": {
         "name": "Steve Lacy",
         "id": "UCRt1A0W4iZfvsOhAH1yft2Q"
+      }
+    },
+    {
+      "id": "vTeI_z3Cdo4",
+      "title": "1.3 Tons of Cocaine Found Floating in the Ocean",
+      "duration": 62,
+      "channel": {
+        "name": "Inside Edition",
+        "id": "UC9k-yiEpRHMNVOnOi_aQK8w"
       }
     }
   ]
