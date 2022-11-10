@@ -1,8 +1,8 @@
 {
   "totalSize": "1.3 GB",
   "totalVideoSize": "1.0 GB",
-  "totalAudioSize": "237.0 MB",
-  "totalVideos": 359,
+  "totalAudioSize": "240.7 MB",
+  "totalVideos": 360,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -3233,6 +3233,15 @@
       "channel": {
         "name": "Jimmy Kimmel Live",
         "id": "UCa6vGFO9ty8v5KZJXQxdhaw"
+      }
+    },
+    {
+      "id": "WTmgw3AI3vM",
+      "title": "Four States Reject Slavery & Louisiana Votes to Keep It | The Daily Show",
+      "duration": 246,
+      "channel": {
+        "name": "The Daily Show with Trevor Noah",
+        "id": "UCwWhs_6x42TyRM4Wstoq8HA"
       }
     }
   ]
