@@ -1,8 +1,8 @@
 {
   "totalSize": "1.4 GB",
   "totalVideoSize": "1.1 GB",
-  "totalAudioSize": "318.8 MB",
-  "totalVideos": 384,
+  "totalAudioSize": "320.4 MB",
+  "totalVideos": 385,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -3458,6 +3458,15 @@
       "channel": {
         "name": "Throw Back TV",
         "id": "UCkqaNJOo0l3DMNiwYfEWViQ"
+      }
+    },
+    {
+      "id": "Ub9sjsL0zHM",
+      "title": "Woman wakes up to a new dog sitting on patio furniture | GMA",
+      "duration": 177,
+      "channel": {
+        "name": "Good Morning America",
+        "id": "UCH1oRy1dINbMVp3UFWrKP0w"
       }
     }
   ]
