@@ -1,8 +1,8 @@
 {
   "totalSize": "1.4 GB",
   "totalVideoSize": "1.1 GB",
-  "totalAudioSize": "297.1 MB",
-  "totalVideos": 378,
+  "totalAudioSize": "299.9 MB",
+  "totalVideos": 379,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -3401,6 +3401,15 @@
       "id": "IEPhMX6GYfM",
       "title": "Police Dog Turns Into Giant Mush Around His Baby Sister | The Dodo",
       "duration": 192,
+      "channel": {
+        "name": "The Dodo",
+        "id": "UCINb0wqPz-A0dV9nARjJlOQ"
+      }
+    },
+    {
+      "id": "Xksk04FKEWU",
+      "title": "Baby Grows Up With His 125-Pound Dog | The Dodo Soulmates",
+      "duration": 274,
       "channel": {
         "name": "The Dodo",
         "id": "UCINb0wqPz-A0dV9nARjJlOQ"
