@@ -1,8 +1,8 @@
 {
   "totalSize": "1.4 GB",
   "totalVideoSize": "1.1 GB",
-  "totalAudioSize": "291.0 MB",
-  "totalVideos": 376,
+  "totalAudioSize": "295.5 MB",
+  "totalVideos": 378,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -3386,6 +3386,24 @@
       "channel": {
         "name": "Tom Scott",
         "id": "UCBa659QWEk1AI4Tg--mrJ2A"
+      }
+    },
+    {
+      "id": "EwCUriaBPC8",
+      "title": "Kitten Is Obsessed with Pittie Brothers | The Dodo Odd Couples",
+      "duration": 209,
+      "channel": {
+        "name": "The Dodo",
+        "id": "UCINb0wqPz-A0dV9nARjJlOQ"
+      }
+    },
+    {
+      "id": "IEPhMX6GYfM",
+      "title": "Police Dog Turns Into Giant Mush Around His Baby Sister | The Dodo",
+      "duration": 192,
+      "channel": {
+        "name": "The Dodo",
+        "id": "UCINb0wqPz-A0dV9nARjJlOQ"
       }
     }
   ]
