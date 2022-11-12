@@ -1,8 +1,8 @@
 {
   "totalSize": "1.5 GB",
   "totalVideoSize": "1.1 GB",
-  "totalAudioSize": "403.5 MB",
-  "totalVideos": 415,
+  "totalAudioSize": "408.2 MB",
+  "totalVideos": 417,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -3734,6 +3734,24 @@
       "id": "-HdL8fzAEnY",
       "title": "'It's just ridiculous': Van Jones reacts to Graham's emotional plea on Fox",
       "duration": 242,
+      "channel": {
+        "name": "CNN",
+        "id": "UCupvZG-5ko_eiXAupbDfxWw"
+      }
+    },
+    {
+      "id": "Jkj36B1YuDU",
+      "title": "Tom Odell - Another Love (Lyrics)",
+      "duration": 242,
+      "channel": {
+        "name": "7clouds",
+        "id": "UCNqFDjYTexJDET3rPDrmJKg"
+      }
+    },
+    {
+      "id": "xGZhcaxF4l4",
+      "title": "Field tool for female Ukrainian soldiers amazes Amanpour",
+      "duration": 233,
       "channel": {
         "name": "CNN",
         "id": "UCupvZG-5ko_eiXAupbDfxWw"
