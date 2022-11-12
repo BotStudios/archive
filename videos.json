@@ -1,8 +1,8 @@
 {
   "totalSize": "1.5 GB",
   "totalVideoSize": "1.1 GB",
-  "totalAudioSize": "399.8 MB",
-  "totalVideos": 414,
+  "totalAudioSize": "403.5 MB",
+  "totalVideos": 415,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -3728,6 +3728,15 @@
       "channel": {
         "name": "GTV NETWORK HD",
         "id": "UC6XLG5YjZfK1p5oY5MJ3NMw"
+      }
+    },
+    {
+      "id": "-HdL8fzAEnY",
+      "title": "'It's just ridiculous': Van Jones reacts to Graham's emotional plea on Fox",
+      "duration": 242,
+      "channel": {
+        "name": "CNN",
+        "id": "UCupvZG-5ko_eiXAupbDfxWw"
       }
     }
   ]
