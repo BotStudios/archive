@@ -1,8 +1,8 @@
 {
   "totalSize": "1.6 GB",
   "totalVideoSize": "1.1 GB",
-  "totalAudioSize": "430.8 MB",
-  "totalVideos": 425,
+  "totalAudioSize": "434.5 MB",
+  "totalVideos": 426,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -3827,6 +3827,15 @@
       "channel": {
         "name": "Worthikids",
         "id": "UCxXu9tCU63mF1ntk89XPkzA"
+      }
+    },
+    {
+      "id": "OjlWDNhaThQ",
+      "title": "Songs you shouldn't play at a funeral",
+      "duration": 86,
+      "channel": {
+        "name": "Elise Ecklund",
+        "id": "UCUsCq3Hq5haa6tTph41hpJQ"
       }
     }
   ]
