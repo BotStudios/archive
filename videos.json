@@ -1,8 +1,8 @@
 {
   "totalSize": "1.5 GB",
   "totalVideoSize": "1.1 GB",
-  "totalAudioSize": "410.7 MB",
-  "totalVideos": 417,
+  "totalAudioSize": "412.9 MB",
+  "totalVideos": 418,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -3755,6 +3755,15 @@
       "channel": {
         "name": "CNN",
         "id": "UCupvZG-5ko_eiXAupbDfxWw"
+      }
+    },
+    {
+      "id": "PmNyNJFCugo",
+      "title": "Rush - Tom Sawyer (Bass Cover)",
+      "duration": 291,
+      "channel": {
+        "name": "EllenPlaysBass",
+        "id": "UCvrmr8Nfd86dG7pnSHC7c6Q"
       }
     }
   ]
