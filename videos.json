@@ -1,8 +1,8 @@
 {
   "totalSize": "1.5 GB",
   "totalVideoSize": "1.1 GB",
-  "totalAudioSize": "415.1 MB",
-  "totalVideos": 418,
+  "totalAudioSize": "415.6 MB",
+  "totalVideos": 419,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -3764,6 +3764,15 @@
       "channel": {
         "name": "EllenPlaysBass",
         "id": "UCvrmr8Nfd86dG7pnSHC7c6Q"
+      }
+    },
+    {
+      "id": "ELyvzNBHWdI",
+      "title": "Trump sues Jan. 6 committee to block subpoena for documents, testimony",
+      "duration": 34,
+      "channel": {
+        "name": "6abc Philadelphia",
+        "id": "UCw77677G3EAODp61b0izs7w"
       }
     }
   ]
