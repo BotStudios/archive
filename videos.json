@@ -1,8 +1,8 @@
 {
   "totalSize": "1.6 GB",
   "totalVideoSize": "1.1 GB",
-  "totalAudioSize": "436.9 MB",
-  "totalVideos": 427,
+  "totalAudioSize": "439.7 MB",
+  "totalVideos": 428,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -3845,6 +3845,15 @@
       "channel": {
         "name": "Jeremy Schaefer",
         "id": "UCLj37zddo5xAI87lbLVPfIA"
+      }
+    },
+    {
+      "id": "PFuDlpO-zVU",
+      "title": "The Evolution Of GHOSTFACE/SCREAM (Animated)",
+      "duration": 289,
+      "channel": {
+        "name": "Tell It Animated",
+        "id": "UCgb5Cb71XvKXT5V1d2ORVmg"
       }
     }
   ]
