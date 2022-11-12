@@ -1,8 +1,8 @@
 {
   "totalSize": "1.5 GB",
   "totalVideoSize": "1.1 GB",
-  "totalAudioSize": "376.9 MB",
-  "totalVideos": 405,
+  "totalAudioSize": "382.8 MB",
+  "totalVideos": 407,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -3647,6 +3647,24 @@
       "channel": {
         "name": "Psych2Go",
         "id": "UCkJEpR7JmS36tajD34Gp4VA"
+      }
+    },
+    {
+      "id": "kpSdxE0DhC4",
+      "title": "'A dramatic shift': John King breaks down latest Nevada Senate numbers",
+      "duration": 245,
+      "channel": {
+        "name": "CNN",
+        "id": "UCupvZG-5ko_eiXAupbDfxWw"
+      }
+    },
+    {
+      "id": "XoY9FdALJAM",
+      "title": "\"I'm gonna kill each and everyone of you\" | The Equalizer 2 | CLIP 🔥 4K",
+      "duration": 201,
+      "channel": {
+        "name": "Boxoffice Movie Scenes",
+        "id": "UCfk4Df9QxO267wlFbStSyAw"
       }
     }
   ]
