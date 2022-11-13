@@ -1,8 +1,8 @@
 {
   "totalSize": "1.6 GB",
   "totalVideoSize": "1.2 GB",
-  "totalAudioSize": "480.1 MB",
-  "totalVideos": 444,
+  "totalAudioSize": "486.4 MB",
+  "totalVideos": 445,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -3998,6 +3998,15 @@
       "channel": {
         "name": "Taylor Swift",
         "id": "UCqECaJ8Gagnn7YCbPEzWH6g"
+      }
+    },
+    {
+      "id": "hD-cDkTp9YQ",
+      "title": "Advocates call for more veteran mental health support",
+      "duration": 171,
+      "channel": {
+        "name": "CBC Vancouver",
+        "id": "UCiKE6mqbKmGGlNAtccn04MA"
       }
     }
   ]
