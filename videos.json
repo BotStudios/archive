@@ -1,8 +1,8 @@
 {
   "totalSize": "1.6 GB",
   "totalVideoSize": "1.1 GB",
-  "totalAudioSize": "463.2 MB",
-  "totalVideos": 437,
+  "totalAudioSize": "466.6 MB",
+  "totalVideos": 439,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -3935,6 +3935,24 @@
       "channel": {
         "name": "ABC 7 Chicago",
         "id": "UC_vFLohxs5PkAxlk7Y6jEtw"
+      }
+    },
+    {
+      "id": "r7OZf0NnHLU",
+      "title": "Wings over Dallas Mid-Air Collision.",
+      "duration": 102,
+      "channel": {
+        "name": "blancolirio",
+        "id": "UCphqjYZxxzjNbONVmY-0J7Q"
+      }
+    },
+    {
+      "id": "1d-OnnqWlcc",
+      "title": "Democrats Win In Nevada, Maintain Control Of Senate",
+      "duration": 120,
+      "channel": {
+        "name": "MSNBC",
+        "id": "UCaXkIU1QidjPwiAYu6GcHjg"
       }
     }
   ]
