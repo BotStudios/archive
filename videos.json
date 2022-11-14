@@ -1,8 +1,8 @@
 {
   "totalSize": "1.8 GB",
   "totalVideoSize": "1.2 GB",
-  "totalAudioSize": "601.0 MB",
-  "totalVideos": 486,
+  "totalAudioSize": "604.3 MB",
+  "totalVideos": 487,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -4376,6 +4376,15 @@
       "channel": {
         "name": "Phoenix SC",
         "id": "UCj4zC1Hfj-uc90FUXzRamNw"
+      }
+    },
+    {
+      "id": "zqn_lr1prD0",
+      "title": "Pawn Stars Do America: 1st Edition Harry Potter Conjures Massive Cash (Season 1)",
+      "duration": 253,
+      "channel": {
+        "name": "Pawn Stars",
+        "id": "UCmyjVwYZbp5YPYTUyeopO2g"
       }
     }
   ]
