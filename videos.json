@@ -1,8 +1,8 @@
 {
   "totalSize": "1.8 GB",
   "totalVideoSize": "1.2 GB",
-  "totalAudioSize": "619.5 MB",
-  "totalVideos": 492,
+  "totalAudioSize": "622.2 MB",
+  "totalVideos": 493,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -4430,6 +4430,15 @@
       "channel": {
         "name": "vlogbrothers",
         "id": "UCGaVdbSav8xWuFWTadK6loA"
+      }
+    },
+    {
+      "id": "I0LBeNbbpJI",
+      "title": "UVA shooting suspect arrested after 3 killed, 2 injured in campus shooting",
+      "duration": 215,
+      "channel": {
+        "name": "WUSA9",
+        "id": "UCcT6w3xUyVshyR2_2vrMp1w"
       }
     }
   ]
