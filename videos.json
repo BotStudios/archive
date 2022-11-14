@@ -1,8 +1,8 @@
 {
   "totalSize": "1.8 GB",
   "totalVideoSize": "1.2 GB",
-  "totalAudioSize": "566.0 MB",
-  "totalVideos": 473,
+  "totalAudioSize": "567.4 MB",
+  "totalVideos": 474,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -4259,6 +4259,15 @@
       "channel": {
         "name": "Steven He",
         "id": "UCP0_k4INXrwPS6HhIyYqsTg"
+      }
+    },
+    {
+      "id": "RorGBaK2XUI",
+      "title": "3 killed, 2 wounded in shooting at University of Virginia",
+      "duration": 91,
+      "channel": {
+        "name": "WPLG Local 10",
+        "id": "UCgVZ0mrM3liHNhRYC5Mchgg"
       }
     }
   ]
