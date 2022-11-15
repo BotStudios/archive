@@ -1,8 +1,8 @@
 {
   "totalSize": "1.9 GB",
   "totalVideoSize": "1.2 GB",
-  "totalAudioSize": "639.2 MB",
-  "totalVideos": 498,
+  "totalAudioSize": "642.3 MB",
+  "totalVideos": 499,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -4484,6 +4484,15 @@
       "channel": {
         "name": "MSNBC",
         "id": "UCaXkIU1QidjPwiAYu6GcHjg"
+      }
+    },
+    {
+      "id": "6nd4BxdLbBM",
+      "title": "Big Tone Ft. Berner - Krazy (Official Music Video)",
+      "duration": 190,
+      "channel": {
+        "name": "StewyFilms",
+        "id": "UCClAC9K4Qb6k3a2Ksh3Bb3w"
       }
     }
   ]
