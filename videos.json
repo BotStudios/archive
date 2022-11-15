@@ -1,8 +1,8 @@
 {
   "totalSize": "1.9 GB",
   "totalVideoSize": "1.2 GB",
-  "totalAudioSize": "661.5 MB",
-  "totalVideos": 506,
+  "totalAudioSize": "662.4 MB",
+  "totalVideos": 507,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -4556,6 +4556,15 @@
       "channel": {
         "name": "Duke Basketball",
         "id": "UC9KCzNMmf0IRcEIsFDgt2bg"
+      }
+    },
+    {
+      "id": "HVmpI3d11oM",
+      "title": "HOTEL UGLY - SHUT UP MY MOMS CALLING (Official Music Video)",
+      "duration": 261,
+      "channel": {
+        "name": "Hotel Ugly",
+        "id": "UCWGUGj6maU0z_KafiRcjqQg"
       }
     }
   ]
