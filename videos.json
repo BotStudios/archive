@@ -1,8 +1,8 @@
 {
   "totalSize": "2.0 GB",
   "totalVideoSize": "1.3 GB",
-  "totalAudioSize": "743.3 MB",
-  "totalVideos": 537,
+  "totalAudioSize": "746.0 MB",
+  "totalVideos": 538,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -4835,6 +4835,15 @@
       "channel": {
         "name": "Netflix",
         "id": "UCWOA1ZGywLbqmigxE4Qlvuw"
+      }
+    },
+    {
+      "id": "ddmB_7Xi85A",
+      "title": "New Toronto city councillors officially take office to start next term",
+      "duration": 178,
+      "channel": {
+        "name": "CityNews",
+        "id": "UCVKAcQQCO8vv87Gk62SutAg"
       }
     }
   ]
