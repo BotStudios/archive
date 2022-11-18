@@ -1,8 +1,8 @@
 {
   "totalSize": "2.2 GB",
   "totalVideoSize": "1.3 GB",
-  "totalAudioSize": "852.7 MB",
-  "totalVideos": 578,
+  "totalAudioSize": "855.7 MB",
+  "totalVideos": 580,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -5204,6 +5204,24 @@
       "channel": {
         "name": "ABC News",
         "id": "UCBi2mrWuNuyYy4gbM6fU18Q"
+      }
+    },
+    {
+      "id": "F8dwxatkJlw",
+      "title": "Sylvester Stallone: \"You Can't Make Peace With Someone Who's Been So Nefarious\"",
+      "duration": 116,
+      "channel": {
+        "name": "SiriusXM",
+        "id": "UC49ta0RHXJUiID5KWRkcySw"
+      }
+    },
+    {
+      "id": "J9QwBwUnhQo",
+      "title": "Rod Wave - Got It Right (Official Video)",
+      "duration": 213,
+      "channel": {
+        "name": "RodWave",
+        "id": "UCenjunBhBhvKjfDAESnoppw"
       }
     }
   ]
