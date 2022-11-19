@@ -1,8 +1,8 @@
 {
-  "totalSize": "2.2 GB",
+  "totalSize": "2.3 GB",
   "totalVideoSize": "1.4 GB",
-  "totalAudioSize": "914.8 MB",
-  "totalVideos": 603,
+  "totalAudioSize": "917.9 MB",
+  "totalVideos": 604,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -5429,6 +5429,15 @@
       "channel": {
         "name": "ABC7",
         "id": "UCVxBA3Cbu3pm8w8gEIoMEog"
+      }
+    },
+    {
+      "id": "WWVz_DcSeZc",
+      "title": "Walmart Ordered to Pay $4.4 Million in 'Shopping While Black' Lawsuit",
+      "duration": 234,
+      "channel": {
+        "name": "Law&Crime Network",
+        "id": "UCz8K1occVvDTYDfFo7N5EZw"
       }
     }
   ]
