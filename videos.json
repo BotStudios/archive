@@ -2,7 +2,7 @@
   "totalSize": "2.4 GB",
   "totalVideoSize": "1.4 GB",
   "totalAudioSize": "1.0 GB",
-  "totalVideos": 644,
+  "totalVideos": 646,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -5798,6 +5798,24 @@
       "channel": {
         "name": "Wall Street Journal",
         "id": "UCK7tptUDHh-RYDsdxO1-5QQ"
+      }
+    },
+    {
+      "id": "FbfFa9xGElI",
+      "title": "Club Q: Witness Describes Mass Shooting Inside The Colorado Springs LGBTQ+ Club",
+      "duration": 142,
+      "channel": {
+        "name": "9NEWS",
+        "id": "UC72nbKQLSDyiSARhg0Ywj4w"
+      }
+    },
+    {
+      "id": "XerB_xUk8Ko",
+      "title": "Guy brings home a cat for wife. Guess who's the third wheel now.",
+      "duration": 185,
+      "channel": {
+        "name": "GeoBeats Animals",
+        "id": "UC7_VH_kj0aD9vhuHmFheUYQ"
       }
     }
   ]
