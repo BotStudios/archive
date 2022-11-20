@@ -1,8 +1,8 @@
 {
   "totalSize": "2.3 GB",
   "totalVideoSize": "1.4 GB",
-  "totalAudioSize": "960.2 MB",
-  "totalVideos": 620,
+  "totalAudioSize": "964.9 MB",
+  "totalVideos": 621,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -5582,6 +5582,15 @@
       "channel": {
         "name": "New York Post",
         "id": "UCrvhNP_lWuPIP6QZzJmM-bw"
+      }
+    },
+    {
+      "id": "d1HoJtWKRfQ",
+      "title": "Lily-Rose Depp's Favorite French Phrase, Her Style Icons & Celebrity Crush | Ask Me Anything | ELLE",
+      "duration": 264,
+      "channel": {
+        "name": "ELLE",
+        "id": "UCV8Do0nwSrYP7lwPBS4LWpw"
       }
     }
   ]
