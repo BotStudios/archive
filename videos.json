@@ -1,8 +1,8 @@
 {
   "totalSize": "2.4 GB",
   "totalVideoSize": "1.4 GB",
-  "totalAudioSize": "990.5 MB",
-  "totalVideos": 630,
+  "totalAudioSize": "995.5 MB",
+  "totalVideos": 632,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -5672,6 +5672,24 @@
       "channel": {
         "name": "IGN",
         "id": "UCKy1dAqELo0zrOtPkf0eTMw"
+      }
+    },
+    {
+      "id": "_qQHic8wrGk",
+      "title": "Elizabeth Warren gets fact-checked by Elon Musk’s Twitter",
+      "duration": 242,
+      "channel": {
+        "name": "Fox News",
+        "id": "UCXIJgqnII2ZOINSWNOGFThA"
+      }
+    },
+    {
+      "id": "MxHXCZnlNnQ",
+      "title": "8 News Now Investigators: Area 51 website raided by the FBI",
+      "duration": 295,
+      "channel": {
+        "name": "8 News NOW Las Vegas",
+        "id": "UCFuzExfO2fUVmNK5_COvsNg"
       }
     }
   ]
