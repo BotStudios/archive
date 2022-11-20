@@ -1,6 +1,6 @@
 // Made with love by Chee Yong Lee (https://joe.js.org) https://github.com/leecheeyong
 // This project is available as an open source under the MIT License
-const customSearch = ["discord"];
+const customSearch = ["discord", "webdevsimplified", "web", "wwdc"];
 const maxDuration = 5;
 const getSize = require('get-folder-size');
 const { performance } = require('perf_hooks');
