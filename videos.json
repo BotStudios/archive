@@ -2,7 +2,7 @@
   "totalSize": "2.4 GB",
   "totalVideoSize": "1.4 GB",
   "totalAudioSize": "1.0 GB",
-  "totalVideos": 641,
+  "totalVideos": 642,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -5771,6 +5771,15 @@
       "channel": {
         "name": "FOX Soccer",
         "id": "UCooTLkxcpnTNx6vfOovfBFA"
+      }
+    },
+    {
+      "id": "a3pZMfERctI",
+      "title": "Colorado clubgoers stop shooter who killed five",
+      "duration": 111,
+      "channel": {
+        "name": "Reuters",
+        "id": "UChqUTb7kYRX8-EiaN3XFrSQ"
       }
     }
   ]
