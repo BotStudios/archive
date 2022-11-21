@@ -2,7 +2,7 @@
   "totalSize": "2.5 GB",
   "totalVideoSize": "1.4 GB",
   "totalAudioSize": "1.1 GB",
-  "totalVideos": 667,
+  "totalVideos": 668,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -6005,6 +6005,15 @@
       "channel": {
         "name": "FOX Soccer",
         "id": "UCooTLkxcpnTNx6vfOovfBFA"
+      }
+    },
+    {
+      "id": "bkNfT1S1Njk",
+      "title": "Four Dead Following Reported Oklahoma Hostage Situation",
+      "duration": 143,
+      "channel": {
+        "name": "NBC News",
+        "id": "UCeY0bbntWzzVIaj2z3QigXg"
       }
     }
   ]
