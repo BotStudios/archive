@@ -2,7 +2,7 @@
   "totalSize": "2.5 GB",
   "totalVideoSize": "1.4 GB",
   "totalAudioSize": "1.0 GB",
-  "totalVideos": 654,
+  "totalVideos": 655,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -5888,6 +5888,15 @@
       "channel": {
         "name": "CBS 8 San Diego",
         "id": "UCMscWako8oDvpdF4pppku-g"
+      }
+    },
+    {
+      "id": "Uui5trKVhfU",
+      "title": "Report: Colorado nightclub shooting suspect is grandson of California Assemblyman Randy Voepel",
+      "duration": 41,
+      "channel": {
+        "name": "ABC10",
+        "id": "UCT350j4u6alUKyF9eu2bGug"
       }
     }
   ]
