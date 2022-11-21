@@ -2,7 +2,7 @@
   "totalSize": "2.5 GB",
   "totalVideoSize": "1.4 GB",
   "totalAudioSize": "1.0 GB",
-  "totalVideos": 655,
+  "totalVideos": 656,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -5897,6 +5897,15 @@
       "channel": {
         "name": "ABC10",
         "id": "UCT350j4u6alUKyF9eu2bGug"
+      }
+    },
+    {
+      "id": "q4z98AxX_Mc",
+      "title": "San Francisco's LGBTQ Community Holds Vigil to Remember Colorado Shooting Victims",
+      "duration": 291,
+      "channel": {
+        "name": "NBC Bay Area",
+        "id": "UCmKKVuZrBfSGiuvtOuipoDA"
       }
     }
   ]
