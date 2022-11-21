@@ -2,7 +2,7 @@
   "totalSize": "2.5 GB",
   "totalVideoSize": "1.4 GB",
   "totalAudioSize": "1.1 GB",
-  "totalVideos": 668,
+  "totalVideos": 669,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -6014,6 +6014,15 @@
       "channel": {
         "name": "NBC News",
         "id": "UCeY0bbntWzzVIaj2z3QigXg"
+      }
+    },
+    {
+      "id": "fLnuxj6m9H8",
+      "title": "Rod Wave - Jupiter's Diary (Official Video)",
+      "duration": 152,
+      "channel": {
+        "name": "RodWave",
+        "id": "UCenjunBhBhvKjfDAESnoppw"
       }
     }
   ]
