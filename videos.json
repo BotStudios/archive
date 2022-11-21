@@ -2,7 +2,7 @@
   "totalSize": "2.5 GB",
   "totalVideoSize": "1.4 GB",
   "totalAudioSize": "1.0 GB",
-  "totalVideos": 653,
+  "totalVideos": 654,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -5879,6 +5879,15 @@
       "channel": {
         "name": "Kevin James",
         "id": "UC9k23HZ1xMiqxf4gFfmxr5w"
+      }
+    },
+    {
+      "id": "vso8dDIwho0",
+      "title": "Report: Accused Colorado Springs shooter is grandson of California Assemblyman Randy Voepel",
+      "duration": 177,
+      "channel": {
+        "name": "CBS 8 San Diego",
+        "id": "UCMscWako8oDvpdF4pppku-g"
       }
     }
   ]
