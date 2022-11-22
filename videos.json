@@ -2,7 +2,7 @@
   "totalSize": "2.5 GB",
   "totalVideoSize": "1.4 GB",
   "totalAudioSize": "1.1 GB",
-  "totalVideos": 669,
+  "totalVideos": 670,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -6023,6 +6023,15 @@
       "channel": {
         "name": "RodWave",
         "id": "UCenjunBhBhvKjfDAESnoppw"
+      }
+    },
+    {
+      "id": "o5F8MOz_IDw",
+      "title": "Avatar: The Way of Water | New Trailer",
+      "duration": 121,
+      "channel": {
+        "name": "Avatar",
+        "id": "UCgjxQJ6TlKqhHax8742ZMdA"
       }
     }
   ]
