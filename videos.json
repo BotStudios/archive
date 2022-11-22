@@ -2,7 +2,7 @@
   "totalSize": "2.6 GB",
   "totalVideoSize": "1.5 GB",
   "totalAudioSize": "1.1 GB",
-  "totalVideos": 686,
+  "totalVideos": 687,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -6176,6 +6176,15 @@
       "channel": {
         "name": "FOX Soccer",
         "id": "UCooTLkxcpnTNx6vfOovfBFA"
+      }
+    },
+    {
+      "id": "O7YEXtIK9gQ",
+      "title": "BREAKING: Supreme Court Allows Release Of Trump’s Tax Records To House Dems",
+      "duration": 138,
+      "channel": {
+        "name": "MSNBC",
+        "id": "UCaXkIU1QidjPwiAYu6GcHjg"
       }
     }
   ]
