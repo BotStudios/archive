@@ -2,7 +2,7 @@
   "totalSize": "2.5 GB",
   "totalVideoSize": "1.4 GB",
   "totalAudioSize": "1.1 GB",
-  "totalVideos": 672,
+  "totalVideos": 673,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -6050,6 +6050,15 @@
       "channel": {
         "name": "LongBeachGriffy",
         "id": "UCWiY6fYdxuEe78r-0uFCnhA"
+      }
+    },
+    {
+      "id": "H6zHbVQjeaw",
+      "title": "Argentina vs. Saudi Arabia Highlights | 2022 FIFA World Cup",
+      "duration": 300,
+      "channel": {
+        "name": "FOX Soccer",
+        "id": "UCooTLkxcpnTNx6vfOovfBFA"
       }
     }
   ]
