@@ -2,7 +2,7 @@
   "totalSize": "2.6 GB",
   "totalVideoSize": "1.5 GB",
   "totalAudioSize": "1.1 GB",
-  "totalVideos": 678,
+  "totalVideos": 679,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -6104,6 +6104,15 @@
       "channel": {
         "name": "Inside Edition",
         "id": "UC9k-yiEpRHMNVOnOi_aQK8w"
+      }
+    },
+    {
+      "id": "QlYKS-77UAI",
+      "title": "Cosumnes River College on lockdown after threat against campus",
+      "duration": 147,
+      "channel": {
+        "name": "KCRA News",
+        "id": "UC-BSVXejMFhhml4V_VyoGxg"
       }
     }
   ]
