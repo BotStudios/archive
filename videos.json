@@ -2,7 +2,7 @@
   "totalSize": "2.6 GB",
   "totalVideoSize": "1.5 GB",
   "totalAudioSize": "1.1 GB",
-  "totalVideos": 684,
+  "totalVideos": 685,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -6158,6 +6158,15 @@
       "channel": {
         "name": "MSNBC",
         "id": "UCaXkIU1QidjPwiAYu6GcHjg"
+      }
+    },
+    {
+      "id": "zRGLr9ZKznI",
+      "title": "Fear the Furry",
+      "duration": 280,
+      "channel": {
+        "name": "Flashgitz",
+        "id": "UCNnKprAG-MWLsk-GsbsC2BA"
       }
     }
   ]
