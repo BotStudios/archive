@@ -2,7 +2,7 @@
   "totalSize": "2.7 GB",
   "totalVideoSize": "1.5 GB",
   "totalAudioSize": "1.2 GB",
-  "totalVideos": 706,
+  "totalVideos": 707,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -6356,6 +6356,15 @@
       "channel": {
         "name": "FOX Soccer",
         "id": "UCooTLkxcpnTNx6vfOovfBFA"
+      }
+    },
+    {
+      "id": "XIcnSy9unoA",
+      "title": "Trudeau Is Helping China Build Pipelines",
+      "duration": 126,
+      "channel": {
+        "name": "mistersunshinebaby",
+        "id": "UC6sLjLotevEzaOspcJqEONQ"
       }
     }
   ]
