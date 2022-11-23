@@ -2,7 +2,7 @@
   "totalSize": "2.7 GB",
   "totalVideoSize": "1.5 GB",
   "totalAudioSize": "1.2 GB",
-  "totalVideos": 711,
+  "totalVideos": 715,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -6401,6 +6401,42 @@
       "channel": {
         "name": "Sons Of The East",
         "id": "UC7blg64JC24F-_Uy84_7xfg"
+      }
+    },
+    {
+      "id": "h2bm-QlqJ_M",
+      "title": "Cool Video Game Music with Neat Instruments!",
+      "duration": 142,
+      "channel": {
+        "name": "Joe Porter",
+        "id": "UCnvzajWXCAOAq_Y1jNLFQXg"
+      }
+    },
+    {
+      "id": "AWzfD3j54hQ",
+      "title": "your voice first thing in the morning",
+      "duration": 186,
+      "channel": {
+        "name": "Daniel Thrasher",
+        "id": "UCnZx--LpG2spgmlxOcC-DRA"
+      }
+    },
+    {
+      "id": "bOzku8e4aAc",
+      "title": "Customer States They Hit A Curb At McDonald's | Just Rolled In",
+      "duration": 210,
+      "channel": {
+        "name": "Just Rolled In",
+        "id": "UCjN72nQrWhDnppts-lNnlKQ"
+      }
+    },
+    {
+      "id": "5jJJYYaw8vw",
+      "title": "Lil Baby Ft. Nardo Wick - Pop Out (Official Video)",
+      "duration": 199,
+      "channel": {
+        "name": "Lil Baby Official 4PF",
+        "id": "UCVS88tG_NYgxF6Udnx2815Q"
       }
     }
   ]
