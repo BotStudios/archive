@@ -2,7 +2,7 @@
   "totalSize": "2.7 GB",
   "totalVideoSize": "1.5 GB",
   "totalAudioSize": "1.2 GB",
-  "totalVideos": 707,
+  "totalVideos": 709,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -6365,6 +6365,24 @@
       "channel": {
         "name": "mistersunshinebaby",
         "id": "UC6sLjLotevEzaOspcJqEONQ"
+      }
+    },
+    {
+      "id": "D-YqtUyewnQ",
+      "title": "Peak travel days for Thanksgiving fill South Florida airports",
+      "duration": 159,
+      "channel": {
+        "name": "CBS Miami",
+        "id": "UCXJryYh6xcW5iEeJGzK191A"
+      }
+    },
+    {
+      "id": "jek3tiIqd7M",
+      "title": "Housing experts say Maine could be first to end homelessness statewide",
+      "duration": 250,
+      "channel": {
+        "name": "CBS 13 News",
+        "id": "UCUx2xAViYolMLCQAC8vgYvw"
       }
     }
   ]
