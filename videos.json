@@ -2,7 +2,7 @@
   "totalSize": "2.6 GB",
   "totalVideoSize": "1.5 GB",
   "totalAudioSize": "1.1 GB",
-  "totalVideos": 689,
+  "totalVideos": 690,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -6203,6 +6203,15 @@
       "channel": {
         "name": "Girl With The Dogs",
         "id": "UCUFnGWHIQvybwmR7XDh7-9A"
+      }
+    },
+    {
+      "id": "XmQS9mm13Qg",
+      "title": "Theranos Founder Elizabeth Holmes Sentenced to Over 11 Years in Prison | WSJ",
+      "duration": 138,
+      "channel": {
+        "name": "Wall Street Journal",
+        "id": "UCK7tptUDHh-RYDsdxO1-5QQ"
       }
     }
   ]
