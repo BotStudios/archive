@@ -2,7 +2,7 @@
   "totalSize": "2.8 GB",
   "totalVideoSize": "1.5 GB",
   "totalAudioSize": "1.3 GB",
-  "totalVideos": 733,
+  "totalVideos": 734,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -6599,6 +6599,15 @@
       "channel": {
         "name": "The Dodo",
         "id": "UCINb0wqPz-A0dV9nARjJlOQ"
+      }
+    },
+    {
+      "id": "yKNxeF4KMsY",
+      "title": "Coldplay - Yellow (Official Video)",
+      "duration": 273,
+      "channel": {
+        "name": "Coldplay",
+        "id": "UCDPM_n1atn2ijUwHd0NNRQw"
       }
     }
   ]
