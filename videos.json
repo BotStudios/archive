@@ -2,7 +2,7 @@
   "totalSize": "2.8 GB",
   "totalVideoSize": "1.5 GB",
   "totalAudioSize": "1.3 GB",
-  "totalVideos": 731,
+  "totalVideos": 733,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -6581,6 +6581,24 @@
       "channel": {
         "name": "Fox News",
         "id": "UCXIJgqnII2ZOINSWNOGFThA"
+      }
+    },
+    {
+      "id": "2Z305OHe03k",
+      "title": "Uruguay vs. South Korea Highlights | 2022 FIFA World Cup",
+      "duration": 294,
+      "channel": {
+        "name": "FOX Soccer",
+        "id": "UCooTLkxcpnTNx6vfOovfBFA"
+      }
+    },
+    {
+      "id": "vWy9BTQt5f0",
+      "title": "Hissing Feral Cat Becomes A Couch Potato | The Dodo Adopt Me!",
+      "duration": 258,
+      "channel": {
+        "name": "The Dodo",
+        "id": "UCINb0wqPz-A0dV9nARjJlOQ"
       }
     }
   ]
