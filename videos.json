@@ -2,7 +2,7 @@
   "totalSize": "2.9 GB",
   "totalVideoSize": "1.6 GB",
   "totalAudioSize": "1.3 GB",
-  "totalVideos": 750,
+  "totalVideos": 751,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -6752,6 +6752,15 @@
       "channel": {
         "name": "UCLA Athletics",
         "id": "UCm3-NocWw8YDQ6lfOb78ehA"
+      }
+    },
+    {
+      "id": "MhGk08oRdtc",
+      "title": "Chicago Thanksgiving Day takes off",
+      "duration": 63,
+      "channel": {
+        "name": "WGN News",
+        "id": "UCDrLGkZTcNCshOLiKi5NtEw"
       }
     }
   ]
