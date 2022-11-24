@@ -2,7 +2,7 @@
   "totalSize": "2.9 GB",
   "totalVideoSize": "1.6 GB",
   "totalAudioSize": "1.3 GB",
-  "totalVideos": 745,
+  "totalVideos": 746,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -6707,6 +6707,15 @@
       "channel": {
         "name": "WTAE-TV Pittsburgh",
         "id": "UCWAsWgFVqxDzwExfOdYjAcg"
+      }
+    },
+    {
+      "id": "j0s8GFVTwGc",
+      "title": "Brazil vs. Serbia Highlights | 2022 FIFA World Cup",
+      "duration": 286,
+      "channel": {
+        "name": "FOX Soccer",
+        "id": "UCooTLkxcpnTNx6vfOovfBFA"
       }
     }
   ]
