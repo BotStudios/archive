@@ -2,7 +2,7 @@
   "totalSize": "2.8 GB",
   "totalVideoSize": "1.5 GB",
   "totalAudioSize": "1.3 GB",
-  "totalVideos": 736,
+  "totalVideos": 737,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -6626,6 +6626,15 @@
       "channel": {
         "name": "Ladies European Tour",
         "id": "UC9NboheGgkad3FwqEIk0JlA"
+      }
+    },
+    {
+      "id": "PxeTDZuujdc",
+      "title": "Walmart mass shooting witness says gunman told her to go home",
+      "duration": 112,
+      "channel": {
+        "name": "ABC 7 Chicago",
+        "id": "UC_vFLohxs5PkAxlk7Y6jEtw"
       }
     }
   ]
