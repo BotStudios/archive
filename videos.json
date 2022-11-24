@@ -2,7 +2,7 @@
   "totalSize": "2.8 GB",
   "totalVideoSize": "1.5 GB",
   "totalAudioSize": "1.2 GB",
-  "totalVideos": 724,
+  "totalVideos": 725,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -6518,6 +6518,15 @@
       "channel": {
         "name": "Gohan The Husky",
         "id": "UCKD8QcX1LhFB8n7lhjfuQdg"
+      }
+    },
+    {
+      "id": "LoiaiLBHUKs",
+      "title": "2022 Thanksgiving travel to near pre-pandemic levels l GMA",
+      "duration": 95,
+      "channel": {
+        "name": "ABC News",
+        "id": "UCBi2mrWuNuyYy4gbM6fU18Q"
       }
     }
   ]
