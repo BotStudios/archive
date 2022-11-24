@@ -2,7 +2,7 @@
   "totalSize": "2.8 GB",
   "totalVideoSize": "1.5 GB",
   "totalAudioSize": "1.2 GB",
-  "totalVideos": 723,
+  "totalVideos": 724,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -6509,6 +6509,15 @@
       "channel": {
         "name": "Griffin Frenchie",
         "id": "UC43CkWhXhi20AvyrWG2nU_g"
+      }
+    },
+    {
+      "id": "5UXOVcgA7qk",
+      "title": "Gohan Meets His Puppy Son For The First Time!",
+      "duration": 249,
+      "channel": {
+        "name": "Gohan The Husky",
+        "id": "UCKD8QcX1LhFB8n7lhjfuQdg"
       }
     }
   ]
