@@ -2,7 +2,7 @@
   "totalSize": "3.0 GB",
   "totalVideoSize": "1.6 GB",
   "totalAudioSize": "1.4 GB",
-  "totalVideos": 773,
+  "totalVideos": 775,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -6959,6 +6959,24 @@
       "channel": {
         "name": "Hugo Cornellier",
         "id": "UCiEBv40OQ7zB68aK3lltQMg"
+      }
+    },
+    {
+      "id": "0wG42eh8bKc",
+      "title": "Wales vs. Iran Highlights | 2022 FIFA World Cup",
+      "duration": 298,
+      "channel": {
+        "name": "FOX Soccer",
+        "id": "UCooTLkxcpnTNx6vfOovfBFA"
+      }
+    },
+    {
+      "id": "oTIHLsa0bj0",
+      "title": "Version 3.3 \"All Senses Clear, All Existence Void\" Trailer | Genshin Impact",
+      "duration": 247,
+      "channel": {
+        "name": "Genshin Impact",
+        "id": "UCiS882YPwZt1NfaM0gR0D9Q"
       }
     }
   ]
