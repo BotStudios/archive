@@ -1,8 +1,8 @@
 {
-  "totalSize": "3.0 GB",
+  "totalSize": "3.1 GB",
   "totalVideoSize": "1.6 GB",
   "totalAudioSize": "1.4 GB",
-  "totalVideos": 791,
+  "totalVideos": 793,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -7121,6 +7121,24 @@
       "channel": {
         "name": "A&E",
         "id": "UCNIFiHaLZkYASaWDdkC1njg"
+      }
+    },
+    {
+      "id": "BJrLZ4tm9qg",
+      "title": "Calgary Budget debate to enter day 4",
+      "duration": 69,
+      "channel": {
+        "name": "CityNews",
+        "id": "UCVKAcQQCO8vv87Gk62SutAg"
+      }
+    },
+    {
+      "id": "rpFn-cY-iFA",
+      "title": "Canadian bank CEO told Canada is a \"joke\" and a \"banana republic\"",
+      "duration": 284,
+      "channel": {
+        "name": "National Post",
+        "id": "UC5Vzc-I--guzURose4X6lKQ"
       }
     }
   ]
