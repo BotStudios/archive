@@ -2,7 +2,7 @@
   "totalSize": "3.0 GB",
   "totalVideoSize": "1.6 GB",
   "totalAudioSize": "1.4 GB",
-  "totalVideos": 784,
+  "totalVideos": 787,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -7058,6 +7058,33 @@
       "channel": {
         "name": "Daniel Thrasher",
         "id": "UCnZx--LpG2spgmlxOcC-DRA"
+      }
+    },
+    {
+      "id": "ysBE1mLjyJY",
+      "title": "Netherlands vs. Ecuador Highlights | 2022 FIFA World Cup",
+      "duration": 282,
+      "channel": {
+        "name": "FOX Soccer",
+        "id": "UCooTLkxcpnTNx6vfOovfBFA"
+      }
+    },
+    {
+      "id": "bwquWB9VFGI",
+      "title": "New video released shows North Las Vegas teen using ladder to re-enter her home, neighbors describe",
+      "duration": 168,
+      "channel": {
+        "name": "8 News NOW Las Vegas",
+        "id": "UCFuzExfO2fUVmNK5_COvsNg"
+      }
+    },
+    {
+      "id": "98N12vNei5Y",
+      "title": "Sam Smith - I Know I’m Not The Only One (Live Performance by: Janiah Hines Brown)",
+      "duration": 253,
+      "channel": {
+        "name": "Janiah Hines Brown",
+        "id": "UCpbkCsAT7EG2KmQgT8eci7Q"
       }
     }
   ]
