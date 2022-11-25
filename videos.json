@@ -2,7 +2,7 @@
   "totalSize": "2.9 GB",
   "totalVideoSize": "1.6 GB",
   "totalAudioSize": "1.3 GB",
-  "totalVideos": 762,
+  "totalVideos": 763,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -6860,6 +6860,15 @@
       "channel": {
         "name": "NBC Bay Area",
         "id": "UCmKKVuZrBfSGiuvtOuipoDA"
+      }
+    },
+    {
+      "id": "3Q9yozIuhWs",
+      "title": "RaeZack's restaurant feeds Scott County Thanksgiving meal for a fourth consecutive year",
+      "duration": 139,
+      "channel": {
+        "name": "WBIR Channel 10",
+        "id": "UCsefBCbI7P5Xr-edSOpbF4A"
       }
     }
   ]
