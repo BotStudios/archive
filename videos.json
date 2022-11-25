@@ -2,7 +2,7 @@
   "totalSize": "3.0 GB",
   "totalVideoSize": "1.6 GB",
   "totalAudioSize": "1.4 GB",
-  "totalVideos": 775,
+  "totalVideos": 777,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -6977,6 +6977,24 @@
       "channel": {
         "name": "Genshin Impact",
         "id": "UCiS882YPwZt1NfaM0gR0D9Q"
+      }
+    },
+    {
+      "id": "axGQ-CQFIEA",
+      "title": "Elon Musk teases release of info on Hunter Biden laptop censorship",
+      "duration": 213,
+      "channel": {
+        "name": "Fox News",
+        "id": "UCXIJgqnII2ZOINSWNOGFThA"
+      }
+    },
+    {
+      "id": "CKtYUrvmRmg",
+      "title": "New details in deadly Walmart mass shooting",
+      "duration": 47,
+      "channel": {
+        "name": "ABC 7 Chicago",
+        "id": "UC_vFLohxs5PkAxlk7Y6jEtw"
       }
     }
   ]
