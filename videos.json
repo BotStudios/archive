@@ -2,7 +2,7 @@
   "totalSize": "3.0 GB",
   "totalVideoSize": "1.6 GB",
   "totalAudioSize": "1.4 GB",
-  "totalVideos": 782,
+  "totalVideos": 783,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -7040,6 +7040,15 @@
       "channel": {
         "name": "FOX Soccer",
         "id": "UCooTLkxcpnTNx6vfOovfBFA"
+      }
+    },
+    {
+      "id": "jiXbNFY24v8",
+      "title": "Streaming Live from my #GoPro",
+      "duration": 208,
+      "channel": {
+        "name": "News Nepal",
+        "id": "UCyq58nT4odHCiEsG9ioNnIg"
       }
     }
   ]
