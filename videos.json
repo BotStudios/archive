@@ -2,7 +2,7 @@
   "totalSize": "3.3 GB",
   "totalVideoSize": "1.7 GB",
   "totalAudioSize": "1.6 GB",
-  "totalVideos": 838,
+  "totalVideos": 839,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -7544,6 +7544,15 @@
       "channel": {
         "name": "History Matters",
         "id": "UC22BdTgxefuvUivrjesETjg"
+      }
+    },
+    {
+      "id": "NzEVB8X1Bmc",
+      "title": "Richest US states 2022",
+      "duration": 216,
+      "channel": {
+        "name": "Gravity",
+        "id": "UC1jamGIyczz9idCjXPjEe6Q"
       }
     }
   ]
