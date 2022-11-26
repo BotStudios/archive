@@ -2,7 +2,7 @@
   "totalSize": "3.3 GB",
   "totalVideoSize": "1.7 GB",
   "totalAudioSize": "1.6 GB",
-  "totalVideos": 840,
+  "totalVideos": 843,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -7562,6 +7562,33 @@
       "channel": {
         "name": "Lia Hansen",
         "id": "UCVPONwQa8FuYN-VK0gS8Guw"
+      }
+    },
+    {
+      "id": "NtulVJJlhH8",
+      "title": "Ramattra | New Hero Gameplay Trailer | Overwatch 2",
+      "duration": 100,
+      "channel": {
+        "name": "PlayOverwatch",
+        "id": "UClOf1XXinvZsy4wKPAkro2A"
+      }
+    },
+    {
+      "id": "UzmrtouPPc0",
+      "title": "Labour spent how much on Facebook advertising? | Newshub Nation",
+      "duration": 214,
+      "channel": {
+        "name": "Newshub",
+        "id": "UCWq564ONoREJprMNhewS6Sw"
+      }
+    },
+    {
+      "id": "yFQ460JTLsU",
+      "title": "Property Council to discuss affordability of living in Sydney | 9 News Australia",
+      "duration": 121,
+      "channel": {
+        "name": "9 News Australia",
+        "id": "UCIYLOcEUX6TbBo7HQVF2PKA"
       }
     }
   ]
