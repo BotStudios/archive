@@ -2,7 +2,7 @@
   "totalSize": "3.1 GB",
   "totalVideoSize": "1.6 GB",
   "totalAudioSize": "1.5 GB",
-  "totalVideos": 800,
+  "totalVideos": 801,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -7202,6 +7202,15 @@
       "channel": {
         "name": "Huggbees",
         "id": "UC8CsGpP6kVNrWeBVmlJ2UyA"
+      }
+    },
+    {
+      "id": "3hQIaD5RtIU",
+      "title": "Walmart shooter legally bought gun hours before killing",
+      "duration": 180,
+      "channel": {
+        "name": "CBS Evening News",
+        "id": "UCAeWdyKJXGWmVAXFpgLNNTg"
       }
     }
   ]
