@@ -2,7 +2,7 @@
   "totalSize": "3.1 GB",
   "totalVideoSize": "1.6 GB",
   "totalAudioSize": "1.5 GB",
-  "totalVideos": 807,
+  "totalVideos": 809,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -7265,6 +7265,24 @@
       "channel": {
         "name": "Breadstick Ricky & The Boss",
         "id": "UCbBwp-pyhIbjOAXFuPrs0Bg"
+      }
+    },
+    {
+      "id": "u3ZTtn9NbHk",
+      "title": "Doom Patrol Season 4 | Official Trailer | HBO Max",
+      "duration": 128,
+      "channel": {
+        "name": "HBO Max",
+        "id": "UCx-KWLTKlB83hDI6UKECtJQ"
+      }
+    },
+    {
+      "id": "TdLkMUN6SbQ",
+      "title": "Tourist booed, doused with water after climbing Mayan pyramid in Mexico",
+      "duration": 46,
+      "channel": {
+        "name": "ABC7",
+        "id": "UCVxBA3Cbu3pm8w8gEIoMEog"
       }
     }
   ]
