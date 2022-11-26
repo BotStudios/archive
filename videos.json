@@ -2,7 +2,7 @@
   "totalSize": "3.2 GB",
   "totalVideoSize": "1.7 GB",
   "totalAudioSize": "1.5 GB",
-  "totalVideos": 831,
+  "totalVideos": 832,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -7481,6 +7481,15 @@
       "channel": {
         "name": "CBC News",
         "id": "UCuFFtHWoLl5fauMMD5Ww2jA"
+      }
+    },
+    {
+      "id": "O-o-iddNpDk",
+      "title": "Campos-Duffy: Why isn't anyone talking about this?",
+      "duration": 280,
+      "channel": {
+        "name": "Fox News",
+        "id": "UCXIJgqnII2ZOINSWNOGFThA"
       }
     }
   ]
