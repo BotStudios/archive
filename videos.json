@@ -1,8 +1,8 @@
 {
   "totalSize": "3.2 GB",
   "totalVideoSize": "1.7 GB",
-  "totalAudioSize": "1.5 GB",
-  "totalVideos": 835,
+  "totalAudioSize": "1.6 GB",
+  "totalVideos": 836,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -7517,6 +7517,15 @@
       "channel": {
         "name": "Sky News Australia",
         "id": "UCO0akufu9MOzyz3nvGIXAAw"
+      }
+    },
+    {
+      "id": "DYInw7EdK5o",
+      "title": "Mizzou becomes bowl eligible with Battle Line win over Arkansas",
+      "duration": 274,
+      "channel": {
+        "name": "KMIZ ABC 17 News",
+        "id": "UCxm4UwriiF_GYrWXmhe7J_g"
       }
     }
   ]
