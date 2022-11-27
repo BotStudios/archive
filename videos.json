@@ -2,7 +2,7 @@
   "totalSize": "3.4 GB",
   "totalVideoSize": "1.8 GB",
   "totalAudioSize": "1.7 GB",
-  "totalVideos": 876,
+  "totalVideos": 877,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -7886,6 +7886,15 @@
       "channel": {
         "name": "Courtside Films",
         "id": "UCQPp7FYJUkw0Xk2Pr-6irOA"
+      }
+    },
+    {
+      "id": "I9mprvyOOc4",
+      "title": "Liberal mayor taken to court over 'First Amendment attack'",
+      "duration": 268,
+      "channel": {
+        "name": "Fox News",
+        "id": "UCXIJgqnII2ZOINSWNOGFThA"
       }
     }
   ]
