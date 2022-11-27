@@ -2,7 +2,7 @@
   "totalSize": "3.4 GB",
   "totalVideoSize": "1.7 GB",
   "totalAudioSize": "1.6 GB",
-  "totalVideos": 862,
+  "totalVideos": 863,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -7760,6 +7760,15 @@
       "channel": {
         "name": "9 News Australia",
         "id": "UCIYLOcEUX6TbBo7HQVF2PKA"
+      }
+    },
+    {
+      "id": "jglaIocBp5c",
+      "title": "Japan vs. Costa Rica Highlights | 2022 FIFA World Cup",
+      "duration": 285,
+      "channel": {
+        "name": "FOX Soccer",
+        "id": "UCooTLkxcpnTNx6vfOovfBFA"
       }
     }
   ]
