@@ -2,7 +2,7 @@
   "totalSize": "3.4 GB",
   "totalVideoSize": "1.7 GB",
   "totalAudioSize": "1.6 GB",
-  "totalVideos": 861,
+  "totalVideos": 862,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -7751,6 +7751,15 @@
       "channel": {
         "name": "ARY News",
         "id": "UCMmpLL2ucRHAXbNHiCPyIyg"
+      }
+    },
+    {
+      "id": "z4eGRFFY2zo",
+      "title": "Man fighting for life after being allegedly stabbed with kitchen knife | 9 News Australia",
+      "duration": 112,
+      "channel": {
+        "name": "9 News Australia",
+        "id": "UCIYLOcEUX6TbBo7HQVF2PKA"
       }
     }
   ]
