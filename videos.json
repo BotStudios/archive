@@ -2,7 +2,7 @@
   "totalSize": "3.4 GB",
   "totalVideoSize": "1.8 GB",
   "totalAudioSize": "1.7 GB",
-  "totalVideos": 877,
+  "totalVideos": 878,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -7895,6 +7895,15 @@
       "channel": {
         "name": "Fox News",
         "id": "UCXIJgqnII2ZOINSWNOGFThA"
+      }
+    },
+    {
+      "id": "a4IpmjvE0IQ",
+      "title": "I edited a jessie episode because i had nothing better to do",
+      "duration": 239,
+      "channel": {
+        "name": "ImJbriizle",
+        "id": "UCv6Si3ehCVunxe-30C-8s-g"
       }
     }
   ]
