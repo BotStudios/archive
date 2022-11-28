@@ -2,7 +2,7 @@
   "totalSize": "3.5 GB",
   "totalVideoSize": "1.8 GB",
   "totalAudioSize": "1.7 GB",
-  "totalVideos": 894,
+  "totalVideos": 895,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -8048,6 +8048,15 @@
       "channel": {
         "name": "FOX Soccer",
         "id": "UCooTLkxcpnTNx6vfOovfBFA"
+      }
+    },
+    {
+      "id": "9ehnYTjSoDw",
+      "title": "Officials Obtain Arrest Warrant In Death Of 25-Year-Old Shanquella Robinson",
+      "duration": 227,
+      "channel": {
+        "name": "NBC News",
+        "id": "UCeY0bbntWzzVIaj2z3QigXg"
       }
     }
   ]
