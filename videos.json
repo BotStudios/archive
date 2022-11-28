@@ -2,7 +2,7 @@
   "totalSize": "3.5 GB",
   "totalVideoSize": "1.8 GB",
   "totalAudioSize": "1.7 GB",
-  "totalVideos": 895,
+  "totalVideos": 896,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -8057,6 +8057,15 @@
       "channel": {
         "name": "NBC News",
         "id": "UCeY0bbntWzzVIaj2z3QigXg"
+      }
+    },
+    {
+      "id": "_u-7rWKnVVo",
+      "title": "Metallica: Lux Æterna (Official Music Video)",
+      "duration": 211,
+      "channel": {
+        "name": "Metallica",
+        "id": "UCbulh9WdLtEXiooRcYK7SWw"
       }
     }
   ]
