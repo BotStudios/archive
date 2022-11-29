@@ -2,7 +2,7 @@
   "totalSize": "3.7 GB",
   "totalVideoSize": "1.9 GB",
   "totalAudioSize": "1.9 GB",
-  "totalVideos": 943,
+  "totalVideos": 944,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -8489,6 +8489,15 @@
       "channel": {
         "name": "IGN",
         "id": "UCKy1dAqELo0zrOtPkf0eTMw"
+      }
+    },
+    {
+      "id": "ZdsTzhTt330",
+      "title": "BREAKING: Oath Keepers Leader Stewart Rhodes Found Guilty Of Seditious Conspiracy",
+      "duration": 201,
+      "channel": {
+        "name": "MSNBC",
+        "id": "UCaXkIU1QidjPwiAYu6GcHjg"
       }
     }
   ]
