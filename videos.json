@@ -1,8 +1,8 @@
 {
-  "totalSize": "3.6 GB",
+  "totalSize": "3.7 GB",
   "totalVideoSize": "1.8 GB",
   "totalAudioSize": "1.8 GB",
-  "totalVideos": 930,
+  "totalVideos": 932,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -8372,6 +8372,24 @@
       "channel": {
         "name": "Fox News",
         "id": "UCXIJgqnII2ZOINSWNOGFThA"
+      }
+    },
+    {
+      "id": "rCs5drZaO_g",
+      "title": "Ecuador vs. Senegal Highlights | 2022 FIFA World Cup",
+      "duration": 298,
+      "channel": {
+        "name": "FOX Soccer",
+        "id": "UCooTLkxcpnTNx6vfOovfBFA"
+      }
+    },
+    {
+      "id": "hykVIIB7fF8",
+      "title": "Netherlands vs. Qatar Highlights | 2022 FIFA World Cup",
+      "duration": 295,
+      "channel": {
+        "name": "FOX Soccer",
+        "id": "UCooTLkxcpnTNx6vfOovfBFA"
       }
     }
   ]
