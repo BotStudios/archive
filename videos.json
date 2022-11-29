@@ -2,7 +2,7 @@
   "totalSize": "3.7 GB",
   "totalVideoSize": "1.8 GB",
   "totalAudioSize": "1.8 GB",
-  "totalVideos": 935,
+  "totalVideos": 936,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -8417,6 +8417,15 @@
       "channel": {
         "name": "Fox News",
         "id": "UCXIJgqnII2ZOINSWNOGFThA"
+      }
+    },
+    {
+      "id": "JaySC2_lR_8",
+      "title": "Kyrie Irving \"proud\" of Kevin Durant's big game",
+      "duration": 216,
+      "channel": {
+        "name": "YESNetwork",
+        "id": "UCJXltguGSVIZAcbIglaZ-mA"
       }
     }
   ]
