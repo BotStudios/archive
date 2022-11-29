@@ -2,7 +2,7 @@
   "totalSize": "3.6 GB",
   "totalVideoSize": "1.8 GB",
   "totalAudioSize": "1.8 GB",
-  "totalVideos": 919,
+  "totalVideos": 920,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -8273,6 +8273,15 @@
       "channel": {
         "name": "FOX 13 Seattle",
         "id": "UC5bKZHg4PzURMOWcvanl6nA"
+      }
+    },
+    {
+      "id": "tiUmzw3nino",
+      "title": "China Experiencing Rare Outbreak Of Pro-Freedom Protests",
+      "duration": 145,
+      "channel": {
+        "name": "MSNBC",
+        "id": "UCaXkIU1QidjPwiAYu6GcHjg"
       }
     }
   ]
