@@ -2,7 +2,7 @@
   "totalSize": "3.6 GB",
   "totalVideoSize": "1.8 GB",
   "totalAudioSize": "1.8 GB",
-  "totalVideos": 920,
+  "totalVideos": 921,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -8282,6 +8282,15 @@
       "channel": {
         "name": "MSNBC",
         "id": "UCaXkIU1QidjPwiAYu6GcHjg"
+      }
+    },
+    {
+      "id": "eSFhd-CGIWU",
+      "title": "I'm Gonna Kill Santa Claus - Official Music Video",
+      "duration": 154,
+      "channel": {
+        "name": "Danny Gonzalez",
+        "id": "UCSUf5_EPEfl4zlBKZHkZdmw"
       }
     }
   ]
