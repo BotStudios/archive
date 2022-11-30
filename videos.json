@@ -2,7 +2,7 @@
   "totalSize": "3.8 GB",
   "totalVideoSize": "1.9 GB",
   "totalAudioSize": "1.9 GB",
-  "totalVideos": 968,
+  "totalVideos": 970,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -8714,6 +8714,24 @@
       "channel": {
         "name": "CNN",
         "id": "UCupvZG-5ko_eiXAupbDfxWw"
+      }
+    },
+    {
+      "id": "qP8WAPQ_3SU",
+      "title": "Two volcanoes on Hawaii's Big Island erupt simultaneously for the first time in decades",
+      "duration": 140,
+      "channel": {
+        "name": "CBS News",
+        "id": "UC8p1vwvWtl6T73JiExfWs1g"
+      }
+    },
+    {
+      "id": "xU1js6lIVuM",
+      "title": "Kat Timpf: There is no possible defense for this",
+      "duration": 274,
+      "channel": {
+        "name": "Fox News",
+        "id": "UCXIJgqnII2ZOINSWNOGFThA"
       }
     }
   ]
