@@ -2,7 +2,7 @@
   "totalSize": "3.9 GB",
   "totalVideoSize": "1.9 GB",
   "totalAudioSize": "2.0 GB",
-  "totalVideos": 982,
+  "totalVideos": 983,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -8840,6 +8840,15 @@
       "channel": {
         "name": "Good Morning America",
         "id": "UCH1oRy1dINbMVp3UFWrKP0w"
+      }
+    },
+    {
+      "id": "fPkKgE9M2k4",
+      "title": "Why Eminem's Daughter Hailie Jade Was SHOCKED During Dad's Hall of Fame Speech",
+      "duration": 273,
+      "channel": {
+        "name": "Entertainment Tonight",
+        "id": "UCdtXPiqI2cLorKaPrfpKc4g"
       }
     }
   ]
