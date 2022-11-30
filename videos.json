@@ -1,8 +1,8 @@
 {
-  "totalSize": "3.8 GB",
+  "totalSize": "3.9 GB",
   "totalVideoSize": "1.9 GB",
   "totalAudioSize": "1.9 GB",
-  "totalVideos": 976,
+  "totalVideos": 977,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -8786,6 +8786,15 @@
       "channel": {
         "name": "Wall Street Journal",
         "id": "UCK7tptUDHh-RYDsdxO1-5QQ"
+      }
+    },
+    {
+      "id": "xxf4gQuLim8",
+      "title": "Former Virginia State Trooper Kills Three After Catfishing Teenage Girl",
+      "duration": 111,
+      "channel": {
+        "name": "NBC News",
+        "id": "UCeY0bbntWzzVIaj2z3QigXg"
       }
     }
   ]
