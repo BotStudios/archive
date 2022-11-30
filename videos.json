@@ -2,7 +2,7 @@
   "totalSize": "3.8 GB",
   "totalVideoSize": "1.9 GB",
   "totalAudioSize": "1.9 GB",
-  "totalVideos": 964,
+  "totalVideos": 965,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -8678,6 +8678,15 @@
       "channel": {
         "name": "ARY News",
         "id": "UCMmpLL2ucRHAXbNHiCPyIyg"
+      }
+    },
+    {
+      "id": "OChYqv3gV9g",
+      "title": "DeSantis warns Apple about potentially pulling Twitter from App store",
+      "duration": 254,
+      "channel": {
+        "name": "Fox News",
+        "id": "UCXIJgqnII2ZOINSWNOGFThA"
       }
     }
   ]
