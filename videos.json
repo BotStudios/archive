@@ -2,7 +2,7 @@
   "totalSize": "3.8 GB",
   "totalVideoSize": "1.9 GB",
   "totalAudioSize": "1.9 GB",
-  "totalVideos": 967,
+  "totalVideos": 968,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -8705,6 +8705,15 @@
       "channel": {
         "name": "ELLE",
         "id": "UCV8Do0nwSrYP7lwPBS4LWpw"
+      }
+    },
+    {
+      "id": "hsoxD1aMtWc",
+      "title": "Hear what Herschel Walker said about his residency",
+      "duration": 205,
+      "channel": {
+        "name": "CNN",
+        "id": "UCupvZG-5ko_eiXAupbDfxWw"
       }
     }
   ]
