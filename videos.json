@@ -2,7 +2,7 @@
   "totalSize": "3.8 GB",
   "totalVideoSize": "1.9 GB",
   "totalAudioSize": "1.9 GB",
-  "totalVideos": 970,
+  "totalVideos": 972,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -8732,6 +8732,24 @@
       "channel": {
         "name": "Fox News",
         "id": "UCXIJgqnII2ZOINSWNOGFThA"
+      }
+    },
+    {
+      "id": "UquOBrpCKhE",
+      "title": "Tunisia vs. France Highlights | 2022 FIFA World Cup",
+      "duration": 296,
+      "channel": {
+        "name": "FOX Soccer",
+        "id": "UCooTLkxcpnTNx6vfOovfBFA"
+      }
+    },
+    {
+      "id": "ooFCoiOrLqs",
+      "title": "Australia vs. Denmark Highlights | 2022 FIFA World Cup",
+      "duration": 298,
+      "channel": {
+        "name": "FOX Soccer",
+        "id": "UCooTLkxcpnTNx6vfOovfBFA"
       }
     }
   ]
