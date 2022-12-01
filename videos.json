@@ -2,7 +2,7 @@
   "totalSize": "4.0 GB",
   "totalVideoSize": "2.0 GB",
   "totalAudioSize": "2.0 GB",
-  "totalVideos": 1014,
+  "totalVideos": 1015,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -9128,6 +9128,15 @@
       "channel": {
         "name": "Entertainment Tonight",
         "id": "UCdtXPiqI2cLorKaPrfpKc4g"
+      }
+    },
+    {
+      "id": "t86V-1dmS6k",
+      "title": "Hooded Kanye West praises Nazis during Alex Jones interview: ‘I see good things about Hitler’|NYPost",
+      "duration": 55,
+      "channel": {
+        "name": "New York Post",
+        "id": "UCrvhNP_lWuPIP6QZzJmM-bw"
       }
     }
   ]
