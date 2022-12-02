@@ -2,7 +2,7 @@
   "totalSize": "4.2 GB",
   "totalVideoSize": "2.0 GB",
   "totalAudioSize": "2.2 GB",
-  "totalVideos": 1051,
+  "totalVideos": 1052,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -9461,6 +9461,15 @@
       "channel": {
         "name": "Kiun B",
         "id": "UCewnpz5mc4Sjx4esAs54O0w"
+      }
+    },
+    {
+      "id": "6djM_LunFUQ",
+      "title": "Jerry Cantrell - Prism of Doubt (Official Live Video)",
+      "duration": 235,
+      "channel": {
+        "name": "Jerry Cantrell",
+        "id": "UCnTE9bDTf9faSk-EzJ3Wyzw"
       }
     }
   ]
