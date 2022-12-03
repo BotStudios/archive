@@ -2,7 +2,7 @@
   "totalSize": "4.4 GB",
   "totalVideoSize": "2.1 GB",
   "totalAudioSize": "2.3 GB",
-  "totalVideos": 1103,
+  "totalVideos": 1104,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -9929,6 +9929,15 @@
       "channel": {
         "name": "HBO Max",
         "id": "UCx-KWLTKlB83hDI6UKECtJQ"
+      }
+    },
+    {
+      "id": "JW-KIbV9PRU",
+      "title": "A New Beginning",
+      "duration": 79,
+      "channel": {
+        "name": "Fortnite",
+        "id": "UClG8odDC8TS6Zpqk9CGVQiQ"
       }
     }
   ]
