@@ -2,7 +2,7 @@
   "totalSize": "4.4 GB",
   "totalVideoSize": "2.1 GB",
   "totalAudioSize": "2.3 GB",
-  "totalVideos": 1100,
+  "totalVideos": 1102,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -9902,6 +9902,24 @@
       "channel": {
         "name": "FOX Soccer",
         "id": "UCooTLkxcpnTNx6vfOovfBFA"
+      }
+    },
+    {
+      "id": "VHNzi1CjDb0",
+      "title": "The Last of Us | Trailer Oficial | HBO Max",
+      "duration": 135,
+      "channel": {
+        "name": "HBO Max Brasil",
+        "id": "UCR7ZwQz60rW9dK59Dirdc8w"
+      }
+    },
+    {
+      "id": "b06QILLlZI8",
+      "title": "Tipflation Taking Over Holiday Shopping",
+      "duration": 149,
+      "channel": {
+        "name": "NBC News",
+        "id": "UCeY0bbntWzzVIaj2z3QigXg"
       }
     }
   ]
