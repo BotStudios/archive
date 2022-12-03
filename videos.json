@@ -2,7 +2,7 @@
   "totalSize": "4.3 GB",
   "totalVideoSize": "2.1 GB",
   "totalAudioSize": "2.2 GB",
-  "totalVideos": 1078,
+  "totalVideos": 1079,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -9704,6 +9704,15 @@
       "channel": {
         "name": "Girl With The Dogs",
         "id": "UCUFnGWHIQvybwmR7XDh7-9A"
+      }
+    },
+    {
+      "id": "dTTmqVlWpsg",
+      "title": "Experts Warn of Mass Insurance Denials Coming",
+      "duration": 189,
+      "channel": {
+        "name": "FOX 4 Now",
+        "id": "UC2rLSYDm92QMytS9yIkT8UQ"
       }
     }
   ]
