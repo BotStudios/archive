@@ -2,7 +2,7 @@
   "totalSize": "4.5 GB",
   "totalVideoSize": "2.1 GB",
   "totalAudioSize": "2.3 GB",
-  "totalVideos": 1123,
+  "totalVideos": 1124,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -10109,6 +10109,15 @@
       "channel": {
         "name": "BBC",
         "id": "UCCj956IF62FbT7Gouszaj9w"
+      }
+    },
+    {
+      "id": "XXYxZySYeFU",
+      "title": "Fortnite Chapter 4 Season 1 Launch Trailer",
+      "duration": 96,
+      "channel": {
+        "name": "Fortnite",
+        "id": "UClG8odDC8TS6Zpqk9CGVQiQ"
       }
     }
   ]
