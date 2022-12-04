@@ -2,7 +2,7 @@
   "totalSize": "4.4 GB",
   "totalVideoSize": "2.1 GB",
   "totalAudioSize": "2.3 GB",
-  "totalVideos": 1117,
+  "totalVideos": 1118,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -10052,6 +10052,15 @@
       "id": "zvmOEzlZnVk",
       "title": "Kenan & Kelly - SNL",
       "duration": 299,
+      "channel": {
+        "name": "Saturday Night Live",
+        "id": "UCqFzWxSCi39LnW1JKFR3efg"
+      }
+    },
+    {
+      "id": "zSnLIKrk2Sc",
+      "title": "Weekend Update: Kanye West Praises Hitler, Biden Averts Rail Strike - SNL",
+      "duration": 252,
       "channel": {
         "name": "Saturday Night Live",
         "id": "UCqFzWxSCi39LnW1JKFR3efg"
