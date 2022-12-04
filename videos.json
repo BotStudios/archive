@@ -2,7 +2,7 @@
   "totalSize": "4.4 GB",
   "totalVideoSize": "2.1 GB",
   "totalAudioSize": "2.3 GB",
-  "totalVideos": 1107,
+  "totalVideos": 1108,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -9965,6 +9965,15 @@
       "channel": {
         "name": "Elise Ecklund",
         "id": "UCUsCq3Hq5haa6tTph41hpJQ"
+      }
+    },
+    {
+      "id": "VUeXSW4oROU",
+      "title": "RELEASING A BABY INTO THE WILD",
+      "duration": 188,
+      "channel": {
+        "name": "How to DAD",
+        "id": "UCNJTPOFN-13sb5JGrY1mNQg"
       }
     }
   ]
