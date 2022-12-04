@@ -2,7 +2,7 @@
   "totalSize": "4.5 GB",
   "totalVideoSize": "2.1 GB",
   "totalAudioSize": "2.4 GB",
-  "totalVideos": 1141,
+  "totalVideos": 1142,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -10271,6 +10271,15 @@
       "channel": {
         "name": "Inside Edition",
         "id": "UC9k-yiEpRHMNVOnOi_aQK8w"
+      }
+    },
+    {
+      "id": "vPTR64z2ZdQ",
+      "title": "Investigations Surrounding President Trump Take Dramatic Turns",
+      "duration": 196,
+      "channel": {
+        "name": "MSNBC",
+        "id": "UCaXkIU1QidjPwiAYu6GcHjg"
       }
     }
   ]
