@@ -2,7 +2,7 @@
   "totalSize": "4.7 GB",
   "totalVideoSize": "2.2 GB",
   "totalAudioSize": "2.5 GB",
-  "totalVideos": 1179,
+  "totalVideos": 1180,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -10613,6 +10613,15 @@
       "channel": {
         "name": "FOX Soccer",
         "id": "UCooTLkxcpnTNx6vfOovfBFA"
+      }
+    },
+    {
+      "id": "kpxgdmfRvRM",
+      "title": "Supreme Court weighs case pitting free speech against LGBTQ+ rights",
+      "duration": 294,
+      "channel": {
+        "name": "CBS News",
+        "id": "UC8p1vwvWtl6T73JiExfWs1g"
       }
     }
   ]
