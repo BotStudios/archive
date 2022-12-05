@@ -2,7 +2,7 @@
   "totalSize": "4.7 GB",
   "totalVideoSize": "2.2 GB",
   "totalAudioSize": "2.5 GB",
-  "totalVideos": 1180,
+  "totalVideos": 1181,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -10622,6 +10622,15 @@
       "channel": {
         "name": "CBS News",
         "id": "UC8p1vwvWtl6T73JiExfWs1g"
+      }
+    },
+    {
+      "id": "PhWTfz7D1yk",
+      "title": "DOD reveals bombshell report on Afghanistan withdrawal",
+      "duration": 293,
+      "channel": {
+        "name": "Fox News",
+        "id": "UCXIJgqnII2ZOINSWNOGFThA"
       }
     }
   ]
