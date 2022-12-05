@@ -2,7 +2,7 @@
   "totalSize": "4.6 GB",
   "totalVideoSize": "2.2 GB",
   "totalAudioSize": "2.5 GB",
-  "totalVideos": 1164,
+  "totalVideos": 1165,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -10478,6 +10478,15 @@
       "channel": {
         "name": "Smart Fox",
         "id": "UC8c3P7NxLr7k6XRC6VVMJmg"
+      }
+    },
+    {
+      "id": "7fnVcXfPe5c",
+      "title": "HOW TO BE SOCIAL - HOW TO NEVER RUN OUT OF THINGS TO SAY",
+      "duration": 276,
+      "channel": {
+        "name": "Project Better Self",
+        "id": "UCugmVpDxOg-nmyLDdHcu04A"
       }
     }
   ]
