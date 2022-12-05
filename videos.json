@@ -2,7 +2,7 @@
   "totalSize": "4.7 GB",
   "totalVideoSize": "2.2 GB",
   "totalAudioSize": "2.5 GB",
-  "totalVideos": 1173,
+  "totalVideos": 1175,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -10559,6 +10559,24 @@
       "channel": {
         "name": "WGN News",
         "id": "UCDrLGkZTcNCshOLiKi5NtEw"
+      }
+    },
+    {
+      "id": "wc8GrGfHbjQ",
+      "title": "Utah city tells families to get out of their new homes",
+      "duration": 217,
+      "channel": {
+        "name": "FOX 13 News Utah",
+        "id": "UCxjC_VVez3w8Uyh7LWPnkXA"
+      }
+    },
+    {
+      "id": "HKzXXEsLSO0",
+      "title": "The Guys Who Wrote Frosty The Snowman",
+      "duration": 284,
+      "channel": {
+        "name": "Ryan George",
+        "id": "UCh9IfI45mmk59eDvSWtuuhQ"
       }
     }
   ]
