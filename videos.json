@@ -2,7 +2,7 @@
   "totalSize": "4.7 GB",
   "totalVideoSize": "2.2 GB",
   "totalAudioSize": "2.5 GB",
-  "totalVideos": 1178,
+  "totalVideos": 1179,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -10604,6 +10604,15 @@
       "channel": {
         "name": "Movie Trailers Source",
         "id": "UCpJN7kiUkDrH11p0GQhLyFw"
+      }
+    },
+    {
+      "id": "pL7hOU8cYkI",
+      "title": "Brazil vs. South Korea Highlights | 2022 FIFA World Cup",
+      "duration": 295,
+      "channel": {
+        "name": "FOX Soccer",
+        "id": "UCooTLkxcpnTNx6vfOovfBFA"
       }
     }
   ]
