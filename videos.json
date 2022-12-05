@@ -2,7 +2,7 @@
   "totalSize": "4.7 GB",
   "totalVideoSize": "2.2 GB",
   "totalAudioSize": "2.5 GB",
-  "totalVideos": 1171,
+  "totalVideos": 1172,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -10541,6 +10541,15 @@
       "channel": {
         "name": "Netflix",
         "id": "UCWOA1ZGywLbqmigxE4Qlvuw"
+      }
+    },
+    {
+      "id": "HfYqhGEmMpo",
+      "title": "Japan vs. Croatia Highlights | 2022 FIFA World Cup",
+      "duration": 300,
+      "channel": {
+        "name": "FOX Soccer",
+        "id": "UCooTLkxcpnTNx6vfOovfBFA"
       }
     }
   ]
