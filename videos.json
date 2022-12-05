@@ -2,7 +2,7 @@
   "totalSize": "4.7 GB",
   "totalVideoSize": "2.2 GB",
   "totalAudioSize": "2.5 GB",
-  "totalVideos": 1177,
+  "totalVideos": 1178,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -10595,6 +10595,15 @@
       "channel": {
         "name": "CBS Boston",
         "id": "UCi4fcBVyo4CAnmdgXeO-NvA"
+      }
+    },
+    {
+      "id": "e-I-YCy7yKY",
+      "title": "COCAINE BEAR Official Trailer (2023)",
+      "duration": 155,
+      "channel": {
+        "name": "Movie Trailers Source",
+        "id": "UCpJN7kiUkDrH11p0GQhLyFw"
       }
     }
   ]
