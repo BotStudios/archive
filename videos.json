@@ -2,7 +2,7 @@
   "totalSize": "4.7 GB",
   "totalVideoSize": "2.2 GB",
   "totalAudioSize": "2.5 GB",
-  "totalVideos": 1172,
+  "totalVideos": 1173,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -10550,6 +10550,15 @@
       "channel": {
         "name": "FOX Soccer",
         "id": "UCooTLkxcpnTNx6vfOovfBFA"
+      }
+    },
+    {
+      "id": "ahwDxv4l2Uo",
+      "title": "Woman accused of dismembering Chicago landlord appears in court",
+      "duration": 154,
+      "channel": {
+        "name": "WGN News",
+        "id": "UCDrLGkZTcNCshOLiKi5NtEw"
       }
     }
   ]
