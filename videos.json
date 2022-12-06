@@ -2,7 +2,7 @@
   "totalSize": "4.8 GB",
   "totalVideoSize": "2.2 GB",
   "totalAudioSize": "2.6 GB",
-  "totalVideos": 1200,
+  "totalVideos": 1201,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -10802,6 +10802,15 @@
       "channel": {
         "name": "Washington Post",
         "id": "UCHd62-u_v4DvJ8TCFtpi4GA"
+      }
+    },
+    {
+      "id": "Chg01oZCiWo",
+      "title": "Preserving Black History in RI",
+      "duration": 289,
+      "channel": {
+        "name": "therhodeshow",
+        "id": "UCgshKBtxkqc6P_YyF25OHyQ"
       }
     }
   ]
