@@ -2,7 +2,7 @@
   "totalSize": "4.8 GB",
   "totalVideoSize": "2.2 GB",
   "totalAudioSize": "2.6 GB",
-  "totalVideos": 1205,
+  "totalVideos": 1206,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -10847,6 +10847,15 @@
       "channel": {
         "name": "Destiny 2",
         "id": "UC52XYgEExV9VG6Rt-6vnzVA"
+      }
+    },
+    {
+      "id": "Mz-ZARTX2W4",
+      "title": "Michael Cohen: 'This Is The Death Spiral Of The Trump Organization'",
+      "duration": 269,
+      "channel": {
+        "name": "MSNBC",
+        "id": "UCaXkIU1QidjPwiAYu6GcHjg"
       }
     }
   ]
