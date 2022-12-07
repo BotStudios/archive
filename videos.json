@@ -2,7 +2,7 @@
   "totalSize": "4.8 GB",
   "totalVideoSize": "2.2 GB",
   "totalAudioSize": "2.6 GB",
-  "totalVideos": 1216,
+  "totalVideos": 1217,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -10946,6 +10946,15 @@
       "channel": {
         "name": "WGN News",
         "id": "UCDrLGkZTcNCshOLiKi5NtEw"
+      }
+    },
+    {
+      "id": "2C0C8iC7rbc",
+      "title": "Inside the NBA reacts to Steph Curry Full Court Shots Video 😁",
+      "duration": 259,
+      "channel": {
+        "name": "House of Highlights",
+        "id": "UCqQo7ewe87aYAe7ub5UqXMw"
       }
     }
   ]
