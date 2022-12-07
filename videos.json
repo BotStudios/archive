@@ -2,7 +2,7 @@
   "totalSize": "4.8 GB",
   "totalVideoSize": "2.2 GB",
   "totalAudioSize": "2.6 GB",
-  "totalVideos": 1217,
+  "totalVideos": 1218,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -10955,6 +10955,15 @@
       "channel": {
         "name": "House of Highlights",
         "id": "UCqQo7ewe87aYAe7ub5UqXMw"
+      }
+    },
+    {
+      "id": "by1Dyt3qo_M",
+      "title": "Apple postpones development of self-driving EV to 2026",
+      "duration": 200,
+      "channel": {
+        "name": "Yahoo Finance",
+        "id": "UCEAZeUIeJs0IjQiqTCdVSIg"
       }
     }
   ]
