@@ -2,7 +2,7 @@
   "totalSize": "5.0 GB",
   "totalVideoSize": "2.3 GB",
   "totalAudioSize": "2.7 GB",
-  "totalVideos": 1258,
+  "totalVideos": 1260,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -11324,6 +11324,24 @@
       "channel": {
         "name": "Streamy Awards",
         "id": "UCRJujaKIoPjmPXB8UmL7dvQ"
+      }
+    },
+    {
+      "id": "9kEtGEVfnVc",
+      "title": "Vanilla Ice Reveals How He Was Treated by Tupac & Other Rappers | The Dan Patrick Show | 7/12/17",
+      "duration": 199,
+      "channel": {
+        "name": "Dan Patrick Show",
+        "id": "UCORy0Yqzd8bVj2Gb4xyq6HA"
+      }
+    },
+    {
+      "id": "FBORpcuhXX8",
+      "title": "Customer States Exhaust Sounds Terrible & Drags On The Ground | Just Rolled In",
+      "duration": 193,
+      "channel": {
+        "name": "Just Rolled In",
+        "id": "UCjN72nQrWhDnppts-lNnlKQ"
       }
     }
   ]
