@@ -2,7 +2,7 @@
   "totalSize": "5.0 GB",
   "totalVideoSize": "2.3 GB",
   "totalAudioSize": "2.7 GB",
-  "totalVideos": 1265,
+  "totalVideos": 1266,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -11387,6 +11387,15 @@
       "channel": {
         "name": "Paramore",
         "id": "UCc7_woMAIVIW2mAr1rPCsFQ"
+      }
+    },
+    {
+      "id": "7hentpLSkW0",
+      "title": "無摺存款疑遭利用! 金管會抓炒房集團 發函銀行監控ATM｜TVBS新聞@tvbsnews02",
+      "duration": 125,
+      "channel": {
+        "name": "TVBS選新聞",
+        "id": "UCL0_NxCvkcXwZHpvqgMZY-A"
       }
     }
   ]
