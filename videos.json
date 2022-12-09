@@ -2,7 +2,7 @@
   "totalSize": "5.2 GB",
   "totalVideoSize": "2.4 GB",
   "totalAudioSize": "2.8 GB",
-  "totalVideos": 1299,
+  "totalVideos": 1302,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -11693,6 +11693,33 @@
       "channel": {
         "name": "KVUE",
         "id": "UCxXTyFekH99JnS3qaXIQW7A"
+      }
+    },
+    {
+      "id": "NNd_ufPG3x4",
+      "title": "SZA - Nobody Gets Me (Official Video)",
+      "duration": 183,
+      "channel": {
+        "name": "SZA",
+        "id": "UCO5IQ70V7l-XpHW40HwaGsw"
+      }
+    },
+    {
+      "id": "2vfmL4q2koo",
+      "title": "RM 'Still Life (with Anderson .Paak)' Official MV",
+      "duration": 194,
+      "channel": {
+        "name": "HYBE LABELS",
+        "id": "UC3IZKseVpdzPSBaWxBxundA"
+      }
+    },
+    {
+      "id": "gZOIWx9lhUM",
+      "title": "SZA - Blind (Live at SNL)",
+      "duration": 162,
+      "channel": {
+        "name": "SZA",
+        "id": "UCO5IQ70V7l-XpHW40HwaGsw"
       }
     }
   ]
