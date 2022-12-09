@@ -2,7 +2,7 @@
   "totalSize": "5.1 GB",
   "totalVideoSize": "2.3 GB",
   "totalAudioSize": "2.8 GB",
-  "totalVideos": 1294,
+  "totalVideos": 1295,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -11648,6 +11648,15 @@
       "channel": {
         "name": "Fox Business",
         "id": "UCCXoCcu9Rp7NPbTzIvogpZg"
+      }
+    },
+    {
+      "id": "qMkYlIA7mgw",
+      "title": "Canada & The United States's Bizarre Border",
+      "duration": 290,
+      "channel": {
+        "name": "CGP Grey",
+        "id": "UC2C_jShtL725hvbm1arSV9w"
       }
     }
   ]
