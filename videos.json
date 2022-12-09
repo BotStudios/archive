@@ -2,7 +2,7 @@
   "totalSize": "5.1 GB",
   "totalVideoSize": "2.3 GB",
   "totalAudioSize": "2.8 GB",
-  "totalVideos": 1279,
+  "totalVideos": 1280,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -11513,6 +11513,15 @@
       "channel": {
         "name": "EA Star Wars",
         "id": "UCOsVSkmXD1tc6uiJ2hc0wYQ"
+      }
+    },
+    {
+      "id": "c-MM0Q8UMQE",
+      "title": "Every Hallmark Christmas Movie",
+      "duration": 209,
+      "channel": {
+        "name": "Trey Kennedy",
+        "id": "UCP7LUz8TKiOARTD8LdrVgXQ"
       }
     }
   ]
