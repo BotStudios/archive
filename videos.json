@@ -2,7 +2,7 @@
   "totalSize": "5.3 GB",
   "totalVideoSize": "2.4 GB",
   "totalAudioSize": "2.9 GB",
-  "totalVideos": 1328,
+  "totalVideos": 1329,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -11954,6 +11954,15 @@
       "channel": {
         "name": "motivationaldoc",
         "id": "UCKcWSiffY8MpZ3NKav8LeRA"
+      }
+    },
+    {
+      "id": "KwlBLxeKj2k",
+      "title": "Brittney Griner's release raises new concerns over \"hostage diplomacy\"",
+      "duration": 154,
+      "channel": {
+        "name": "CBS News",
+        "id": "UC8p1vwvWtl6T73JiExfWs1g"
       }
     }
   ]
