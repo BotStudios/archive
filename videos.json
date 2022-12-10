@@ -2,7 +2,7 @@
   "totalSize": "5.3 GB",
   "totalVideoSize": "2.4 GB",
   "totalAudioSize": "2.9 GB",
-  "totalVideos": 1321,
+  "totalVideos": 1322,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -11891,6 +11891,15 @@
       "channel": {
         "name": "Lyrical Lemonade",
         "id": "UCtylTUUVIGY_i5afsQYeBZA"
+      }
+    },
+    {
+      "id": "V80-nMx4OJY",
+      "title": "Dad LOVES his New Husky Puppy Son So Much!",
+      "duration": 193,
+      "channel": {
+        "name": "Gohan The Husky",
+        "id": "UCKD8QcX1LhFB8n7lhjfuQdg"
       }
     }
   ]
