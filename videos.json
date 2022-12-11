@@ -2,7 +2,7 @@
   "totalSize": "5.4 GB",
   "totalVideoSize": "2.4 GB",
   "totalAudioSize": "3.0 GB",
-  "totalVideos": 1366,
+  "totalVideos": 1367,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -12296,6 +12296,15 @@
       "channel": {
         "name": "Highlight Heaven",
         "id": "UCq0grzC77X9UZd9xngQRTjg"
+      }
+    },
+    {
+      "id": "Ro26B394ZBM",
+      "title": "Diablo 4 Official Cinematic Release Date Trailer",
+      "duration": 180,
+      "channel": {
+        "name": "GameSpot",
+        "id": "UCbu2SsF-Or3Rsn3NxqODImw"
       }
     }
   ]
