@@ -2,7 +2,7 @@
   "totalSize": "5.4 GB",
   "totalVideoSize": "2.4 GB",
   "totalAudioSize": "3.0 GB",
-  "totalVideos": 1360,
+  "totalVideos": 1361,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -12242,6 +12242,15 @@
       "channel": {
         "name": "The Whitest Kids U'Know",
         "id": "UCLDYDiIo5CmWScrENJWYJAw"
+      }
+    },
+    {
+      "id": "q5FcGYSG_6Y",
+      "title": "Among Us: Hide n' Seek Trailer | The Game Awards 2022",
+      "duration": 86,
+      "channel": {
+        "name": "IGN",
+        "id": "UCKy1dAqELo0zrOtPkf0eTMw"
       }
     }
   ]
