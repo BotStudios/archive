@@ -1,8 +1,8 @@
 {
   "totalSize": "5.4 GB",
   "totalVideoSize": "2.4 GB",
-  "totalAudioSize": "2.9 GB",
-  "totalVideos": 1347,
+  "totalAudioSize": "3.0 GB",
+  "totalVideos": 1348,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -12125,6 +12125,15 @@
       "channel": {
         "name": "Tom and Mimi",
         "id": "UC30JIhyJBA96T62p4poxg0Q"
+      }
+    },
+    {
+      "id": "REhG_ht7CZE",
+      "title": "Bay Area Forecast: Rain at Times With Isolated Thunder Possible",
+      "duration": 217,
+      "channel": {
+        "name": "NBC Bay Area",
+        "id": "UCmKKVuZrBfSGiuvtOuipoDA"
       }
     }
   ]
