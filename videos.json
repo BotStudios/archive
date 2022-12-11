@@ -2,7 +2,7 @@
   "totalSize": "5.3 GB",
   "totalVideoSize": "2.4 GB",
   "totalAudioSize": "2.9 GB",
-  "totalVideos": 1340,
+  "totalVideos": 1341,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -12062,6 +12062,15 @@
       "channel": {
         "name": "Still Watching Netflix",
         "id": "UCGie8GMlUo3kBKIopdvumVQ"
+      }
+    },
+    {
+      "id": "U9BStYV_wzY",
+      "title": "Explaining my 40s to my 30s",
+      "duration": 298,
+      "channel": {
+        "name": "Anna Akana",
+        "id": "UCZC45sBWNdkqSQ9Bwtt5lfA"
       }
     }
   ]
