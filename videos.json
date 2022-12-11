@@ -2,7 +2,7 @@
   "totalSize": "5.3 GB",
   "totalVideoSize": "2.4 GB",
   "totalAudioSize": "2.9 GB",
-  "totalVideos": 1331,
+  "totalVideos": 1332,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -11981,6 +11981,15 @@
       "channel": {
         "name": "FOX Soccer",
         "id": "UCooTLkxcpnTNx6vfOovfBFA"
+      }
+    },
+    {
+      "id": "9EmLbOJZULU",
+      "title": "The Subtle Art of Not Giving a F*ck | Official Trailer",
+      "duration": 105,
+      "channel": {
+        "name": "Mark Manson",
+        "id": "UC0TnW9acNxqeojxXDMbohcA"
       }
     }
   ]
