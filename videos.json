@@ -2,7 +2,7 @@
   "totalSize": "5.6 GB",
   "totalVideoSize": "2.5 GB",
   "totalAudioSize": "3.1 GB",
-  "totalVideos": 1396,
+  "totalVideos": 1397,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -12566,6 +12566,15 @@
       "channel": {
         "name": "Meghan Trainor",
         "id": "UCkXgEcpoTE4tHsebYBouWpA"
+      }
+    },
+    {
+      "id": "w9XgfgzEGKM",
+      "title": "Minecraft but players TRY TOO HARD",
+      "duration": 265,
+      "channel": {
+        "name": "Evbo",
+        "id": "UC1HL3TABt6QGd_P857BH_CA"
       }
     }
   ]
