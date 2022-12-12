@@ -1,8 +1,8 @@
 {
   "totalSize": "5.5 GB",
   "totalVideoSize": "2.5 GB",
-  "totalAudioSize": "3.0 GB",
-  "totalVideos": 1385,
+  "totalAudioSize": "3.1 GB",
+  "totalVideos": 1387,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -12467,6 +12467,24 @@
       "channel": {
         "name": "GeoBeats Animals",
         "id": "UC7_VH_kj0aD9vhuHmFheUYQ"
+      }
+    },
+    {
+      "id": "QLWkl5YpiD0",
+      "title": "Tenacious D — Wicked Game (Chris Isaak Cover) [Live @ SiriusXM]",
+      "duration": 116,
+      "channel": {
+        "name": "SiriusXM",
+        "id": "UC49ta0RHXJUiID5KWRkcySw"
+      }
+    },
+    {
+      "id": "SWAMTXfqer0",
+      "title": "Demon Slayer: Kimetsu no Yaiba Promotion Reel 2023",
+      "duration": 176,
+      "channel": {
+        "name": "Crunchyroll Collection",
+        "id": "UC6pGDc4bFGD1_36IKv3FnYg"
       }
     }
   ]
