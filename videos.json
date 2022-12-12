@@ -2,7 +2,7 @@
   "totalSize": "5.5 GB",
   "totalVideoSize": "2.5 GB",
   "totalAudioSize": "3.1 GB",
-  "totalVideos": 1388,
+  "totalVideos": 1389,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -12494,6 +12494,15 @@
       "channel": {
         "name": "Street Fighter",
         "id": "UCVg9nCmmfIyP4QcGOnZZ9Qg"
+      }
+    },
+    {
+      "id": "PzHrpIfEhJU",
+      "title": "\"Rising Kingdom\" - A Minecraft Original Music Video",
+      "duration": 264,
+      "channel": {
+        "name": "CaptainSparklez",
+        "id": "UCshoKvlZGZ20rVgazZp5vnQ"
       }
     }
   ]
