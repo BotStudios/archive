@@ -2,7 +2,7 @@
   "totalSize": "5.5 GB",
   "totalVideoSize": "2.5 GB",
   "totalAudioSize": "3.0 GB",
-  "totalVideos": 1378,
+  "totalVideos": 1379,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -12404,6 +12404,15 @@
       "channel": {
         "name": "BBC",
         "id": "UCCj956IF62FbT7Gouszaj9w"
+      }
+    },
+    {
+      "id": "mx33pwfJha4",
+      "title": "Media erupts over Elon Musk's pronouns tweet",
+      "duration": 238,
+      "channel": {
+        "name": "Fox News",
+        "id": "UCXIJgqnII2ZOINSWNOGFThA"
       }
     }
   ]
