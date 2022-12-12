@@ -2,7 +2,7 @@
   "totalSize": "5.5 GB",
   "totalVideoSize": "2.5 GB",
   "totalAudioSize": "3.0 GB",
-  "totalVideos": 1373,
+  "totalVideos": 1374,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -12359,6 +12359,15 @@
       "channel": {
         "name": "The Independent",
         "id": "UCshwRhftzkiov5wKR7M_LsQ"
+      }
+    },
+    {
+      "id": "8xg3vE8Ie_E",
+      "title": "Taylor Swift - Love Story",
+      "duration": 237,
+      "channel": {
+        "name": "Taylor Swift",
+        "id": "UCqECaJ8Gagnn7YCbPEzWH6g"
       }
     }
   ]
