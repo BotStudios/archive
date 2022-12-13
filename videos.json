@@ -2,7 +2,7 @@
   "totalSize": "5.6 GB",
   "totalVideoSize": "2.5 GB",
   "totalAudioSize": "3.1 GB",
-  "totalVideos": 1405,
+  "totalVideos": 1406,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -12647,6 +12647,15 @@
       "channel": {
         "name": "mistersunshinebaby",
         "id": "UC6sLjLotevEzaOspcJqEONQ"
+      }
+    },
+    {
+      "id": "xjy_SIas1WA",
+      "title": "Natalie Jane - AVA (Lyric Video)",
+      "duration": 160,
+      "channel": {
+        "name": "Natalie Jane",
+        "id": "UC1KXRRPLJg5Abs44UlGYv2A"
       }
     }
   ]
