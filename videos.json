@@ -2,7 +2,7 @@
   "totalSize": "5.6 GB",
   "totalVideoSize": "2.5 GB",
   "totalAudioSize": "3.1 GB",
-  "totalVideos": 1402,
+  "totalVideos": 1403,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -12620,6 +12620,15 @@
       "channel": {
         "name": "TKB-The Kid Brothers",
         "id": "UCkvBfg8kqa1is--0R9t8DeQ"
+      }
+    },
+    {
+      "id": "U747IQXEoto",
+      "title": "Street Fighter 6 - Pre-Order Trailer | PS5 Games",
+      "duration": 155,
+      "channel": {
+        "name": "PlayStation",
+        "id": "UC-2Y8dQb0S6DtpxNgAKoJKA"
       }
     }
   ]
