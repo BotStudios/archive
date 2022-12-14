@@ -2,7 +2,7 @@
   "totalSize": "5.8 GB",
   "totalVideoSize": "2.6 GB",
   "totalAudioSize": "3.2 GB",
-  "totalVideos": 1438,
+  "totalVideos": 1439,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -12944,6 +12944,15 @@
       "channel": {
         "name": "CNN",
         "id": "UCupvZG-5ko_eiXAupbDfxWw"
+      }
+    },
+    {
+      "id": "6SNU_rznB2I",
+      "title": "12/13 PHI vs. COL Postgame: John Tortorella",
+      "duration": 121,
+      "channel": {
+        "name": "Philadelphia Flyers",
+        "id": "UCr6jSk2_SLOmjCG-3GeIStw"
       }
     }
   ]
