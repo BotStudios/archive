@@ -2,7 +2,7 @@
   "totalSize": "5.8 GB",
   "totalVideoSize": "2.5 GB",
   "totalAudioSize": "3.2 GB",
-  "totalVideos": 1430,
+  "totalVideos": 1431,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -12872,6 +12872,15 @@
       "channel": {
         "name": "MyNBC5-WPTZ",
         "id": "UCO3KF4ZlaGjyels6A7riZug"
+      }
+    },
+    {
+      "id": "pQLb4yBwxvg",
+      "title": "Scream VI | Official Teaser Trailer (2023 Movie)",
+      "duration": 66,
+      "channel": {
+        "name": "Paramount Pictures",
+        "id": "UCF9imwPMSGz4Vq1NiTWCC7g"
       }
     }
   ]
