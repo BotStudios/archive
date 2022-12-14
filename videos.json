@@ -2,7 +2,7 @@
   "totalSize": "5.7 GB",
   "totalVideoSize": "2.5 GB",
   "totalAudioSize": "3.1 GB",
-  "totalVideos": 1423,
+  "totalVideos": 1424,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -12809,6 +12809,15 @@
       "channel": {
         "name": "ABC 7 Chicago",
         "id": "UC_vFLohxs5PkAxlk7Y6jEtw"
+      }
+    },
+    {
+      "id": "iFhwYVA3Nlc",
+      "title": "Semi-truck driver faces charges for 38-vehicle pileup on eastbound I-90",
+      "duration": 115,
+      "channel": {
+        "name": "KOMO News",
+        "id": "UC__2_0RJ8XnHt2angfw6S1Q"
       }
     }
   ]
