@@ -2,7 +2,7 @@
   "totalSize": "5.9 GB",
   "totalVideoSize": "2.6 GB",
   "totalAudioSize": "3.3 GB",
-  "totalVideos": 1458,
+  "totalVideos": 1459,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -13124,6 +13124,15 @@
       "channel": {
         "name": "WCVB Channel 5 Boston",
         "id": "UC72UssJ1DNQcakZXm-B2-zw"
+      }
+    },
+    {
+      "id": "EgjCi_244-U",
+      "title": "Caitlynne Curtis // \"Have Yourself A Merry Little Christmas\"",
+      "duration": 183,
+      "channel": {
+        "name": "Caitlynne Curtis",
+        "id": "UCiuzf01aAxkNC4X0s8kfa_A"
       }
     }
   ]
