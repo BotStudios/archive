@@ -2,7 +2,7 @@
   "totalSize": "5.9 GB",
   "totalVideoSize": "2.6 GB",
   "totalAudioSize": "3.3 GB",
-  "totalVideos": 1466,
+  "totalVideos": 1468,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -13196,6 +13196,24 @@
       "channel": {
         "name": "11Alive",
         "id": "UCzF4Ryn8TKn64md77gS5Q5Q"
+      }
+    },
+    {
+      "id": "NO_ZdJjMtdI",
+      "title": "Juice WRLD - Face 2 Face (Official Music Video)",
+      "duration": 192,
+      "channel": {
+        "name": "Juice WRLD",
+        "id": "UC0BletW9phE4xHFM44q4qKA"
+      }
+    },
+    {
+      "id": "veRNsPrxO18",
+      "title": "Snow Is Falling",
+      "duration": 131,
+      "channel": {
+        "name": "Philipp Weigl - Pianomusic",
+        "id": "UC6BLZU_SxxvCdeR9lZFULbg"
       }
     }
   ]
