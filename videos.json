@@ -2,7 +2,7 @@
   "totalSize": "5.9 GB",
   "totalVideoSize": "2.6 GB",
   "totalAudioSize": "3.3 GB",
-  "totalVideos": 1463,
+  "totalVideos": 1464,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -13169,6 +13169,15 @@
       "channel": {
         "name": "Duolingo",
         "id": "UCG98ruDeyp55THxbpBCIv3g"
+      }
+    },
+    {
+      "id": "yVmWzH7dud0",
+      "title": "LET THEM TALK! - Best Motivational Speech | Steve Harvey  Les Brown Eric Thomas",
+      "duration": 288,
+      "channel": {
+        "name": "Healthy Mindset",
+        "id": "UCOcgHpwJRIWZhAxZFjFPK1A"
       }
     }
   ]
