@@ -2,7 +2,7 @@
   "totalSize": "5.9 GB",
   "totalVideoSize": "2.6 GB",
   "totalAudioSize": "3.3 GB",
-  "totalVideos": 1462,
+  "totalVideos": 1463,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -13160,6 +13160,15 @@
       "channel": {
         "name": "Fox News",
         "id": "UCXIJgqnII2ZOINSWNOGFThA"
+      }
+    },
+    {
+      "id": "ZU_GdP1zPgA",
+      "title": "Museum of Wonky English | Duolingo",
+      "duration": 97,
+      "channel": {
+        "name": "Duolingo",
+        "id": "UCG98ruDeyp55THxbpBCIv3g"
       }
     }
   ]
