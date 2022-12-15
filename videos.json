@@ -2,7 +2,7 @@
   "totalSize": "5.9 GB",
   "totalVideoSize": "2.6 GB",
   "totalAudioSize": "3.3 GB",
-  "totalVideos": 1460,
+  "totalVideos": 1461,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -13142,6 +13142,15 @@
       "channel": {
         "name": "NBC Sports Chicago",
         "id": "UCzcPvF3u_xgLn5za3TL2Ybw"
+      }
+    },
+    {
+      "id": "Dll6VJ2C7wo",
+      "title": "RAYE, 070 Shake - Escapism. (Official Music Video)",
+      "duration": 274,
+      "channel": {
+        "name": "RAYE",
+        "id": "UCw5z_dopYnvEL6Rc8KNKsnw"
       }
     }
   ]
