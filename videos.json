@@ -2,7 +2,7 @@
   "totalSize": "5.9 GB",
   "totalVideoSize": "2.6 GB",
   "totalAudioSize": "3.3 GB",
-  "totalVideos": 1470,
+  "totalVideos": 1472,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -13232,6 +13232,24 @@
       "channel": {
         "name": "WKYC Channel 3",
         "id": "UCNBmxc6FvKyxtCpUygcdINA"
+      }
+    },
+    {
+      "id": "x_DA3dgRSrw",
+      "title": "Yoann Bourgeois Captivates Audience with Powerful Performance About Life ( Original Video )",
+      "duration": 98,
+      "channel": {
+        "name": "Mathieu Stern",
+        "id": "UCYX22a35sKhA0T6ee7uZfvg"
+      }
+    },
+    {
+      "id": "3Mpbd-UYnuQ",
+      "title": "FTX Founder Arrested in The Bahamas, Faces Several Fraud Charges",
+      "duration": 104,
+      "channel": {
+        "name": "NBC Bay Area",
+        "id": "UCmKKVuZrBfSGiuvtOuipoDA"
       }
     }
   ]
