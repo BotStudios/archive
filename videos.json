@@ -2,7 +2,7 @@
   "totalSize": "6.0 GB",
   "totalVideoSize": "2.6 GB",
   "totalAudioSize": "3.4 GB",
-  "totalVideos": 1489,
+  "totalVideos": 1491,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -13403,6 +13403,24 @@
       "channel": {
         "name": "WCCO - CBS Minnesota",
         "id": "UCry2gCVdntv6r661sKUiKXw"
+      }
+    },
+    {
+      "id": "VJi641_7W10",
+      "title": "Trump's Latest Grift Is Too Much For Even Steve Bannon, Michael Flynn",
+      "duration": 147,
+      "channel": {
+        "name": "MSNBC",
+        "id": "UCaXkIU1QidjPwiAYu6GcHjg"
+      }
+    },
+    {
+      "id": "otpPbxdhXOM",
+      "title": "Elon Musk suspends CNN, NY Times, WaPo reporters for 'doxxing'",
+      "duration": 256,
+      "channel": {
+        "name": "Fox Business",
+        "id": "UCCXoCcu9Rp7NPbTzIvogpZg"
       }
     }
   ]
