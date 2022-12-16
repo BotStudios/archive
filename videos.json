@@ -2,7 +2,7 @@
   "totalSize": "6.0 GB",
   "totalVideoSize": "2.6 GB",
   "totalAudioSize": "3.4 GB",
-  "totalVideos": 1496,
+  "totalVideos": 1497,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -13466,6 +13466,15 @@
       "channel": {
         "name": "DDG",
         "id": "UCKqqDlf6lfo3ChRA4-gzusQ"
+      }
+    },
+    {
+      "id": "nO5LSIcae7A",
+      "title": "Ethereal Glide",
+      "duration": 149,
+      "channel": {
+        "name": "Bjorn Lynne",
+        "id": "UCprzr7HQRibJbMl_gAHQHNw"
       }
     }
   ]
