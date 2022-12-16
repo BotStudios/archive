@@ -2,7 +2,7 @@
   "totalSize": "5.9 GB",
   "totalVideoSize": "2.6 GB",
   "totalAudioSize": "3.3 GB",
-  "totalVideos": 1475,
+  "totalVideos": 1476,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -13277,6 +13277,15 @@
       "channel": {
         "name": "A24",
         "id": "UCuPivVjnfNo4mb3Oog_frZg"
+      }
+    },
+    {
+      "id": "YzKOoYt80aM",
+      "title": "Hawley Floor Speech on Senate Passage of Bill Banning TikTok From Government Devices",
+      "duration": 268,
+      "channel": {
+        "name": "Senator Josh Hawley",
+        "id": "UCMzt8xq6qQ3XQ_DlNfJx0-w"
       }
     }
   ]
