@@ -2,7 +2,7 @@
   "totalSize": "6.0 GB",
   "totalVideoSize": "2.6 GB",
   "totalAudioSize": "3.4 GB",
-  "totalVideos": 1497,
+  "totalVideos": 1498,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -13475,6 +13475,15 @@
       "channel": {
         "name": "Bjorn Lynne",
         "id": "UCprzr7HQRibJbMl_gAHQHNw"
+      }
+    },
+    {
+      "id": "o_1aF54DO60",
+      "title": "Lana Del Rey - Young and Beautiful",
+      "duration": 239,
+      "channel": {
+        "name": "Lana Del Rey",
+        "id": "UCqk3CdGN_j8IR9z4uBbVPSg"
       }
     }
   ]
