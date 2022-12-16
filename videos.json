@@ -2,7 +2,7 @@
   "totalSize": "6.0 GB",
   "totalVideoSize": "2.6 GB",
   "totalAudioSize": "3.4 GB",
-  "totalVideos": 1485,
+  "totalVideos": 1487,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -13367,6 +13367,24 @@
       "channel": {
         "name": "SinX6",
         "id": "UCkFeiE59qbO8s7O0bKmoseg"
+      }
+    },
+    {
+      "id": "vgxsnHbhJ6w",
+      "title": "Sheku Kanneh-Mason - Gabriel's Message",
+      "duration": 152,
+      "channel": {
+        "name": "Sheku Kanneh-Mason",
+        "id": "UCOHBQmt62-vhVooX-0iMBww"
+      }
+    },
+    {
+      "id": "kqPKNksl9hk",
+      "title": "Things are Changing Very Fast",
+      "duration": 239,
+      "channel": {
+        "name": "vlogbrothers",
+        "id": "UCGaVdbSav8xWuFWTadK6loA"
       }
     }
   ]
