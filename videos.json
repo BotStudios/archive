@@ -2,7 +2,7 @@
   "totalSize": "6.0 GB",
   "totalVideoSize": "2.6 GB",
   "totalAudioSize": "3.4 GB",
-  "totalVideos": 1491,
+  "totalVideos": 1492,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -13421,6 +13421,15 @@
       "channel": {
         "name": "Fox Business",
         "id": "UCCXoCcu9Rp7NPbTzIvogpZg"
+      }
+    },
+    {
+      "id": "fM1sV6z4SAk",
+      "title": "Barbie - Official Teaser Trailer Starring Margot Robbie & Ryan Gosling",
+      "duration": 81,
+      "channel": {
+        "name": "E! News",
+        "id": "UCjDsbbzHgTrGc4Ff26TJtsA"
       }
     }
   ]
