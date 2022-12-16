@@ -2,7 +2,7 @@
   "totalSize": "6.0 GB",
   "totalVideoSize": "2.6 GB",
   "totalAudioSize": "3.4 GB",
-  "totalVideos": 1502,
+  "totalVideos": 1503,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -13520,6 +13520,15 @@
       "channel": {
         "name": "Inside Edition",
         "id": "UC9k-yiEpRHMNVOnOi_aQK8w"
+      }
+    },
+    {
+      "id": "-SXqLr8nlNA",
+      "title": "Modesto city leaders approve plan to increase police transparency; community input included",
+      "duration": 110,
+      "channel": {
+        "name": "KCRA News",
+        "id": "UC-BSVXejMFhhml4V_VyoGxg"
       }
     }
   ]
