@@ -2,7 +2,7 @@
   "totalSize": "5.9 GB",
   "totalVideoSize": "2.6 GB",
   "totalAudioSize": "3.3 GB",
-  "totalVideos": 1476,
+  "totalVideos": 1477,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -13286,6 +13286,15 @@
       "channel": {
         "name": "Senator Josh Hawley",
         "id": "UCMzt8xq6qQ3XQ_DlNfJx0-w"
+      }
+    },
+    {
+      "id": "d67cLclMZVI",
+      "title": "Stephen ‘tWitch’ Boss' Cause of Death Confirmed",
+      "duration": 153,
+      "channel": {
+        "name": "Entertainment Tonight",
+        "id": "UCdtXPiqI2cLorKaPrfpKc4g"
       }
     }
   ]
