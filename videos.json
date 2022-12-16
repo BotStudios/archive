@@ -2,7 +2,7 @@
   "totalSize": "5.9 GB",
   "totalVideoSize": "2.6 GB",
   "totalAudioSize": "3.3 GB",
-  "totalVideos": 1478,
+  "totalVideos": 1479,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -13304,6 +13304,15 @@
       "channel": {
         "name": "Bjorn Lynne",
         "id": "UCprzr7HQRibJbMl_gAHQHNw"
+      }
+    },
+    {
+      "id": "iTgcp1oDk2M",
+      "title": "Red Velvet X aespa 'Beautiful Christmas' MV",
+      "duration": 219,
+      "channel": {
+        "name": "SMTOWN",
+        "id": "UCEf_Bc-KVd7onSeifS3py9g"
       }
     }
   ]
