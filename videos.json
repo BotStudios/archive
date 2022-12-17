@@ -2,7 +2,7 @@
   "totalSize": "6.2 GB",
   "totalVideoSize": "2.7 GB",
   "totalAudioSize": "3.5 GB",
-  "totalVideos": 1534,
+  "totalVideos": 1535,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -13808,6 +13808,15 @@
       "channel": {
         "name": "FOX Soccer",
         "id": "UCooTLkxcpnTNx6vfOovfBFA"
+      }
+    },
+    {
+      "id": "-VTV01289xc",
+      "title": "REMEMBERING TWITCH: Last Good Day DC Interview",
+      "duration": 278,
+      "channel": {
+        "name": "FOX 5 Washington DC",
+        "id": "UCHLyP4MuA-JAFBCwxXOEDdA"
       }
     }
   ]
