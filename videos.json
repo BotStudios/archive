@@ -2,7 +2,7 @@
   "totalSize": "6.0 GB",
   "totalVideoSize": "2.6 GB",
   "totalAudioSize": "3.4 GB",
-  "totalVideos": 1503,
+  "totalVideos": 1504,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -13529,6 +13529,15 @@
       "channel": {
         "name": "KCRA News",
         "id": "UC-BSVXejMFhhml4V_VyoGxg"
+      }
+    },
+    {
+      "id": "K96iV5LGDQ0",
+      "title": "Your friend from high school who's doing \"pretty good\"",
+      "duration": 211,
+      "channel": {
+        "name": "Joel Haver",
+        "id": "UCVIFCOJwv3emlVmBbPCZrvw"
       }
     }
   ]
