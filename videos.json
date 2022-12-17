@@ -2,7 +2,7 @@
   "totalSize": "6.0 GB",
   "totalVideoSize": "2.6 GB",
   "totalAudioSize": "3.4 GB",
-  "totalVideos": 1505,
+  "totalVideos": 1506,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -13547,6 +13547,15 @@
       "channel": {
         "name": "E! News",
         "id": "UCjDsbbzHgTrGc4Ff26TJtsA"
+      }
+    },
+    {
+      "id": "fvC43sbnPeQ",
+      "title": "SANTI FRANCESI - Creep (Official Visual Video)",
+      "duration": 217,
+      "channel": {
+        "name": "SANTI FRANCESI",
+        "id": "UCkI3wMSft-9A-bqRTEdeuPg"
       }
     }
   ]
