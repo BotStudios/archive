@@ -2,7 +2,7 @@
   "totalSize": "6.2 GB",
   "totalVideoSize": "2.7 GB",
   "totalAudioSize": "3.5 GB",
-  "totalVideos": 1540,
+  "totalVideos": 1541,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -13862,6 +13862,15 @@
       "channel": {
         "name": "The Action Lab",
         "id": "UC1VLQPn9cYSqx8plbk9RxxQ"
+      }
+    },
+    {
+      "id": "-5WPVWGM2bY",
+      "title": "Vikings: Valhalla - Season 2 | Official Trailer | Netflix",
+      "duration": 158,
+      "channel": {
+        "name": "Netflix",
+        "id": "UCWOA1ZGywLbqmigxE4Qlvuw"
       }
     }
   ]
