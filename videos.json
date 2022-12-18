@@ -2,7 +2,7 @@
   "totalSize": "6.3 GB",
   "totalVideoSize": "2.7 GB",
   "totalAudioSize": "3.6 GB",
-  "totalVideos": 1569,
+  "totalVideos": 1570,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -14120,6 +14120,15 @@
       "id": "Mxkg3qLIPC8",
       "title": "Argentina vs. France Highlights | 2022 FIFA World Cup Final",
       "duration": 299,
+      "channel": {
+        "name": "FOX Soccer",
+        "id": "UCooTLkxcpnTNx6vfOovfBFA"
+      }
+    },
+    {
+      "id": "wYbdJtRTc-8",
+      "title": "Kylian Mbappé scores back-to-back goals for France to tie the 2022 FIFA World Cup final | FOX Soccer",
+      "duration": 67,
       "channel": {
         "name": "FOX Soccer",
         "id": "UCooTLkxcpnTNx6vfOovfBFA"
