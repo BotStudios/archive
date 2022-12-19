@@ -2,7 +2,7 @@
   "totalSize": "6.5 GB",
   "totalVideoSize": "2.8 GB",
   "totalAudioSize": "3.7 GB",
-  "totalVideos": 1599,
+  "totalVideos": 1600,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -14393,6 +14393,15 @@
       "channel": {
         "name": "Nicki Swift",
         "id": "UC1DGpYiEiqBrQtYXFbLhMVQ"
+      }
+    },
+    {
+      "id": "dJGQ4-3grRI",
+      "title": "Justin Turner, Red Sox reportedly agree on 2-year deal",
+      "duration": 154,
+      "channel": {
+        "name": "MLB Network",
+        "id": "UCnfdlSStduhKXE9Qp9-edsA"
       }
     }
   ]
