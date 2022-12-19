@@ -2,7 +2,7 @@
   "totalSize": "6.4 GB",
   "totalVideoSize": "2.8 GB",
   "totalAudioSize": "3.7 GB",
-  "totalVideos": 1595,
+  "totalVideos": 1596,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -14357,6 +14357,15 @@
       "channel": {
         "name": "TED-Ed",
         "id": "UCsooa4yRKGN_zEE8iknghZA"
+      }
+    },
+    {
+      "id": "HUAYutI-el4",
+      "title": "How Eternals Should Have Ended",
+      "duration": 256,
+      "channel": {
+        "name": "How It Should Have Ended",
+        "id": "UCHCph-_jLba_9atyCZJPLQQ"
       }
     }
   ]
