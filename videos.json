@@ -2,7 +2,7 @@
   "totalSize": "6.4 GB",
   "totalVideoSize": "2.8 GB",
   "totalAudioSize": "3.6 GB",
-  "totalVideos": 1590,
+  "totalVideos": 1591,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -14312,6 +14312,15 @@
       "channel": {
         "name": "Netflix",
         "id": "UCWOA1ZGywLbqmigxE4Qlvuw"
+      }
+    },
+    {
+      "id": "aacM1a6om_w",
+      "title": "Morgan Wallen Explains Why He Was Dropped From The Voice",
+      "duration": 250,
+      "channel": {
+        "name": "Country Cast",
+        "id": "UCmwI-MKlJA5bhgWKH4dnT2g"
       }
     }
   ]
