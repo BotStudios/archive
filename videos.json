@@ -2,7 +2,7 @@
   "totalSize": "6.4 GB",
   "totalVideoSize": "2.8 GB",
   "totalAudioSize": "3.6 GB",
-  "totalVideos": 1588,
+  "totalVideos": 1589,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -14294,6 +14294,15 @@
       "channel": {
         "name": "Guardian News",
         "id": "UCIRYBXDze5krPDzAEOxFGVA"
+      }
+    },
+    {
+      "id": "fhB6Dpu4eCM",
+      "title": "day 1; starting over",
+      "duration": 296,
+      "channel": {
+        "name": "Louis Rossmann",
+        "id": "UCl2mFZoRqjw_ELax4Yisf6w"
       }
     }
   ]
