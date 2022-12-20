@@ -2,7 +2,7 @@
   "totalSize": "6.6 GB",
   "totalVideoSize": "2.8 GB",
   "totalAudioSize": "3.7 GB",
-  "totalVideos": 1627,
+  "totalVideos": 1628,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -14645,6 +14645,15 @@
       "channel": {
         "name": "NewsChannel 5",
         "id": "UCO6kzQ-7wcG0x8W5LpBA9RQ"
+      }
+    },
+    {
+      "id": "a9rfxb8jXq0",
+      "title": "There are ‘big time politicos’ implicated by Sam Bankman-Fried’s arrest: Attorney",
+      "duration": 215,
+      "channel": {
+        "name": "Fox Business",
+        "id": "UCCXoCcu9Rp7NPbTzIvogpZg"
       }
     }
   ]
