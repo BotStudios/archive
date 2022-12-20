@@ -2,7 +2,7 @@
   "totalSize": "6.5 GB",
   "totalVideoSize": "2.8 GB",
   "totalAudioSize": "3.7 GB",
-  "totalVideos": 1618,
+  "totalVideos": 1619,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -14564,6 +14564,15 @@
       "channel": {
         "name": "bvtman",
         "id": "UC1v6YIALlDEblgu08aGvJfA"
+      }
+    },
+    {
+      "id": "4zNgjEM_JGs",
+      "title": "Trump Calls Jan. 6 Committee A ‘Kangaroo Court’ After Criminal Referrals",
+      "duration": 278,
+      "channel": {
+        "name": "NBC News",
+        "id": "UCeY0bbntWzzVIaj2z3QigXg"
       }
     }
   ]
