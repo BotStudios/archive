@@ -2,7 +2,7 @@
   "totalSize": "6.6 GB",
   "totalVideoSize": "2.8 GB",
   "totalAudioSize": "3.8 GB",
-  "totalVideos": 1648,
+  "totalVideos": 1649,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -14834,6 +14834,15 @@
       "channel": {
         "name": "The McFive Circus",
         "id": "UCkLebsCaMfjDkWSKctBH0Hw"
+      }
+    },
+    {
+      "id": "JNtZJLt7FVk",
+      "title": "State Of Emergency Declared At Texas Border",
+      "duration": 153,
+      "channel": {
+        "name": "NBC News",
+        "id": "UCeY0bbntWzzVIaj2z3QigXg"
       }
     }
   ]
