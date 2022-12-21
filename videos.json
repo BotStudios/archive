@@ -2,7 +2,7 @@
   "totalSize": "6.6 GB",
   "totalVideoSize": "2.8 GB",
   "totalAudioSize": "3.8 GB",
-  "totalVideos": 1645,
+  "totalVideos": 1646,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -14807,6 +14807,15 @@
       "channel": {
         "name": "ABC7",
         "id": "UCVxBA3Cbu3pm8w8gEIoMEog"
+      }
+    },
+    {
+      "id": "KnOcNHEIGgw",
+      "title": "Exclusive: Trump lawyer allegedly urged WH aide to mislead Jan. 6 panel",
+      "duration": 240,
+      "channel": {
+        "name": "CNN",
+        "id": "UCupvZG-5ko_eiXAupbDfxWw"
       }
     }
   ]
