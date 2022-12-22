@@ -2,7 +2,7 @@
   "totalSize": "6.7 GB",
   "totalVideoSize": "2.9 GB",
   "totalAudioSize": "3.8 GB",
-  "totalVideos": 1667,
+  "totalVideos": 1668,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -15005,6 +15005,15 @@
       "channel": {
         "name": "BOL News",
         "id": "UCz2yxQJZgiB_5elTzqV7FiQ"
+      }
+    },
+    {
+      "id": "xtayZ3fvkXw",
+      "title": "Massive Winter Storm May Impact Holiday Travel",
+      "duration": 272,
+      "channel": {
+        "name": "NBC News",
+        "id": "UCeY0bbntWzzVIaj2z3QigXg"
       }
     }
   ]
