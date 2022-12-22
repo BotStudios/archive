@@ -2,7 +2,7 @@
   "totalSize": "6.7 GB",
   "totalVideoSize": "2.9 GB",
   "totalAudioSize": "3.8 GB",
-  "totalVideos": 1664,
+  "totalVideos": 1665,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -14978,6 +14978,15 @@
       "channel": {
         "name": "DW Film Composer",
         "id": "UCBLRd6jOuyNI-NVW3meqcuA"
+      }
+    },
+    {
+      "id": "dzt55xoDNr4",
+      "title": "Day two of clean up: Here's a look at the damage in Humboldt County after 6.4 magnitude quake",
+      "duration": 138,
+      "channel": {
+        "name": "KCRA News",
+        "id": "UC-BSVXejMFhhml4V_VyoGxg"
       }
     }
   ]
