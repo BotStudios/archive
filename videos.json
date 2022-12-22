@@ -2,7 +2,7 @@
   "totalSize": "6.8 GB",
   "totalVideoSize": "2.9 GB",
   "totalAudioSize": "3.9 GB",
-  "totalVideos": 1677,
+  "totalVideos": 1678,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -15095,6 +15095,15 @@
       "channel": {
         "name": "Fox News",
         "id": "UCXIJgqnII2ZOINSWNOGFThA"
+      }
+    },
+    {
+      "id": "7HIvK3kMDyE",
+      "title": "When you can’t solve a Rubik’s cube…",
+      "duration": 62,
+      "channel": {
+        "name": "SoupTimmy",
+        "id": "UCpp1GoykvTBuPiZt3FiFHjg"
       }
     }
   ]
