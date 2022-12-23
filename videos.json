@@ -2,7 +2,7 @@
   "totalSize": "6.9 GB",
   "totalVideoSize": "2.9 GB",
   "totalAudioSize": "4.0 GB",
-  "totalVideos": 1714,
+  "totalVideos": 1716,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -15428,6 +15428,24 @@
       "channel": {
         "name": "WTHR",
         "id": "UCSFLs1nwzqSC3Tq6cXhJkLg"
+      }
+    },
+    {
+      "id": "QEmreA1H2Io",
+      "title": "How Video Game Developers really feel about Twitch Streamers",
+      "duration": 227,
+      "channel": {
+        "name": "RDCworld1",
+        "id": "UC4G10tk3AHFuyMIuD3rHOBA"
+      }
+    },
+    {
+      "id": "Jq5lAQ5wsYY",
+      "title": "Aqua Pura",
+      "duration": 283,
+      "channel": {
+        "name": "Gold Spa Melodies",
+        "id": "UCRxT7eqa2WaSsOqiRLXIhqA"
       }
     }
   ]
