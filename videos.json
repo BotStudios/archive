@@ -2,7 +2,7 @@
   "totalSize": "6.9 GB",
   "totalVideoSize": "2.9 GB",
   "totalAudioSize": "4.0 GB",
-  "totalVideos": 1718,
+  "totalVideos": 1719,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -15464,6 +15464,15 @@
       "channel": {
         "name": "ABC News",
         "id": "UCBi2mrWuNuyYy4gbM6fU18Q"
+      }
+    },
+    {
+      "id": "vjEDHboO-Ok",
+      "title": "Kevin O’Connell’s Locker Room Speech After the Vikings Comeback Overtime Win Against the Colts",
+      "duration": 93,
+      "channel": {
+        "name": "Minnesota Vikings",
+        "id": "UCcsw_KrB_wg5lQ5nXWR_LFA"
       }
     }
   ]
