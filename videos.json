@@ -2,7 +2,7 @@
   "totalSize": "6.8 GB",
   "totalVideoSize": "2.9 GB",
   "totalAudioSize": "3.9 GB",
-  "totalVideos": 1698,
+  "totalVideos": 1699,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -15284,6 +15284,15 @@
       "channel": {
         "name": "NewsNation",
         "id": "UCCjG8NtOig0USdrT5D1FpxQ"
+      }
+    },
+    {
+      "id": "8sZyEWf4gC8",
+      "title": "Christmas Week Blizzard Strengthening Into Bomb Cyclone Over Great Lakes",
+      "duration": 164,
+      "channel": {
+        "name": "FOX Weather",
+        "id": "UC1FbPiXx59_ltnFVx7IxWow"
       }
     }
   ]
