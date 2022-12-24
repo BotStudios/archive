@@ -1,8 +1,8 @@
 {
   "totalSize": "7.0 GB",
   "totalVideoSize": "3.0 GB",
-  "totalAudioSize": "4.0 GB",
-  "totalVideos": 1737,
+  "totalAudioSize": "4.1 GB",
+  "totalVideos": 1738,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -15635,6 +15635,15 @@
       "channel": {
         "name": "U.S. Senator Martin Heinrich",
         "id": "UCBxh8IK5sMxY0Ln_0G2NYcg"
+      }
+    },
+    {
+      "id": "3vQkdHsvBAs",
+      "title": "Matt LaFleur on extending Elgton Jenkins: 'He's been awesome since he's been in the building'",
+      "duration": 287,
+      "channel": {
+        "name": "Green Bay Packers",
+        "id": "UCJtI-l6La0zniodFtSHYrBg"
       }
     }
   ]
