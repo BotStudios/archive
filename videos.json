@@ -2,7 +2,7 @@
   "totalSize": "7.0 GB",
   "totalVideoSize": "3.0 GB",
   "totalAudioSize": "4.0 GB",
-  "totalVideos": 1728,
+  "totalVideos": 1729,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -15554,6 +15554,15 @@
       "channel": {
         "name": "The Weavers of Eternity Paracord",
         "id": "UCprDa_LLciUHLoxtoJzPsbg"
+      }
+    },
+    {
+      "id": "ZTN_O71fyzM",
+      "title": "[FREE] The Kid LAROI x Juice WRLD Type Beat 2022 - \"Forever\"",
+      "duration": 172,
+      "channel": {
+        "name": "SOGIMURA",
+        "id": "UCouveXPQbt5RfrZPUvY42oA"
       }
     }
   ]
