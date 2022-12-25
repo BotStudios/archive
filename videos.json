@@ -2,7 +2,7 @@
   "totalSize": "7.2 GB",
   "totalVideoSize": "3.0 GB",
   "totalAudioSize": "4.1 GB",
-  "totalVideos": 1773,
+  "totalVideos": 1774,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -15956,6 +15956,15 @@
       "id": "KWt2nSYAhJk",
       "title": "Over 200 Million People Under Winter Weather Alerts Across U.S.",
       "duration": 156,
+      "channel": {
+        "name": "NBC News",
+        "id": "UCeY0bbntWzzVIaj2z3QigXg"
+      }
+    },
+    {
+      "id": "ocVeqUeN1x4",
+      "title": "Arizona Man Sues American Airlines After 17 Days In Jail Over Wrongful Arrest",
+      "duration": 218,
       "channel": {
         "name": "NBC News",
         "id": "UCeY0bbntWzzVIaj2z3QigXg"
