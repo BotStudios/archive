@@ -2,7 +2,7 @@
   "totalSize": "7.2 GB",
   "totalVideoSize": "3.0 GB",
   "totalAudioSize": "4.2 GB",
-  "totalVideos": 1794,
+  "totalVideos": 1795,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -16148,6 +16148,15 @@
       "channel": {
         "name": "ABC7 News Bay Area",
         "id": "UCYUbNjkuE4lsr2v1Id2O1oA"
+      }
+    },
+    {
+      "id": "qr7O7nxrYjE",
+      "title": "I wish travelling was easy",
+      "duration": 209,
+      "channel": {
+        "name": "Wesley Ferreira",
+        "id": "UCvfuipqOJTRKes7fiM6uomA"
       }
     }
   ]
