@@ -1,8 +1,8 @@
 {
-  "totalSize": "7.3 GB",
+  "totalSize": "7.4 GB",
   "totalVideoSize": "3.1 GB",
   "totalAudioSize": "4.3 GB",
-  "totalVideos": 1814,
+  "totalVideos": 1815,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -16328,6 +16328,15 @@
       "channel": {
         "name": "Sebastian Maniscalco",
         "id": "UCxPmXKxJcDAhuYVHeFFyGTA"
+      }
+    },
+    {
+      "id": "rjVRJHDe04E",
+      "title": "(FREE) Blxst Type Beat - \"Forever Up\"",
+      "duration": 183,
+      "channel": {
+        "name": "Bradley Moon",
+        "id": "UCzBHMxPBQwgpeqevAR9sfLw"
       }
     }
   ]
