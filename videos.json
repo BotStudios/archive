@@ -2,7 +2,7 @@
   "totalSize": "7.4 GB",
   "totalVideoSize": "3.1 GB",
   "totalAudioSize": "4.3 GB",
-  "totalVideos": 1826,
+  "totalVideos": 1827,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -16436,6 +16436,15 @@
       "channel": {
         "name": "Gabriel Iglesias",
         "id": "UCUxc0iEpV8wZV4WLOui0RwQ"
+      }
+    },
+    {
+      "id": "1_CmqVHMbPY",
+      "title": "Massive Snow Storm Kills At Least 57 Across U.S.",
+      "duration": 265,
+      "channel": {
+        "name": "NBC News",
+        "id": "UCeY0bbntWzzVIaj2z3QigXg"
       }
     }
   ]
