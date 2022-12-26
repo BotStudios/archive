@@ -2,7 +2,7 @@
   "totalSize": "7.3 GB",
   "totalVideoSize": "3.1 GB",
   "totalAudioSize": "4.3 GB",
-  "totalVideos": 1807,
+  "totalVideos": 1808,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -16265,6 +16265,15 @@
       "channel": {
         "name": "The Golden Trumpet",
         "id": "UCz40f3KFaa7dJsQEVyE0DXw"
+      }
+    },
+    {
+      "id": "V-WHgb-luSI",
+      "title": "Death toll rises from fierce winter storm, but a warm-up is on the way",
+      "duration": 146,
+      "channel": {
+        "name": "CBS News",
+        "id": "UC8p1vwvWtl6T73JiExfWs1g"
       }
     }
   ]
