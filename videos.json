@@ -2,7 +2,7 @@
   "totalSize": "7.5 GB",
   "totalVideoSize": "3.1 GB",
   "totalAudioSize": "4.4 GB",
-  "totalVideos": 1859,
+  "totalVideos": 1860,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -16733,6 +16733,15 @@
       "channel": {
         "name": "Yahoo Finance",
         "id": "UCEAZeUIeJs0IjQiqTCdVSIg"
+      }
+    },
+    {
+      "id": "SYiHVUoQCWA",
+      "title": "Dog owner speaks out against Phoenix groomer accused of mistreatment",
+      "duration": 157,
+      "channel": {
+        "name": "ABC15 Arizona",
+        "id": "UCIVk1L1-JmpdiGuZcVjImtA"
       }
     }
   ]
