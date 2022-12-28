@@ -1,8 +1,8 @@
 {
   "totalSize": "7.6 GB",
   "totalVideoSize": "3.2 GB",
-  "totalAudioSize": "4.4 GB",
-  "totalVideos": 1874,
+  "totalAudioSize": "4.5 GB",
+  "totalVideos": 1875,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -16868,6 +16868,15 @@
       "channel": {
         "name": "News 19 WLTX",
         "id": "UCVaXclURQZlakiTMzuwHvRw"
+      }
+    },
+    {
+      "id": "Ycury4S4i00",
+      "title": "Suspect’s Racist Rant at In-N-Out Burger Caught on Tape: Cops",
+      "duration": 147,
+      "channel": {
+        "name": "Inside Edition",
+        "id": "UC9k-yiEpRHMNVOnOi_aQK8w"
       }
     }
   ]
