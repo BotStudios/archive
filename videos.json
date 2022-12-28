@@ -2,7 +2,7 @@
   "totalSize": "7.6 GB",
   "totalVideoSize": "3.2 GB",
   "totalAudioSize": "4.5 GB",
-  "totalVideos": 1877,
+  "totalVideos": 1878,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -16895,6 +16895,15 @@
       "channel": {
         "name": "ABC7 News Bay Area",
         "id": "UCYUbNjkuE4lsr2v1Id2O1oA"
+      }
+    },
+    {
+      "id": "XjGMbHMvWfM",
+      "title": "Why Kamala Harris' handlers are ‘petrified’ to put her in front of a microphone",
+      "duration": 297,
+      "channel": {
+        "name": "Fox News",
+        "id": "UCXIJgqnII2ZOINSWNOGFThA"
       }
     }
   ]
