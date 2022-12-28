@@ -2,7 +2,7 @@
   "totalSize": "7.6 GB",
   "totalVideoSize": "3.1 GB",
   "totalAudioSize": "4.4 GB",
-  "totalVideos": 1866,
+  "totalVideos": 1867,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -16796,6 +16796,15 @@
       "channel": {
         "name": "The Beauty Writer",
         "id": "UCxkbollceif6wsLpdIFWo0w"
+      }
+    },
+    {
+      "id": "o_o8RqExQ94",
+      "title": "I got the world record for Cuphead First Person Shooter",
+      "duration": 239,
+      "channel": {
+        "name": "EazySpeezy",
+        "id": "UCQSEAbOs6vsJfy7WN7iYaGQ"
       }
     }
   ]
