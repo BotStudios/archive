@@ -2,7 +2,7 @@
   "totalSize": "7.6 GB",
   "totalVideoSize": "3.2 GB",
   "totalAudioSize": "4.4 GB",
-  "totalVideos": 1873,
+  "totalVideos": 1874,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -16859,6 +16859,15 @@
       "channel": {
         "name": "CBS Sacramento",
         "id": "UCxZMOY2RdtK6LQUbIYgec4A"
+      }
+    },
+    {
+      "id": "GHtJ1G-bPgE",
+      "title": "Local organization hosts Fort Jackson soldiers for holiday dinner",
+      "duration": 112,
+      "channel": {
+        "name": "News 19 WLTX",
+        "id": "UCVaXclURQZlakiTMzuwHvRw"
       }
     }
   ]
