@@ -2,7 +2,7 @@
   "totalSize": "7.6 GB",
   "totalVideoSize": "3.2 GB",
   "totalAudioSize": "4.5 GB",
-  "totalVideos": 1875,
+  "totalVideos": 1876,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -16877,6 +16877,15 @@
       "channel": {
         "name": "Inside Edition",
         "id": "UC9k-yiEpRHMNVOnOi_aQK8w"
+      }
+    },
+    {
+      "id": "7wR7YJtu9To",
+      "title": "Bossy Husky Stomped Paws & Made His Demands!",
+      "duration": 292,
+      "channel": {
+        "name": "K'eyush The Stunt Dog",
+        "id": "UC_9EXcw4PlVlaklxx12cDqA"
       }
     }
   ]
