@@ -2,7 +2,7 @@
   "totalSize": "7.7 GB",
   "totalVideoSize": "3.2 GB",
   "totalAudioSize": "4.5 GB",
-  "totalVideos": 1890,
+  "totalVideos": 1891,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -17012,6 +17012,15 @@
       "channel": {
         "name": "RuPaul's Drag Race",
         "id": "UC0sEIyXXalzD1lbwm3D2xpA"
+      }
+    },
+    {
+      "id": "DuuPo8ETcgI",
+      "title": "Here's a look at when to expect more rain in Northern California",
+      "duration": 173,
+      "channel": {
+        "name": "KCRA News",
+        "id": "UC-BSVXejMFhhml4V_VyoGxg"
       }
     }
   ]
