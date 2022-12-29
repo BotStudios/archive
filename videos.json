@@ -2,7 +2,7 @@
   "totalSize": "7.7 GB",
   "totalVideoSize": "3.2 GB",
   "totalAudioSize": "4.5 GB",
-  "totalVideos": 1897,
+  "totalVideos": 1898,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -17075,6 +17075,15 @@
       "channel": {
         "name": "NBA",
         "id": "UCWJ2lWNubArHWmf3FIHbfcQ"
+      }
+    },
+    {
+      "id": "Reak-cYwAic",
+      "title": "Creed Fisher - \"Kiss Away My Ghosts\" (Official Lyric Video)",
+      "duration": 268,
+      "channel": {
+        "name": "Creed Fisher",
+        "id": "UCmTcL6eTHLWwM5kXOm-uRsA"
       }
     }
   ]
