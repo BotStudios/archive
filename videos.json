@@ -2,7 +2,7 @@
   "totalSize": "7.8 GB",
   "totalVideoSize": "3.2 GB",
   "totalAudioSize": "4.6 GB",
-  "totalVideos": 1920,
+  "totalVideos": 1921,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -17282,6 +17282,15 @@
       "channel": {
         "name": "Philadelphia Flyers",
         "id": "UCr6jSk2_SLOmjCG-3GeIStw"
+      }
+    },
+    {
+      "id": "CgWUMP0n-ow",
+      "title": "Idaho Stabbings: Bryan Kohberger arrested in Scranton, Pennsylvania | NewsNation",
+      "duration": 71,
+      "channel": {
+        "name": "NewsNation",
+        "id": "UCCjG8NtOig0USdrT5D1FpxQ"
       }
     }
   ]
