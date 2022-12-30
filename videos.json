@@ -2,7 +2,7 @@
   "totalSize": "7.8 GB",
   "totalVideoSize": "3.2 GB",
   "totalAudioSize": "4.6 GB",
-  "totalVideos": 1923,
+  "totalVideos": 1925,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -17309,6 +17309,24 @@
       "channel": {
         "name": "Dollface Murder",
         "id": "UCon_zAgDOyls3rOaI3MgyXg"
+      }
+    },
+    {
+      "id": "VMinwf-kRlA",
+      "title": "The Dutch headwind cycling championships are amazing",
+      "duration": 164,
+      "channel": {
+        "name": "Tom Scott",
+        "id": "UCBa659QWEk1AI4Tg--mrJ2A"
+      }
+    },
+    {
+      "id": "PICX34sdvrk",
+      "title": "Bryan Kohberger: New details on suspect in Idaho killings | NewsNation Live",
+      "duration": 195,
+      "channel": {
+        "name": "NewsNation",
+        "id": "UCCjG8NtOig0USdrT5D1FpxQ"
       }
     }
   ]
