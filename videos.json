@@ -2,7 +2,7 @@
   "totalSize": "7.9 GB",
   "totalVideoSize": "3.3 GB",
   "totalAudioSize": "4.6 GB",
-  "totalVideos": 1946,
+  "totalVideos": 1947,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -17516,6 +17516,15 @@
       "channel": {
         "name": "Dream Maker",
         "id": "UCt1oMgE9-AYV2ApWpZVdonA"
+      }
+    },
+    {
+      "id": "cBHA68SsbZ0",
+      "title": "Police arrest a suspect in the murders of 4 University of Idaho students | Nightline",
+      "duration": 138,
+      "channel": {
+        "name": "ABC News",
+        "id": "UCBi2mrWuNuyYy4gbM6fU18Q"
       }
     }
   ]
