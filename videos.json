@@ -2,7 +2,7 @@
   "totalSize": "7.8 GB",
   "totalVideoSize": "3.2 GB",
   "totalAudioSize": "4.6 GB",
-  "totalVideos": 1934,
+  "totalVideos": 1935,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -17408,6 +17408,15 @@
       "channel": {
         "name": "KanaChanTV",
         "id": "UCZFzfw5Idu6qC1ub3eVl2YA"
+      }
+    },
+    {
+      "id": "SszP3hlQ55Y",
+      "title": "ATEEZ(에이티즈) - 'HALAZIA' Official MV",
+      "duration": 265,
+      "channel": {
+        "name": "KQ ENTERTAINMENT",
+        "id": "UCQdq-lqPEq_yZ_wP_kuVB9Q"
       }
     }
   ]
