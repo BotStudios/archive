@@ -2,7 +2,7 @@
   "totalSize": "8.0 GB",
   "totalVideoSize": "3.3 GB",
   "totalAudioSize": "4.7 GB",
-  "totalVideos": 1970,
+  "totalVideos": 1971,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -17732,6 +17732,15 @@
       "channel": {
         "name": "Ohio State Football on cleveland.com",
         "id": "UCbwXqt6It5lTZ4Wnqa32sfQ"
+      }
+    },
+    {
+      "id": "_o9Zd3H9yU4",
+      "title": "Highway 99 flooded, cars submerged",
+      "duration": 154,
+      "channel": {
+        "name": "KCRA News",
+        "id": "UC-BSVXejMFhhml4V_VyoGxg"
       }
     }
   ]
