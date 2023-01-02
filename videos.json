@@ -2,7 +2,7 @@
   "totalSize": "8.0 GB",
   "totalVideoSize": "3.3 GB",
   "totalAudioSize": "4.7 GB",
-  "totalVideos": 1977,
+  "totalVideos": 1978,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -17795,6 +17795,15 @@
       "channel": {
         "name": "Shirley Curry",
         "id": "UCzkY7wa8Ksxv4M5NyUYgTmA"
+      }
+    },
+    {
+      "id": "rSpHbterFC0",
+      "title": "Former FBI agent: Idaho suspect’s change in demeanor ‘concerning’ | NewsNation Prime",
+      "duration": 264,
+      "channel": {
+        "name": "NewsNation",
+        "id": "UCCjG8NtOig0USdrT5D1FpxQ"
       }
     }
   ]
