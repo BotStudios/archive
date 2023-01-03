@@ -2,7 +2,7 @@
   "totalSize": "8.2 GB",
   "totalVideoSize": "3.4 GB",
   "totalAudioSize": "4.8 GB",
-  "totalVideos": 2021,
+  "totalVideos": 2022,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -18191,6 +18191,15 @@
       "channel": {
         "name": "Dylan Zitkus",
         "id": "UCLmgvkCAGUhRh1Xiv3hg5HQ"
+      }
+    },
+    {
+      "id": "47y41Di7zao",
+      "title": "A Really Thirsty Wall",
+      "duration": 152,
+      "channel": {
+        "name": "Daily Dose Of Internet",
+        "id": "UCdC0An4ZPNr_YiFiYoVbwaw"
       }
     }
   ]
