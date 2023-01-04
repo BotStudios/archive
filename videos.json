@@ -2,7 +2,7 @@
   "totalSize": "8.4 GB",
   "totalVideoSize": "3.4 GB",
   "totalAudioSize": "4.9 GB",
-  "totalVideos": 2054,
+  "totalVideos": 2056,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -18488,6 +18488,24 @@
       "channel": {
         "name": "Apex Legends",
         "id": "UC0ZV6M2THA81QT9hrVWJG3A"
+      }
+    },
+    {
+      "id": "EdKfwpxkCgw",
+      "title": "New weight loss drug could break sales records",
+      "duration": 178,
+      "channel": {
+        "name": "NBC News",
+        "id": "UCeY0bbntWzzVIaj2z3QigXg"
+      }
+    },
+    {
+      "id": "5mRFBtnDDrY",
+      "title": "How Trump’s Taxes Became Public — And What They Reveal | WSJ",
+      "duration": 283,
+      "channel": {
+        "name": "Wall Street Journal",
+        "id": "UCK7tptUDHh-RYDsdxO1-5QQ"
       }
     }
   ]
