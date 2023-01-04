@@ -2,7 +2,7 @@
   "totalSize": "8.3 GB",
   "totalVideoSize": "3.4 GB",
   "totalAudioSize": "4.9 GB",
-  "totalVideos": 2030,
+  "totalVideos": 2031,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -18272,6 +18272,15 @@
       "channel": {
         "name": "Gabriel Iglesias",
         "id": "UCUxc0iEpV8wZV4WLOui0RwQ"
+      }
+    },
+    {
+      "id": "lx_1hn1bwaY",
+      "title": "How Rosa Parks's Protest Sparked a Momentous Chain of Events",
+      "duration": 111,
+      "channel": {
+        "name": "Smithsonian Channel",
+        "id": "UCWqPRUsJlZaDp-PVbqEch9g"
       }
     }
   ]
