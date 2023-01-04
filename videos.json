@@ -2,7 +2,7 @@
   "totalSize": "8.4 GB",
   "totalVideoSize": "3.4 GB",
   "totalAudioSize": "4.9 GB",
-  "totalVideos": 2053,
+  "totalVideos": 2054,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -18479,6 +18479,15 @@
       "channel": {
         "name": "ABC News",
         "id": "UCBi2mrWuNuyYy4gbM6fU18Q"
+      }
+    },
+    {
+      "id": "IFrrZ3j8hw4",
+      "title": "Apex Legends Spellbound Collection Event",
+      "duration": 81,
+      "channel": {
+        "name": "Apex Legends",
+        "id": "UC0ZV6M2THA81QT9hrVWJG3A"
       }
     }
   ]
