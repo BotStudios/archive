@@ -2,7 +2,7 @@
   "totalSize": "8.3 GB",
   "totalVideoSize": "3.4 GB",
   "totalAudioSize": "4.9 GB",
-  "totalVideos": 2047,
+  "totalVideos": 2048,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -18425,6 +18425,15 @@
       "channel": {
         "name": "Forbes Breaking News",
         "id": "UCg40OxZ1GYh3u3jBntB6DLg"
+      }
+    },
+    {
+      "id": "9gxDoZfNeuk",
+      "title": "New Congress begins without House Speaker after historic defeat",
+      "duration": 103,
+      "channel": {
+        "name": "13News Now",
+        "id": "UCODc8Pa-_WUMaVRp9dvmNmw"
       }
     }
   ]
