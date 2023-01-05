@@ -2,7 +2,7 @@
   "totalSize": "8.4 GB",
   "totalVideoSize": "3.4 GB",
   "totalAudioSize": "5.0 GB",
-  "totalVideos": 2073,
+  "totalVideos": 2074,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -18659,6 +18659,15 @@
       "channel": {
         "name": "Fox News",
         "id": "UCXIJgqnII2ZOINSWNOGFThA"
+      }
+    },
+    {
+      "id": "qJkdoASPWgQ",
+      "title": "Home prices fall as number of homes for sale declines",
+      "duration": 291,
+      "channel": {
+        "name": "ABC News",
+        "id": "UCBi2mrWuNuyYy4gbM6fU18Q"
       }
     }
   ]
