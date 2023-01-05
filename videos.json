@@ -2,7 +2,7 @@
   "totalSize": "8.4 GB",
   "totalVideoSize": "3.4 GB",
   "totalAudioSize": "5.0 GB",
-  "totalVideos": 2069,
+  "totalVideos": 2070,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -18623,6 +18623,15 @@
       "channel": {
         "name": "1theK Originals - 원더케이 오리지널",
         "id": "UCqq-ovGE01ErlXakPihhKDA"
+      }
+    },
+    {
+      "id": "kcg9-_Kd4BA",
+      "title": "Deadly flooding in California devastates homes, roads",
+      "duration": 110,
+      "channel": {
+        "name": "NBC News",
+        "id": "UCeY0bbntWzzVIaj2z3QigXg"
       }
     }
   ]
