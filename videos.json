@@ -2,7 +2,7 @@
   "totalSize": "8.4 GB",
   "totalVideoSize": "3.4 GB",
   "totalAudioSize": "5.0 GB",
-  "totalVideos": 2070,
+  "totalVideos": 2072,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -18632,6 +18632,24 @@
       "channel": {
         "name": "NBC News",
         "id": "UCeY0bbntWzzVIaj2z3QigXg"
+      }
+    },
+    {
+      "id": "2UZLvtEDqj0",
+      "title": "First-look at the Moana attraction at Walt Disney World | GMA",
+      "duration": 192,
+      "channel": {
+        "name": "Good Morning America",
+        "id": "UCH1oRy1dINbMVp3UFWrKP0w"
+      }
+    },
+    {
+      "id": "ke-OwriE-Is",
+      "title": "Still no Speaker of the House",
+      "duration": 157,
+      "channel": {
+        "name": "ABC News",
+        "id": "UCBi2mrWuNuyYy4gbM6fU18Q"
       }
     }
   ]
