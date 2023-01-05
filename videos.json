@@ -2,7 +2,7 @@
   "totalSize": "8.4 GB",
   "totalVideoSize": "3.4 GB",
   "totalAudioSize": "5.0 GB",
-  "totalVideos": 2072,
+  "totalVideos": 2073,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -18650,6 +18650,15 @@
       "channel": {
         "name": "ABC News",
         "id": "UCBi2mrWuNuyYy4gbM6fU18Q"
+      }
+    },
+    {
+      "id": "7fTDm7gQO9g",
+      "title": "Tucker accurately predicts Adam Kinzinger's fate",
+      "duration": 110,
+      "channel": {
+        "name": "Fox News",
+        "id": "UCXIJgqnII2ZOINSWNOGFThA"
       }
     }
   ]
