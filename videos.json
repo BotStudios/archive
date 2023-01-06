@@ -2,7 +2,7 @@
   "totalSize": "8.6 GB",
   "totalVideoSize": "3.5 GB",
   "totalAudioSize": "5.1 GB",
-  "totalVideos": 2117,
+  "totalVideos": 2118,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -19055,6 +19055,15 @@
       "channel": {
         "name": "Pac-12 Networks",
         "id": "UCtxdtF8iCxZw593FSUIPrxg"
+      }
+    },
+    {
+      "id": "_ICREZm9CtE",
+      "title": "BEFORE YOU OVERTHINK, WATCH THIS (2023)",
+      "duration": 253,
+      "channel": {
+        "name": "Prince Ea",
+        "id": "UCDgUAAHgsV2fFZQm2fIWBnA"
       }
     }
   ]
