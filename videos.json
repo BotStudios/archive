@@ -2,7 +2,7 @@
   "totalSize": "8.6 GB",
   "totalVideoSize": "3.5 GB",
   "totalAudioSize": "5.1 GB",
-  "totalVideos": 2107,
+  "totalVideos": 2108,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -18965,6 +18965,15 @@
       "channel": {
         "name": "The Office",
         "id": "UCa90xqK2odw1KV5wHU9WRhg"
+      }
+    },
+    {
+      "id": "6qLwIWdtsBQ",
+      "title": "Suspect in Idaho student murders expected to waive extradition rights",
+      "duration": 82,
+      "channel": {
+        "name": "CBS News",
+        "id": "UC8p1vwvWtl6T73JiExfWs1g"
       }
     }
   ]
