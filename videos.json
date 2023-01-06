@@ -2,7 +2,7 @@
   "totalSize": "8.6 GB",
   "totalVideoSize": "3.5 GB",
   "totalAudioSize": "5.1 GB",
-  "totalVideos": 2115,
+  "totalVideos": 2116,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -19037,6 +19037,15 @@
       "channel": {
         "name": "CBS New York",
         "id": "UCNZyLULUQBp5e9Q1cKtvk6Q"
+      }
+    },
+    {
+      "id": "xHPE6osXMHY",
+      "title": "Hear what law enforcement saw Idaho suspect doing in the days after killings",
+      "duration": 260,
+      "channel": {
+        "name": "CNN",
+        "id": "UCupvZG-5ko_eiXAupbDfxWw"
       }
     }
   ]
