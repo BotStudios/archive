@@ -2,7 +2,7 @@
   "totalSize": "8.7 GB",
   "totalVideoSize": "3.5 GB",
   "totalAudioSize": "5.2 GB",
-  "totalVideos": 2125,
+  "totalVideos": 2126,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -19127,6 +19127,15 @@
       "channel": {
         "name": "NBA on TNT",
         "id": "UCU7iRrk3xfpUk0R6VdyC1Ow"
+      }
+    },
+    {
+      "id": "527CCPlFjUY",
+      "title": "Dusting of snow! Friday, January 6",
+      "duration": 129,
+      "channel": {
+        "name": "FOX 13 News Utah",
+        "id": "UCxjC_VVez3w8Uyh7LWPnkXA"
       }
     }
   ]
