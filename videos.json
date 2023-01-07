@@ -1,8 +1,8 @@
 {
   "totalSize": "8.8 GB",
   "totalVideoSize": "3.5 GB",
-  "totalAudioSize": "5.2 GB",
-  "totalVideos": 2140,
+  "totalAudioSize": "5.3 GB",
+  "totalVideos": 2141,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -19262,6 +19262,15 @@
       "channel": {
         "name": "CBS News",
         "id": "UC8p1vwvWtl6T73JiExfWs1g"
+      }
+    },
+    {
+      "id": "p5hKva9AxJc",
+      "title": "6-year-old suspected of shooting Newport News teacher",
+      "duration": 146,
+      "channel": {
+        "name": "WAVY TV 10",
+        "id": "UC5DOK_H_fkhHBw_7pl0TViQ"
       }
     }
   ]
