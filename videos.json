@@ -2,7 +2,7 @@
   "totalSize": "8.8 GB",
   "totalVideoSize": "3.6 GB",
   "totalAudioSize": "5.3 GB",
-  "totalVideos": 2149,
+  "totalVideos": 2150,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -19343,6 +19343,15 @@
       "channel": {
         "name": "BLAINES",
         "id": "UCO3HujUmguMy8Jawuq875Sg"
+      }
+    },
+    {
+      "id": "Tsnys0LFams",
+      "title": "5-star QB Arch Manning enrolls early at UT, arrives on campus | KVUE",
+      "duration": 44,
+      "channel": {
+        "name": "KVUE",
+        "id": "UCxXTyFekH99JnS3qaXIQW7A"
       }
     }
   ]
