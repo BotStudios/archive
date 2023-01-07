@@ -1,8 +1,8 @@
 {
   "totalSize": "8.8 GB",
-  "totalVideoSize": "3.5 GB",
+  "totalVideoSize": "3.6 GB",
   "totalAudioSize": "5.3 GB",
-  "totalVideos": 2144,
+  "totalVideos": 2145,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -19298,6 +19298,15 @@
       "channel": {
         "name": "Miley Cyrus",
         "id": "UCn7dB9UMTBDjKtEKBy_XISw"
+      }
+    },
+    {
+      "id": "jIGBT8NdjE8",
+      "title": "BREAKING: McCarthy elected House speaker in rowdy post-midnight vote",
+      "duration": 112,
+      "channel": {
+        "name": "ABC 7 Chicago",
+        "id": "UC_vFLohxs5PkAxlk7Y6jEtw"
       }
     }
   ]
