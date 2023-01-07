@@ -2,7 +2,7 @@
   "totalSize": "8.8 GB",
   "totalVideoSize": "3.5 GB",
   "totalAudioSize": "5.2 GB",
-  "totalVideos": 2139,
+  "totalVideos": 2140,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -19253,6 +19253,15 @@
       "channel": {
         "name": "The Green",
         "id": "UCsleCb2THJRUzuhhxdBChEg"
+      }
+    },
+    {
+      "id": "-u4NfnvrFIc",
+      "title": "Public schools being shuttered as enrollment declines",
+      "duration": 275,
+      "channel": {
+        "name": "CBS News",
+        "id": "UC8p1vwvWtl6T73JiExfWs1g"
       }
     }
   ]
