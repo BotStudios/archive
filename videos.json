@@ -2,7 +2,7 @@
   "totalSize": "8.9 GB",
   "totalVideoSize": "3.6 GB",
   "totalAudioSize": "5.3 GB",
-  "totalVideos": 2160,
+  "totalVideos": 2161,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -19442,6 +19442,15 @@
       "channel": {
         "name": "E! News",
         "id": "UCjDsbbzHgTrGc4Ff26TJtsA"
+      }
+    },
+    {
+      "id": "S92fTz_-kQE",
+      "title": "Can Texas Secede from the Union?",
+      "duration": 212,
+      "channel": {
+        "name": "CGP Grey",
+        "id": "UC2C_jShtL725hvbm1arSV9w"
       }
     }
   ]
