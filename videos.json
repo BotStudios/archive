@@ -1,8 +1,8 @@
 {
   "totalSize": "8.9 GB",
   "totalVideoSize": "3.6 GB",
-  "totalAudioSize": "5.3 GB",
-  "totalVideos": 2178,
+  "totalAudioSize": "5.4 GB",
+  "totalVideos": 2179,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -19604,6 +19604,15 @@
       "channel": {
         "name": "FOX 4 Now",
         "id": "UC2rLSYDm92QMytS9yIkT8UQ"
+      }
+    },
+    {
+      "id": "8qve776r0fE",
+      "title": "Halloween dinosaur shocks Suns' players",
+      "duration": 271,
+      "channel": {
+        "name": "FOX Sports",
+        "id": "UCwNqHDsnBCKT-olwJwIFyfg"
       }
     }
   ]
