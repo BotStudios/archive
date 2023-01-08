@@ -2,7 +2,7 @@
   "totalSize": "8.8 GB",
   "totalVideoSize": "3.6 GB",
   "totalAudioSize": "5.3 GB",
-  "totalVideos": 2153,
+  "totalVideos": 2155,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -19379,6 +19379,24 @@
       "channel": {
         "name": "Highlight Heaven",
         "id": "UCq0grzC77X9UZd9xngQRTjg"
+      }
+    },
+    {
+      "id": "O4Vb9ggAT38",
+      "title": "Helmet Graffiti in the Vietnam War",
+      "duration": 247,
+      "channel": {
+        "name": "Simple History",
+        "id": "UC510QYlOlKNyhy_zdQxnGYw"
+      }
+    },
+    {
+      "id": "LBqoUwmTC9o",
+      "title": "Six-year-old school shooter in custody",
+      "duration": 124,
+      "channel": {
+        "name": "NBC News",
+        "id": "UCeY0bbntWzzVIaj2z3QigXg"
       }
     }
   ]
