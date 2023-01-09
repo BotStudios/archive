@@ -1,8 +1,8 @@
 {
-  "totalSize": "9.0 GB",
+  "totalSize": "9.1 GB",
   "totalVideoSize": "3.6 GB",
   "totalAudioSize": "5.4 GB",
-  "totalVideos": 2204,
+  "totalVideos": 2206,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -19838,6 +19838,24 @@
       "channel": {
         "name": "Life with Malamutes",
         "id": "UCj9pk54KCzfvTs9gnMKJYSg"
+      }
+    },
+    {
+      "id": "3COY_HrMngc",
+      "title": "YOU: Season 4 Part 1 | Official Trailer | Netflix",
+      "duration": 170,
+      "channel": {
+        "name": "Netflix",
+        "id": "UCWOA1ZGywLbqmigxE4Qlvuw"
+      }
+    },
+    {
+      "id": "ir5QJRg6ixI",
+      "title": "Hakeem Jeffries now has a 'huge problem': Gingrich",
+      "duration": 238,
+      "channel": {
+        "name": "Fox News",
+        "id": "UCXIJgqnII2ZOINSWNOGFThA"
       }
     }
   ]
