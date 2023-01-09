@@ -2,7 +2,7 @@
   "totalSize": "9.1 GB",
   "totalVideoSize": "3.6 GB",
   "totalAudioSize": "5.4 GB",
-  "totalVideos": 2206,
+  "totalVideos": 2207,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -19856,6 +19856,15 @@
       "channel": {
         "name": "Fox News",
         "id": "UCXIJgqnII2ZOINSWNOGFThA"
+      }
+    },
+    {
+      "id": "DX5Xq_rqg_Y",
+      "title": "Five dead in North Carolina murder-suicide",
+      "duration": 220,
+      "channel": {
+        "name": "NBC News",
+        "id": "UCeY0bbntWzzVIaj2z3QigXg"
       }
     }
   ]
