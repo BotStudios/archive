@@ -2,7 +2,7 @@
   "totalSize": "9.1 GB",
   "totalVideoSize": "3.6 GB",
   "totalAudioSize": "5.4 GB",
-  "totalVideos": 2207,
+  "totalVideos": 2208,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -19865,6 +19865,15 @@
       "channel": {
         "name": "NBC News",
         "id": "UCeY0bbntWzzVIaj2z3QigXg"
+      }
+    },
+    {
+      "id": "n5LeNuCDzQE",
+      "title": "Here's the thing about free speech",
+      "duration": 157,
+      "channel": {
+        "name": "Pierre Poilievre",
+        "id": "UCS1xwRtmeaSNhyPhGjJTbFw"
       }
     }
   ]
