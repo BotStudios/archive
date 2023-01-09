@@ -2,7 +2,7 @@
   "totalSize": "9.1 GB",
   "totalVideoSize": "3.6 GB",
   "totalAudioSize": "5.4 GB",
-  "totalVideos": 2212,
+  "totalVideos": 2214,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -19910,6 +19910,24 @@
       "channel": {
         "name": "Simple History",
         "id": "UC510QYlOlKNyhy_zdQxnGYw"
+      }
+    },
+    {
+      "id": "luUyEQMGook",
+      "title": "XBB.1.5 shows COVID-19 'is still changing' | Infectious disease specialist Dr. Lisa Barrett",
+      "duration": 234,
+      "channel": {
+        "name": "CTV News",
+        "id": "UCi7Zk9baY1tvdlgxIML8MXg"
+      }
+    },
+    {
+      "id": "hs84nGIp3z4",
+      "title": "Rain impact on California's reservoirs",
+      "duration": 163,
+      "channel": {
+        "name": "KTVU FOX 2 San Francisco",
+        "id": "UCVhtkN7-c8mA8GXEoxS4YQw"
       }
     }
   ]
