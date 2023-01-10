@@ -1,8 +1,8 @@
 {
-  "totalSize": "9.2 GB",
+  "totalSize": "9.3 GB",
   "totalVideoSize": "3.7 GB",
   "totalAudioSize": "5.5 GB",
-  "totalVideos": 2250,
+  "totalVideos": 2252,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -20252,6 +20252,24 @@
       "channel": {
         "name": "FOX 13 News Utah",
         "id": "UCxjC_VVez3w8Uyh7LWPnkXA"
+      }
+    },
+    {
+      "id": "NyRCHLpvOac",
+      "title": "Rapper Flo Rida suing maker of Celsius energy drink",
+      "duration": 114,
+      "channel": {
+        "name": "WPTV News - FL Palm Beaches and Treasure Coast",
+        "id": "UC0bCUnP5RrkJZUtd3bBz6Kw"
+      }
+    },
+    {
+      "id": "BGRrfz802Is",
+      "title": "Rain and wind return on Tuesday morning bringing along chance of thunderstorms",
+      "duration": 221,
+      "channel": {
+        "name": "CBS 8 San Diego",
+        "id": "UCMscWako8oDvpdF4pppku-g"
       }
     }
   ]
