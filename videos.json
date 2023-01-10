@@ -2,7 +2,7 @@
   "totalSize": "9.2 GB",
   "totalVideoSize": "3.7 GB",
   "totalAudioSize": "5.5 GB",
-  "totalVideos": 2249,
+  "totalVideos": 2250,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -20243,6 +20243,15 @@
       "channel": {
         "name": "ABC7 News Bay Area",
         "id": "UCYUbNjkuE4lsr2v1Id2O1oA"
+      }
+    },
+    {
+      "id": "EaxmFI4B6VI",
+      "title": "Utah Supreme Court to decide who gets access to river and stream beds",
+      "duration": 174,
+      "channel": {
+        "name": "FOX 13 News Utah",
+        "id": "UCxjC_VVez3w8Uyh7LWPnkXA"
       }
     }
   ]
