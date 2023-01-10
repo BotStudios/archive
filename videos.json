@@ -2,7 +2,7 @@
   "totalSize": "9.1 GB",
   "totalVideoSize": "3.7 GB",
   "totalAudioSize": "5.5 GB",
-  "totalVideos": 2228,
+  "totalVideos": 2229,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -20054,6 +20054,15 @@
       "channel": {
         "name": "The Rubin Report",
         "id": "UCJdKr0Bgd_5saZYqLCa9mng"
+      }
+    },
+    {
+      "id": "uvJpBNcjhuI",
+      "title": "Flooding Shuts Down Highway 101 in Gilroy",
+      "duration": 111,
+      "channel": {
+        "name": "NBC Bay Area",
+        "id": "UCmKKVuZrBfSGiuvtOuipoDA"
       }
     }
   ]
