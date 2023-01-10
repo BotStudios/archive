@@ -2,7 +2,7 @@
   "totalSize": "9.1 GB",
   "totalVideoSize": "3.6 GB",
   "totalAudioSize": "5.5 GB",
-  "totalVideos": 2217,
+  "totalVideos": 2218,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -19955,6 +19955,15 @@
       "channel": {
         "name": "FOX Weather",
         "id": "UC1FbPiXx59_ltnFVx7IxWow"
+      }
+    },
+    {
+      "id": "VGfymhjDPzc",
+      "title": "Eddie Redmayne On Going to Nursing School With Jessica Chastain | W Magazine",
+      "duration": 278,
+      "channel": {
+        "name": "W Magazine",
+        "id": "UCB_TGajnJymiSmu6zWkjW2Q"
       }
     }
   ]
