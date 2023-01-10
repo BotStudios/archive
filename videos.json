@@ -2,7 +2,7 @@
   "totalSize": "9.1 GB",
   "totalVideoSize": "3.7 GB",
   "totalAudioSize": "5.5 GB",
-  "totalVideos": 2220,
+  "totalVideos": 2221,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -19982,6 +19982,15 @@
       "channel": {
         "name": "Fox News",
         "id": "UCXIJgqnII2ZOINSWNOGFThA"
+      }
+    },
+    {
+      "id": "apqB3Y0ikBw",
+      "title": "The Devastating Death of Adam Rich",
+      "duration": 222,
+      "channel": {
+        "name": "Looper",
+        "id": "UCP1iRaFlS5EYjJBryFV9JPw"
       }
     }
   ]
