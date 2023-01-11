@@ -2,7 +2,7 @@
   "totalSize": "9.4 GB",
   "totalVideoSize": "3.8 GB",
   "totalAudioSize": "5.7 GB",
-  "totalVideos": 2292,
+  "totalVideos": 2294,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -20630,6 +20630,24 @@
       "channel": {
         "name": "Meganoticias",
         "id": "UCkccyEbqhhM3uKOI6Shm-4Q"
+      }
+    },
+    {
+      "id": "JRArshUAcKc",
+      "title": "The best cat in the whole universe",
+      "duration": 181,
+      "channel": {
+        "name": "Girl With The Dogs",
+        "id": "UCUFnGWHIQvybwmR7XDh7-9A"
+      }
+    },
+    {
+      "id": "3tt5ifQVJDE",
+      "title": "Oroville Update! 1/6/2023",
+      "duration": 203,
+      "channel": {
+        "name": "blancolirio",
+        "id": "UCphqjYZxxzjNbONVmY-0J7Q"
       }
     }
   ]
