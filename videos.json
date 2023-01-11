@@ -2,7 +2,7 @@
   "totalSize": "9.4 GB",
   "totalVideoSize": "3.8 GB",
   "totalAudioSize": "5.7 GB",
-  "totalVideos": 2296,
+  "totalVideos": 2298,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -20666,6 +20666,24 @@
       "channel": {
         "name": "12th Hour",
         "id": "UCMAq5Bo8v9E9oe-cm6Dt6_A"
+      }
+    },
+    {
+      "id": "Js5s912qH4w",
+      "title": "BREAKING: Second batch of classified documents found by Biden aides at new location",
+      "duration": 174,
+      "channel": {
+        "name": "NBC News",
+        "id": "UCeY0bbntWzzVIaj2z3QigXg"
+      }
+    },
+    {
+      "id": "eUS3mS2xyFg",
+      "title": "Morning Prep: $TSLA $COIN $AAPL $BBBY $BA | January 11",
+      "duration": 162,
+      "channel": {
+        "name": "Live Trading by TraderTV Live",
+        "id": "UCn75vF3UxwWeWPAY4-5Z6HQ"
       }
     }
   ]
