@@ -2,7 +2,7 @@
   "totalSize": "9.3 GB",
   "totalVideoSize": "3.7 GB",
   "totalAudioSize": "5.6 GB",
-  "totalVideos": 2259,
+  "totalVideos": 2260,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -20333,6 +20333,15 @@
       "channel": {
         "name": "Rapid Trailer",
         "id": "UC1cVTv6C0Unv6TtadjBvYRA"
+      }
+    },
+    {
+      "id": "cq1Rxv0R6T8",
+      "title": "Jenna Ortega Has Regrets About Viral Wednesday Dance! (Exclusive)",
+      "duration": 161,
+      "channel": {
+        "name": "Entertainment Tonight",
+        "id": "UCdtXPiqI2cLorKaPrfpKc4g"
       }
     }
   ]
