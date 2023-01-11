@@ -2,7 +2,7 @@
   "totalSize": "9.3 GB",
   "totalVideoSize": "3.7 GB",
   "totalAudioSize": "5.6 GB",
-  "totalVideos": 2272,
+  "totalVideos": 2273,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -20450,6 +20450,15 @@
       "channel": {
         "name": "maak® (Type Beats, Instrumentals)",
         "id": "UCNegoYM_UatPUnVuahNuPsA"
+      }
+    },
+    {
+      "id": "oY7jTuqPET4",
+      "title": "Big rig hangs over Yolo Bypass on I-5",
+      "duration": 118,
+      "channel": {
+        "name": "KCRA News",
+        "id": "UC-BSVXejMFhhml4V_VyoGxg"
       }
     }
   ]
