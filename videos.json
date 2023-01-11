@@ -2,7 +2,7 @@
   "totalSize": "9.4 GB",
   "totalVideoSize": "3.7 GB",
   "totalAudioSize": "5.6 GB",
-  "totalVideos": 2279,
+  "totalVideos": 2280,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -20513,6 +20513,15 @@
       "channel": {
         "name": "Silver Cymbal",
         "id": "UC67dKTEwpAhKv2oYDATwR8g"
+      }
+    },
+    {
+      "id": "im349_aRx-Q",
+      "title": "Why did Argentina Decline? (Short Animated Documentary)",
+      "duration": 217,
+      "channel": {
+        "name": "History Matters",
+        "id": "UC22BdTgxefuvUivrjesETjg"
       }
     }
   ]
