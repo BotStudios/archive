@@ -2,7 +2,7 @@
   "totalSize": "9.4 GB",
   "totalVideoSize": "3.7 GB",
   "totalAudioSize": "5.6 GB",
-  "totalVideos": 2280,
+  "totalVideos": 2282,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -20522,6 +20522,24 @@
       "channel": {
         "name": "History Matters",
         "id": "UC22BdTgxefuvUivrjesETjg"
+      }
+    },
+    {
+      "id": "RAn_fZO7aeU",
+      "title": "Brad Holmes talks Lions' improvement, says Goff has proven himself",
+      "duration": 106,
+      "channel": {
+        "name": "WXYZ-TV Detroit | Channel 7",
+        "id": "UC6HyKpYWmX4zsy6_bJZIK7A"
+      }
+    },
+    {
+      "id": "VUfeeGf8Wlc",
+      "title": "Is D.C. the loneliest city? | FOX 5 DC",
+      "duration": 206,
+      "channel": {
+        "name": "FOX 5 Washington DC",
+        "id": "UCHLyP4MuA-JAFBCwxXOEDdA"
       }
     }
   ]
