@@ -2,7 +2,7 @@
   "totalSize": "9.5 GB",
   "totalVideoSize": "3.8 GB",
   "totalAudioSize": "5.7 GB",
-  "totalVideos": 2317,
+  "totalVideos": 2319,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -20855,6 +20855,24 @@
       "channel": {
         "name": "History Matters",
         "id": "UC22BdTgxefuvUivrjesETjg"
+      }
+    },
+    {
+      "id": "QcSYs-iprzE",
+      "title": "#2 most aggressive dog breed in the world",
+      "duration": 179,
+      "channel": {
+        "name": "Girl With The Dogs",
+        "id": "UCUFnGWHIQvybwmR7XDh7-9A"
+      }
+    },
+    {
+      "id": "3eAdT3HFCVg",
+      "title": "Vestavia Hills mom pulls son out of Louis Pizitiz Middle School for racist bullying",
+      "duration": 144,
+      "channel": {
+        "name": "WVTM 13 News",
+        "id": "UC7Vw6oq2LCbzAhdxF_UcIWg"
       }
     }
   ]
