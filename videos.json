@@ -2,7 +2,7 @@
   "totalSize": "9.5 GB",
   "totalVideoSize": "3.8 GB",
   "totalAudioSize": "5.7 GB",
-  "totalVideos": 2312,
+  "totalVideos": 2313,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -20810,6 +20810,15 @@
       "channel": {
         "name": "New York Rangers",
         "id": "UCXlX2t7ziIJpZQWZcrHGnow"
+      }
+    },
+    {
+      "id": "L3gMbvv_98s",
+      "title": "High Fives | January 12 | CBC Kids",
+      "duration": 75,
+      "channel": {
+        "name": "CBC Kids",
+        "id": "UCWCOoCApFUtccYENOYeL1uw"
       }
     }
   ]
