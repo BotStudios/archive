@@ -2,7 +2,7 @@
   "totalSize": "9.5 GB",
   "totalVideoSize": "3.8 GB",
   "totalAudioSize": "5.7 GB",
-  "totalVideos": 2323,
+  "totalVideos": 2324,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -20909,6 +20909,15 @@
       "channel": {
         "name": "TiaCorine",
         "id": "UC9suUyHpN7Gzk8l7j3qSrIg"
+      }
+    },
+    {
+      "id": "rjqrJ6E5R1s",
+      "title": "Former Grossmont High School student says teacher assaulted her in front of her class and the distri",
+      "duration": 293,
+      "channel": {
+        "name": "CBS 8 San Diego",
+        "id": "UCMscWako8oDvpdF4pppku-g"
       }
     }
   ]
