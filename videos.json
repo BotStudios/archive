@@ -2,7 +2,7 @@
   "totalSize": "9.6 GB",
   "totalVideoSize": "3.8 GB",
   "totalAudioSize": "5.8 GB",
-  "totalVideos": 2326,
+  "totalVideos": 2327,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -20936,6 +20936,15 @@
       "channel": {
         "name": "NBC News",
         "id": "UCeY0bbntWzzVIaj2z3QigXg"
+      }
+    },
+    {
+      "id": "EuFjjzItWLE",
+      "title": "San Diego Mayor Todd Gloria signs executive order for housing projects",
+      "duration": 172,
+      "channel": {
+        "name": "CBS 8 San Diego",
+        "id": "UCMscWako8oDvpdF4pppku-g"
       }
     }
   ]
