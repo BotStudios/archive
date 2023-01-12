@@ -2,7 +2,7 @@
   "totalSize": "9.5 GB",
   "totalVideoSize": "3.8 GB",
   "totalAudioSize": "5.7 GB",
-  "totalVideos": 2304,
+  "totalVideos": 2305,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -20738,6 +20738,15 @@
       "channel": {
         "name": "NBC",
         "id": "UCccjdJEay2hpb5scz61zY6Q"
+      }
+    },
+    {
+      "id": "TONNnK2hPVQ",
+      "title": "Travel expert warns of increased travel delays following FAA system failure | Morning in America",
+      "duration": 272,
+      "channel": {
+        "name": "NewsNation",
+        "id": "UCCjG8NtOig0USdrT5D1FpxQ"
       }
     }
   ]
