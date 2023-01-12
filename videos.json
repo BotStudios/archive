@@ -1,8 +1,8 @@
 {
-  "totalSize": "9.6 GB",
+  "totalSize": "9.7 GB",
   "totalVideoSize": "3.8 GB",
   "totalAudioSize": "5.8 GB",
-  "totalVideos": 2332,
+  "totalVideos": 2334,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -20990,6 +20990,24 @@
       "channel": {
         "name": "FOX 13 News Utah",
         "id": "UCxjC_VVez3w8Uyh7LWPnkXA"
+      }
+    },
+    {
+      "id": "GKJOsZPM_uw",
+      "title": "Addressing the allegations against me.",
+      "duration": 267,
+      "channel": {
+        "name": "Phoenix SC",
+        "id": "UCj4zC1Hfj-uc90FUXzRamNw"
+      }
+    },
+    {
+      "id": "zQtTF-9mnq0",
+      "title": "Hundreds attend Plant High School meeting to protest proposed Hillsborough school redistricting",
+      "duration": 273,
+      "channel": {
+        "name": "WFLA News Channel 8",
+        "id": "UCDvJcb8Adv-_bOrtnRLmiDw"
       }
     }
   ]
