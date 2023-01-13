@@ -1,8 +1,8 @@
 {
   "totalSize": "9.7 GB",
-  "totalVideoSize": "3.8 GB",
-  "totalAudioSize": "5.8 GB",
-  "totalVideos": 2344,
+  "totalVideoSize": "3.9 GB",
+  "totalAudioSize": "5.9 GB",
+  "totalVideos": 2346,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -21098,6 +21098,24 @@
       "channel": {
         "name": "Bloomberg Markets and Finance",
         "id": "UCIALMKvObZNtJ6AmdCLP7Lg"
+      }
+    },
+    {
+      "id": "mvvt9Y5FqTc",
+      "title": "Lisa Marie Presley dead at 54 after cardiac arrest | LiveNOW from FOX",
+      "duration": 250,
+      "channel": {
+        "name": "LiveNOW from FOX",
+        "id": "UCJg9wBPyKMNA5sRDnvzmkdg"
+      }
+    },
+    {
+      "id": "QuIruGelUD4",
+      "title": "How Hoopers Start Acting When They Get A Girlfriend...",
+      "duration": 184,
+      "channel": {
+        "name": "JDub",
+        "id": "UCg5m-iPUqnM8DT0qR76abMg"
       }
     }
   ]
