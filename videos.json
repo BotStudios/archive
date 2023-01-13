@@ -2,7 +2,7 @@
   "totalSize": "9.8 GB",
   "totalVideoSize": "3.9 GB",
   "totalAudioSize": "5.9 GB",
-  "totalVideos": 2375,
+  "totalVideos": 2376,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -21377,6 +21377,15 @@
       "channel": {
         "name": "CBC Sports",
         "id": "UCOGxnF5dWQtoEz6E-msabZA"
+      }
+    },
+    {
+      "id": "ipH-KIn3F5E",
+      "title": "Welcome back Bob!",
+      "duration": 83,
+      "channel": {
+        "name": "Netflix",
+        "id": "UCWOA1ZGywLbqmigxE4Qlvuw"
       }
     }
   ]
