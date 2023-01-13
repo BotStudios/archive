@@ -2,7 +2,7 @@
   "totalSize": "9.9 GB",
   "totalVideoSize": "3.9 GB",
   "totalAudioSize": "6.0 GB",
-  "totalVideos": 2382,
+  "totalVideos": 2383,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -21440,6 +21440,15 @@
       "channel": {
         "name": "CBS News",
         "id": "UC8p1vwvWtl6T73JiExfWs1g"
+      }
+    },
+    {
+      "id": "MMioYmZE2vU",
+      "title": "The Warriors: Last Subway Ride Home",
+      "duration": 117,
+      "channel": {
+        "name": "Rolling Stone",
+        "id": "UC-JblcinswY50lrUdSaRNEg"
       }
     }
   ]
