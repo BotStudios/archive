@@ -2,7 +2,7 @@
   "totalSize": "9.7 GB",
   "totalVideoSize": "3.9 GB",
   "totalAudioSize": "5.9 GB",
-  "totalVideos": 2346,
+  "totalVideos": 2348,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -21116,6 +21116,24 @@
       "channel": {
         "name": "JDub",
         "id": "UCg5m-iPUqnM8DT0qR76abMg"
+      }
+    },
+    {
+      "id": "Zv7IHA0kTg8",
+      "title": "Golden Retriever Reacts to Tiny Kittens in his Bed",
+      "duration": 121,
+      "channel": {
+        "name": "This is Bailey",
+        "id": "UCWTgK00SCKKNgpbsAgqzUxw"
+      }
+    },
+    {
+      "id": "MrDU2m-gKQc",
+      "title": "Chef Impresses Gordon Ramsay",
+      "duration": 205,
+      "channel": {
+        "name": "Gordon Ramsay",
+        "id": "UCIEv3lZ_tNXHzL3ox-_uUGQ"
       }
     }
   ]
