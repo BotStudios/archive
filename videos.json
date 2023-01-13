@@ -2,7 +2,7 @@
   "totalSize": "9.9 GB",
   "totalVideoSize": "3.9 GB",
   "totalAudioSize": "6.0 GB",
-  "totalVideos": 2381,
+  "totalVideos": 2382,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -21431,6 +21431,15 @@
       "channel": {
         "name": "Daily Dose Of Internet",
         "id": "UCdC0An4ZPNr_YiFiYoVbwaw"
+      }
+    },
+    {
+      "id": "R28qH5qgcek",
+      "title": "Deadly California storms cause devastating flooding",
+      "duration": 284,
+      "channel": {
+        "name": "CBS News",
+        "id": "UC8p1vwvWtl6T73JiExfWs1g"
       }
     }
   ]
