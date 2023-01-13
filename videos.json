@@ -2,7 +2,7 @@
   "totalSize": "9.8 GB",
   "totalVideoSize": "3.9 GB",
   "totalAudioSize": "5.9 GB",
-  "totalVideos": 2373,
+  "totalVideos": 2374,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -21359,6 +21359,15 @@
       "channel": {
         "name": "Dr. Eric Berg DC",
         "id": "UC3w193M5tYPJqF0Hi-7U-2g"
+      }
+    },
+    {
+      "id": "_0ycrWbrCUE",
+      "title": "When the Anime Opening Spoils The Whole Show",
+      "duration": 115,
+      "channel": {
+        "name": "Cilvanis",
+        "id": "UCccnyrT2NeVDzypO64Dif-A"
       }
     }
   ]
