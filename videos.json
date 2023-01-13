@@ -1,8 +1,8 @@
 {
-  "totalSize": "9.8 GB",
+  "totalSize": "9.9 GB",
   "totalVideoSize": "3.9 GB",
-  "totalAudioSize": "5.9 GB",
-  "totalVideos": 2377,
+  "totalAudioSize": "6.0 GB",
+  "totalVideos": 2378,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -21395,6 +21395,15 @@
       "channel": {
         "name": "3 Minutes of Aviation",
         "id": "UCCB1oLQY3XM86ACD05Lq4HQ"
+      }
+    },
+    {
+      "id": "MgL3zWXRGhw",
+      "title": "Lisa Marie Presley’s Ex Michael Lockwood Speaks Out After Her Death",
+      "duration": 217,
+      "channel": {
+        "name": "Entertainment Tonight",
+        "id": "UCdtXPiqI2cLorKaPrfpKc4g"
       }
     }
   ]
