@@ -2,7 +2,7 @@
   "totalSize": "9.7 GB",
   "totalVideoSize": "3.8 GB",
   "totalAudioSize": "5.8 GB",
-  "totalVideos": 2343,
+  "totalVideos": 2344,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -21089,6 +21089,15 @@
       "channel": {
         "name": "KTLA 5",
         "id": "UCinjnmQEwCddOudyCC1v7qA"
+      }
+    },
+    {
+      "id": "BrBEm4wx1PI",
+      "title": "Special Counsel Named for Biden Documents Probe",
+      "duration": 114,
+      "channel": {
+        "name": "Bloomberg Markets and Finance",
+        "id": "UCIALMKvObZNtJ6AmdCLP7Lg"
       }
     }
   ]
