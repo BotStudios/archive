@@ -2,7 +2,7 @@
   "totalSize": "9.7 GB",
   "totalVideoSize": "3.8 GB",
   "totalAudioSize": "5.8 GB",
-  "totalVideos": 2342,
+  "totalVideos": 2343,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -21080,6 +21080,15 @@
       "channel": {
         "name": "Entertainment Tonight",
         "id": "UCdtXPiqI2cLorKaPrfpKc4g"
+      }
+    },
+    {
+      "id": "A8th5KVVcDc",
+      "title": "Lisa Marie Presley dies at 54",
+      "duration": 177,
+      "channel": {
+        "name": "KTLA 5",
+        "id": "UCinjnmQEwCddOudyCC1v7qA"
       }
     }
   ]
