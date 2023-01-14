@@ -2,7 +2,7 @@
   "totalSize": "9.9 GB",
   "totalVideoSize": "3.9 GB",
   "totalAudioSize": "6.0 GB",
-  "totalVideos": 2383,
+  "totalVideos": 2384,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -21449,6 +21449,15 @@
       "channel": {
         "name": "Rolling Stone",
         "id": "UC-JblcinswY50lrUdSaRNEg"
+      }
+    },
+    {
+      "id": "GXDfEgbOn2c",
+      "title": "I Just Got Banned On Twitch",
+      "duration": 150,
+      "channel": {
+        "name": "Adin Live",
+        "id": "UCey-eDTR5J6xU6pZ2f4guoA"
       }
     }
   ]
