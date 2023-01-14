@@ -2,7 +2,7 @@
   "totalSize": "10.0 GB",
   "totalVideoSize": "3.9 GB",
   "totalAudioSize": "6.0 GB",
-  "totalVideos": 2412,
+  "totalVideos": 2414,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -21710,6 +21710,24 @@
       "channel": {
         "name": "Fox News",
         "id": "UCXIJgqnII2ZOINSWNOGFThA"
+      }
+    },
+    {
+      "id": "3hKP-Ep1Fcg",
+      "title": "American travelers say they were fined thousands to cross Tijuana border to come back home",
+      "duration": 282,
+      "channel": {
+        "name": "FOX 11 Los Angeles",
+        "id": "UCHfF8wFnipMeDpJf8OmMxDg"
+      }
+    },
+    {
+      "id": "egYBME8Zd9U",
+      "title": "More documents found at Biden's Wilmington home, new statements say",
+      "duration": 188,
+      "channel": {
+        "name": "MSNBC",
+        "id": "UCaXkIU1QidjPwiAYu6GcHjg"
       }
     }
   ]
