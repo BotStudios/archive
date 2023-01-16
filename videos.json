@@ -2,7 +2,7 @@
   "totalSize": "10.2 GB",
   "totalVideoSize": "4.0 GB",
   "totalAudioSize": "6.2 GB",
-  "totalVideos": 2470,
+  "totalVideos": 2471,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -22232,6 +22232,15 @@
       "channel": {
         "name": "WKMG News 6 ClickOrlando",
         "id": "UCjpzEgbbDUg4YC6vpSrzsyg"
+      }
+    },
+    {
+      "id": "VRoAhg_7oDs",
+      "title": "‘The Chicken Lady’ joins Tucker to talk skyrocketing egg prices",
+      "duration": 217,
+      "channel": {
+        "name": "Fox News",
+        "id": "UCXIJgqnII2ZOINSWNOGFThA"
       }
     }
   ]
