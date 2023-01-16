@@ -2,7 +2,7 @@
   "totalSize": "10.2 GB",
   "totalVideoSize": "4.0 GB",
   "totalAudioSize": "6.2 GB",
-  "totalVideos": 2469,
+  "totalVideos": 2470,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -22223,6 +22223,15 @@
       "channel": {
         "name": "Fox News",
         "id": "UCXIJgqnII2ZOINSWNOGFThA"
+      }
+    },
+    {
+      "id": "xNhFKmRjfv4",
+      "title": "SpaceX successfully launches Falcon Heavy rocket from Kennedy Space Center",
+      "duration": 138,
+      "channel": {
+        "name": "WKMG News 6 ClickOrlando",
+        "id": "UCjpzEgbbDUg4YC6vpSrzsyg"
       }
     }
   ]
