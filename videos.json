@@ -2,7 +2,7 @@
   "totalSize": "10.6 GB",
   "totalVideoSize": "4.1 GB",
   "totalAudioSize": "6.4 GB",
-  "totalVideos": 2566,
+  "totalVideos": 2567,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -23096,6 +23096,15 @@
       "channel": {
         "name": "GeoBeats Animals",
         "id": "UC7_VH_kj0aD9vhuHmFheUYQ"
+      }
+    },
+    {
+      "id": "NthGfn_ddRQ",
+      "title": "Hogwarts Legacy - Official Cinematic Trailer 4K",
+      "duration": 80,
+      "channel": {
+        "name": "Hogwarts Legacy",
+        "id": "UCNflpbEsoC9uWkSPrx6hMqg"
       }
     }
   ]
