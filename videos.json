@@ -2,7 +2,7 @@
   "totalSize": "10.5 GB",
   "totalVideoSize": "4.1 GB",
   "totalAudioSize": "6.4 GB",
-  "totalVideos": 2550,
+  "totalVideos": 2551,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -22952,6 +22952,15 @@
       "channel": {
         "name": "CBS New York",
         "id": "UCNZyLULUQBp5e9Q1cKtvk6Q"
+      }
+    },
+    {
+      "id": "C_ZR-cDr6qg",
+      "title": "Sen. John Kennedy: I don't know what else to do at this point",
+      "duration": 233,
+      "channel": {
+        "name": "Fox News",
+        "id": "UCXIJgqnII2ZOINSWNOGFThA"
       }
     }
   ]
