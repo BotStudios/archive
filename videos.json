@@ -2,7 +2,7 @@
   "totalSize": "10.5 GB",
   "totalVideoSize": "4.1 GB",
   "totalAudioSize": "6.4 GB",
-  "totalVideos": 2536,
+  "totalVideos": 2537,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -22826,6 +22826,15 @@
       "channel": {
         "name": "Guns & Gadgets",
         "id": "UC5fno9H5sK97fLg7RTdZpJg"
+      }
+    },
+    {
+      "id": "ew3aPdGxYls",
+      "title": "Gov. Ron DeSantis seeks to permanently ban mandates on COVID vaccine, masks",
+      "duration": 144,
+      "channel": {
+        "name": "WPTV News - FL Palm Beaches and Treasure Coast",
+        "id": "UC0bCUnP5RrkJZUtd3bBz6Kw"
       }
     }
   ]
