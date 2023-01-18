@@ -2,7 +2,7 @@
   "totalSize": "10.4 GB",
   "totalVideoSize": "4.1 GB",
   "totalAudioSize": "6.3 GB",
-  "totalVideos": 2525,
+  "totalVideos": 2526,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -22727,6 +22727,15 @@
       "channel": {
         "name": "Fox Business",
         "id": "UCCXoCcu9Rp7NPbTzIvogpZg"
+      }
+    },
+    {
+      "id": "-aQK9AShqy0",
+      "title": "Italy's most-wanted mob boss arrested in Sicily",
+      "duration": 103,
+      "channel": {
+        "name": "CBC News: The National",
+        "id": "UCKjU3KzdbJE1EFcHVqXC3_g"
       }
     }
   ]
