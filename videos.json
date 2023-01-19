@@ -2,7 +2,7 @@
   "totalSize": "10.7 GB",
   "totalVideoSize": "4.2 GB",
   "totalAudioSize": "6.5 GB",
-  "totalVideos": 2608,
+  "totalVideos": 2609,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -23474,6 +23474,15 @@
       "channel": {
         "name": "Sotheby's International Realty",
         "id": "UCNZ3t1dMKJGl6-kV9BD5Lqg"
+      }
+    },
+    {
+      "id": "7HKEUyLBwPA",
+      "title": "CNIB defends fundraising costs after charity watchdog review",
+      "duration": 117,
+      "channel": {
+        "name": "CBC News: The National",
+        "id": "UCKjU3KzdbJE1EFcHVqXC3_g"
       }
     }
   ]
