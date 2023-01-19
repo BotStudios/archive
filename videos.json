@@ -2,7 +2,7 @@
   "totalSize": "10.8 GB",
   "totalVideoSize": "4.2 GB",
   "totalAudioSize": "6.5 GB",
-  "totalVideos": 2611,
+  "totalVideos": 2612,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -23501,6 +23501,15 @@
       "channel": {
         "name": "WFSB 3",
         "id": "UCByGc7P_siORkC1pum8T3_Q"
+      }
+    },
+    {
+      "id": "_6HjhFScfjc",
+      "title": "KCRA Today: Jan. 19, 2023",
+      "duration": 121,
+      "channel": {
+        "name": "KCRA News",
+        "id": "UC-BSVXejMFhhml4V_VyoGxg"
       }
     }
   ]
