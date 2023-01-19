@@ -1,8 +1,8 @@
 {
-  "totalSize": "10.6 GB",
+  "totalSize": "10.7 GB",
   "totalVideoSize": "4.2 GB",
   "totalAudioSize": "6.5 GB",
-  "totalVideos": 2583,
+  "totalVideos": 2585,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -23249,6 +23249,24 @@
       "channel": {
         "name": "Sky News Australia",
         "id": "UCO0akufu9MOzyz3nvGIXAAw"
+      }
+    },
+    {
+      "id": "CMVQoiqX5IM",
+      "title": "Pictures from wall breached at North Texas mall, where $2 million in jewelry stolen",
+      "duration": 114,
+      "channel": {
+        "name": "WFAA",
+        "id": "UCBu0KdNokE4MqdkacvH37_A"
+      }
+    },
+    {
+      "id": "idfGYToFTgQ",
+      "title": "Final gang members sentenced in murder of Lesandro 'Junior' Guzman-Feliz",
+      "duration": 181,
+      "channel": {
+        "name": "FOX 5 New York",
+        "id": "UCIjSUWHWp6KohfnR5OQTXnQ"
       }
     }
   ]
