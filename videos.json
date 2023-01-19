@@ -2,7 +2,7 @@
   "totalSize": "10.6 GB",
   "totalVideoSize": "4.2 GB",
   "totalAudioSize": "6.5 GB",
-  "totalVideos": 2577,
+  "totalVideos": 2578,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -23195,6 +23195,15 @@
       "channel": {
         "name": "Jack Pop",
         "id": "UCkyLwzIQo9pSnzXQYi_yZrA"
+      }
+    },
+    {
+      "id": "icdcelxePc8",
+      "title": "Biden classified documents: Why DOJ scaled back on previous investigation",
+      "duration": 126,
+      "channel": {
+        "name": "WFAA",
+        "id": "UCBu0KdNokE4MqdkacvH37_A"
       }
     }
   ]
