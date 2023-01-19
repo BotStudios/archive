@@ -2,7 +2,7 @@
   "totalSize": "10.8 GB",
   "totalVideoSize": "4.2 GB",
   "totalAudioSize": "6.6 GB",
-  "totalVideos": 2613,
+  "totalVideos": 2614,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -23519,6 +23519,15 @@
       "channel": {
         "name": "Priscilla Block",
         "id": "UCG6WPhe4JOX2U7aMgERVCQg"
+      }
+    },
+    {
+      "id": "n95cp9lBn48",
+      "title": "Cool temps and showers possible on Thursday before a stretch of dry and warmer weather",
+      "duration": 154,
+      "channel": {
+        "name": "CBS 8 San Diego",
+        "id": "UCMscWako8oDvpdF4pppku-g"
       }
     }
   ]
