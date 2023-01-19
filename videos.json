@@ -2,7 +2,7 @@
   "totalSize": "10.7 GB",
   "totalVideoSize": "4.2 GB",
   "totalAudioSize": "6.5 GB",
-  "totalVideos": 2605,
+  "totalVideos": 2606,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -23447,6 +23447,15 @@
       "channel": {
         "name": "MSNBC",
         "id": "UCaXkIU1QidjPwiAYu6GcHjg"
+      }
+    },
+    {
+      "id": "XdgMsqRMhrg",
+      "title": "Hometown vigil held in Murrieta for Riverside County Sheriff's Deputy killed in line of duty",
+      "duration": 151,
+      "channel": {
+        "name": "KTLA 5",
+        "id": "UCinjnmQEwCddOudyCC1v7qA"
       }
     }
   ]
