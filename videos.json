@@ -2,7 +2,7 @@
   "totalSize": "10.8 GB",
   "totalVideoSize": "4.2 GB",
   "totalAudioSize": "6.6 GB",
-  "totalVideos": 2622,
+  "totalVideos": 2623,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -23600,6 +23600,15 @@
       "channel": {
         "name": "NBC News",
         "id": "UCeY0bbntWzzVIaj2z3QigXg"
+      }
+    },
+    {
+      "id": "oMf_i1YBuMk",
+      "title": "Introducing the all-new HomePod | Apple",
+      "duration": 142,
+      "channel": {
+        "name": "Apple",
+        "id": "UCE_M8A5yxnLfW0KghEeajjw"
       }
     }
   ]
