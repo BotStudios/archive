@@ -2,7 +2,7 @@
   "totalSize": "10.9 GB",
   "totalVideoSize": "4.3 GB",
   "totalAudioSize": "6.6 GB",
-  "totalVideos": 2644,
+  "totalVideos": 2645,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -23798,6 +23798,15 @@
       "channel": {
         "name": "Bloomberg Markets and Finance",
         "id": "UCIALMKvObZNtJ6AmdCLP7Lg"
+      }
+    },
+    {
+      "id": "a_DNuT7J1wk",
+      "title": "When Metallica only gives you 60 seconds to audition",
+      "duration": 69,
+      "channel": {
+        "name": "Ichika Nito",
+        "id": "UCq3Wpi10SyZkzVeS7vzB5Lw"
       }
     }
   ]
