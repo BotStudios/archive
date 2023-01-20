@@ -2,7 +2,7 @@
   "totalSize": "10.8 GB",
   "totalVideoSize": "4.2 GB",
   "totalAudioSize": "6.6 GB",
-  "totalVideos": 2628,
+  "totalVideos": 2629,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -23654,6 +23654,15 @@
       "channel": {
         "name": "9NEWS",
         "id": "UC72nbKQLSDyiSARhg0Ywj4w"
+      }
+    },
+    {
+      "id": "N1bQ_8W6tq8",
+      "title": "Treasury Sec. Yellen engages with Congress over $31.4 trillion debt ceiling amid looming default",
+      "duration": 179,
+      "channel": {
+        "name": "Yahoo Finance",
+        "id": "UCEAZeUIeJs0IjQiqTCdVSIg"
       }
     }
   ]
