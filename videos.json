@@ -2,7 +2,7 @@
   "totalSize": "10.8 GB",
   "totalVideoSize": "4.2 GB",
   "totalAudioSize": "6.6 GB",
-  "totalVideos": 2621,
+  "totalVideos": 2622,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -23591,6 +23591,15 @@
       "channel": {
         "name": "BagOnly",
         "id": "UCqUwBqJB42q4VGv9A3rxTNw"
+      }
+    },
+    {
+      "id": "7haUShzBsrc",
+      "title": "At least 50 children found cleaning Midwest slaughterhouses",
+      "duration": 252,
+      "channel": {
+        "name": "NBC News",
+        "id": "UCeY0bbntWzzVIaj2z3QigXg"
       }
     }
   ]
