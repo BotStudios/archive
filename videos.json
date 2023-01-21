@@ -2,7 +2,7 @@
   "totalSize": "11.0 GB",
   "totalVideoSize": "4.3 GB",
   "totalAudioSize": "6.7 GB",
-  "totalVideos": 2673,
+  "totalVideos": 2674,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -24059,6 +24059,15 @@
       "channel": {
         "name": "OWN",
         "id": "UCKBnlTTgEnhIXv_c4LvvyMQ"
+      }
+    },
+    {
+      "id": "n19zRkW9JCY",
+      "title": "Homeless told to vacate stretch of American River Parkway after storms",
+      "duration": 141,
+      "channel": {
+        "name": "KCRA News",
+        "id": "UC-BSVXejMFhhml4V_VyoGxg"
       }
     }
   ]
