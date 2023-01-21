@@ -2,7 +2,7 @@
   "totalSize": "11.0 GB",
   "totalVideoSize": "4.3 GB",
   "totalAudioSize": "6.7 GB",
-  "totalVideos": 2668,
+  "totalVideos": 2669,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -24014,6 +24014,15 @@
       "channel": {
         "name": "Just Rolled In",
         "id": "UCjN72nQrWhDnppts-lNnlKQ"
+      }
+    },
+    {
+      "id": "GeUOSKuPhoU",
+      "title": "Highlights: #2 Minnesota Gopher Hockey Wins 4-3 Overtime Thriller over #8 Michigan",
+      "duration": 180,
+      "channel": {
+        "name": "Minnesota Gophers",
+        "id": "UC8c0RvlxxfHbN74FEcTbTrg"
       }
     }
   ]
