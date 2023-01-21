@@ -2,7 +2,7 @@
   "totalSize": "11.0 GB",
   "totalVideoSize": "4.3 GB",
   "totalAudioSize": "6.7 GB",
-  "totalVideos": 2662,
+  "totalVideos": 2663,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -23960,6 +23960,15 @@
       "channel": {
         "name": "Vailskibum",
         "id": "UCVJ2GFJzJgwyN7eWWWSpcHA"
+      }
+    },
+    {
+      "id": "4LiuMlJtdXo",
+      "title": "New front runner emerges in Chicago mayoral race, FOX 32 exclusive poll shows",
+      "duration": 136,
+      "channel": {
+        "name": "FOX 32 Chicago",
+        "id": "UCFmofUYwZd1Ibf_O3PF71jg"
       }
     }
   ]
