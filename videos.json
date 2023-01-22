@@ -2,7 +2,7 @@
   "totalSize": "11.2 GB",
   "totalVideoSize": "4.4 GB",
   "totalAudioSize": "6.9 GB",
-  "totalVideos": 2718,
+  "totalVideos": 2719,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -24464,6 +24464,15 @@
       "channel": {
         "name": "MonaLisa Twins",
         "id": "UCWK_fTtt5p1nBw__P_V_qBw"
+      }
+    },
+    {
+      "id": "LtJEo0CpThc",
+      "title": "Technical glitch removed money from some Bank of America customer accounts",
+      "duration": 209,
+      "channel": {
+        "name": "ABC News",
+        "id": "UCBi2mrWuNuyYy4gbM6fU18Q"
       }
     }
   ]
