@@ -2,7 +2,7 @@
   "totalSize": "11.1 GB",
   "totalVideoSize": "4.3 GB",
   "totalAudioSize": "6.8 GB",
-  "totalVideos": 2698,
+  "totalVideos": 2699,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -24284,6 +24284,15 @@
       "channel": {
         "name": "American Pie",
         "id": "UCTdc35oPUCbKkNq0g9U96AQ"
+      }
+    },
+    {
+      "id": "6EMAdMh_a10",
+      "title": "Troy Aikman Shares His Favorite Memories of the Cowboys-49ers 1990’s Rivalry | The Rich Eisen Show",
+      "duration": 267,
+      "channel": {
+        "name": "The Rich Eisen Show",
+        "id": "UCqMtxjKnR7ySbEZSs2N-v0Q"
       }
     }
   ]
