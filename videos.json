@@ -2,7 +2,7 @@
   "totalSize": "11.2 GB",
   "totalVideoSize": "4.4 GB",
   "totalAudioSize": "6.8 GB",
-  "totalVideos": 2715,
+  "totalVideos": 2716,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -24437,6 +24437,15 @@
       "channel": {
         "name": "Click On Detroit | Local 4 | WDIV",
         "id": "UCqMdEOPBZbGPykVOhUqWqfA"
+      }
+    },
+    {
+      "id": "4OJFGTYvTQQ",
+      "title": "Magnetische Poolverschuiving",
+      "duration": 129,
+      "channel": {
+        "name": "Willy Somber",
+        "id": "UC-SyaQykp732nwJ_TmARcJg"
       }
     }
   ]
