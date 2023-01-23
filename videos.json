@@ -2,7 +2,7 @@
   "totalSize": "11.4 GB",
   "totalVideoSize": "4.4 GB",
   "totalAudioSize": "6.9 GB",
-  "totalVideos": 2751,
+  "totalVideos": 2752,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -24761,6 +24761,15 @@
       "channel": {
         "name": "9NEWS",
         "id": "UC72nbKQLSDyiSARhg0Ywj4w"
+      }
+    },
+    {
+      "id": "dp6nSIaqhmA",
+      "title": "DFW weather: A chance to see snow in North Texas this week?",
+      "duration": 239,
+      "channel": {
+        "name": "WFAA",
+        "id": "UCBu0KdNokE4MqdkacvH37_A"
       }
     }
   ]
