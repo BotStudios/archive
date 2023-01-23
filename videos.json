@@ -2,7 +2,7 @@
   "totalSize": "11.3 GB",
   "totalVideoSize": "4.4 GB",
   "totalAudioSize": "6.9 GB",
-  "totalVideos": 2747,
+  "totalVideos": 2748,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -24725,6 +24725,15 @@
       "channel": {
         "name": "ABC24 Memphis",
         "id": "UCwG8tm-dZVur_4S1DnGMaeA"
+      }
+    },
+    {
+      "id": "oEkPtl6SOk0",
+      "title": "Dance instructor killed in Monterey Park mass shooting identified by friends",
+      "duration": 155,
+      "channel": {
+        "name": "ABC7",
+        "id": "UCVxBA3Cbu3pm8w8gEIoMEog"
       }
     }
   ]
