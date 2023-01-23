@@ -2,7 +2,7 @@
   "totalSize": "11.4 GB",
   "totalVideoSize": "4.4 GB",
   "totalAudioSize": "7.0 GB",
-  "totalVideos": 2765,
+  "totalVideos": 2766,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -24887,6 +24887,15 @@
       "channel": {
         "name": "Fox News",
         "id": "UCXIJgqnII2ZOINSWNOGFThA"
+      }
+    },
+    {
+      "id": "0VAqjAKqQQM",
+      "title": "Usopp Uses Color of the Supreme King Haki | One Piece",
+      "duration": 91,
+      "channel": {
+        "name": "Crunchyroll Collection",
+        "id": "UC6pGDc4bFGD1_36IKv3FnYg"
       }
     }
   ]
