@@ -2,7 +2,7 @@
   "totalSize": "11.4 GB",
   "totalVideoSize": "4.4 GB",
   "totalAudioSize": "7.0 GB",
-  "totalVideos": 2771,
+  "totalVideos": 2772,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -24941,6 +24941,15 @@
       "channel": {
         "name": "Netflix",
         "id": "UCWOA1ZGywLbqmigxE4Qlvuw"
+      }
+    },
+    {
+      "id": "Nb1s5Ttu184",
+      "title": "A dry and sunny week ahead with strong Santa Ana winds returning",
+      "duration": 152,
+      "channel": {
+        "name": "CBS 8 San Diego",
+        "id": "UCMscWako8oDvpdF4pppku-g"
       }
     }
   ]
