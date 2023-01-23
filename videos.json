@@ -2,7 +2,7 @@
   "totalSize": "11.4 GB",
   "totalVideoSize": "4.4 GB",
   "totalAudioSize": "7.0 GB",
-  "totalVideos": 2770,
+  "totalVideos": 2771,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -24932,6 +24932,15 @@
       "channel": {
         "name": "Live Trading by TraderTV Live",
         "id": "UCn75vF3UxwWeWPAY4-5Z6HQ"
+      }
+    },
+    {
+      "id": "xVYAh0MQtiI",
+      "title": "Cobra Kai | Season 6 Announcement | Netflix",
+      "duration": 79,
+      "channel": {
+        "name": "Netflix",
+        "id": "UCWOA1ZGywLbqmigxE4Qlvuw"
       }
     }
   ]
