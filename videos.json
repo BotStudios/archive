@@ -2,7 +2,7 @@
   "totalSize": "11.4 GB",
   "totalVideoSize": "4.4 GB",
   "totalAudioSize": "7.0 GB",
-  "totalVideos": 2762,
+  "totalVideos": 2763,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -24860,6 +24860,15 @@
       "channel": {
         "name": "Tucker Budzyn",
         "id": "UCNSzfesc7IgWZwg4n6uXr1A"
+      }
+    },
+    {
+      "id": "uj6wScDm2SQ",
+      "title": "Batman: The Doom That Came to Gotham | Trailer | DC",
+      "duration": 116,
+      "channel": {
+        "name": "DC",
+        "id": "UCiifkYAs_bq1pt_zbNAzYGg"
       }
     }
   ]
