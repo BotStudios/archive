@@ -2,7 +2,7 @@
   "totalSize": "11.3 GB",
   "totalVideoSize": "4.4 GB",
   "totalAudioSize": "6.9 GB",
-  "totalVideos": 2735,
+  "totalVideos": 2736,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -24617,6 +24617,15 @@
       "channel": {
         "name": "WKYC Channel 3",
         "id": "UCNBmxc6FvKyxtCpUygcdINA"
+      }
+    },
+    {
+      "id": "OvHAQI3hxGE",
+      "title": "Monterey Park shooting suspect was same suspect in incident at Alhambra dance studio",
+      "duration": 132,
+      "channel": {
+        "name": "ABC7",
+        "id": "UCVxBA3Cbu3pm8w8gEIoMEog"
       }
     }
   ]
