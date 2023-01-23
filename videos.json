@@ -2,7 +2,7 @@
   "totalSize": "11.3 GB",
   "totalVideoSize": "4.4 GB",
   "totalAudioSize": "6.9 GB",
-  "totalVideos": 2732,
+  "totalVideos": 2733,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -24590,6 +24590,15 @@
       "channel": {
         "name": "Jacksonville Jaguars",
         "id": "UCsGacW6z0GedR-Wv45SBRZg"
+      }
+    },
+    {
+      "id": "sGie_Y2KFWA",
+      "title": "BREAKING: Suspect in Monterey Park mass shooting dead from self-inflicted gunshot wound",
+      "duration": 202,
+      "channel": {
+        "name": "MSNBC",
+        "id": "UCaXkIU1QidjPwiAYu6GcHjg"
       }
     }
   ]
