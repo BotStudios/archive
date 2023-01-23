@@ -2,7 +2,7 @@
   "totalSize": "11.4 GB",
   "totalVideoSize": "4.4 GB",
   "totalAudioSize": "7.0 GB",
-  "totalVideos": 2754,
+  "totalVideos": 2756,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -24788,6 +24788,24 @@
       "channel": {
         "name": "L1ttl3 Travieso",
         "id": "UCUilblzxIJV-2n5ycueirDg"
+      }
+    },
+    {
+      "id": "E-3HSEXCmDk",
+      "title": "VP Harris raises eyebrows with omission in Declaration of Independence quote",
+      "duration": 288,
+      "channel": {
+        "name": "Fox News",
+        "id": "UCXIJgqnII2ZOINSWNOGFThA"
+      }
+    },
+    {
+      "id": "a7RYMQNiMHY",
+      "title": "Amid Lunar New Year Celebrations, Philly Region Reacts to Mass Shooting in California",
+      "duration": 257,
+      "channel": {
+        "name": "NBC10 Philadelphia",
+        "id": "UCD158fKWVgwCkOooKEoJ1kw"
       }
     }
   ]
