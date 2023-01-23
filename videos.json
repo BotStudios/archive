@@ -2,7 +2,7 @@
   "totalSize": "11.4 GB",
   "totalVideoSize": "4.4 GB",
   "totalAudioSize": "7.0 GB",
-  "totalVideos": 2768,
+  "totalVideos": 2770,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -24914,6 +24914,24 @@
       "channel": {
         "name": "KTNV Channel 13 Las Vegas",
         "id": "UCDqchFCm3HNLAob6OpsLWLw"
+      }
+    },
+    {
+      "id": "DpOxQW_ZkLw",
+      "title": "LaMelo was hit with a Tech after hitting it DEEP from the logo  😬",
+      "duration": 54,
+      "channel": {
+        "name": "House of Highlights",
+        "id": "UCqQo7ewe87aYAe7ub5UqXMw"
+      }
+    },
+    {
+      "id": "k1DXKwneEaI",
+      "title": "Morning Prep: $CRM, $AMD, $W, $SPOT, $PYPL, $AAPL | January 23",
+      "duration": 188,
+      "channel": {
+        "name": "Live Trading by TraderTV Live",
+        "id": "UCn75vF3UxwWeWPAY4-5Z6HQ"
       }
     }
   ]
