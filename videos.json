@@ -2,7 +2,7 @@
   "totalSize": "11.6 GB",
   "totalVideoSize": "4.5 GB",
   "totalAudioSize": "7.1 GB",
-  "totalVideos": 2814,
+  "totalVideos": 2815,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -25328,6 +25328,15 @@
       "channel": {
         "name": "Justine Skye",
         "id": "UCmbzA2bP0GqrqekDDkRg-DQ"
+      }
+    },
+    {
+      "id": "gQyNOBpgXiQ",
+      "title": "Suspect in Half Moon Bay, California, shootings taken into custody",
+      "duration": 240,
+      "channel": {
+        "name": "CBS News",
+        "id": "UC8p1vwvWtl6T73JiExfWs1g"
       }
     }
   ]
