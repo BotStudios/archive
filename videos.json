@@ -2,7 +2,7 @@
   "totalSize": "11.5 GB",
   "totalVideoSize": "4.5 GB",
   "totalAudioSize": "7.0 GB",
-  "totalVideos": 2789,
+  "totalVideos": 2790,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -25103,6 +25103,15 @@
       "channel": {
         "name": "Daily Dose Of Internet",
         "id": "UCdC0An4ZPNr_YiFiYoVbwaw"
+      }
+    },
+    {
+      "id": "XK2XJV8BoT8",
+      "title": "Oakland police say 8 people shot, 1 killed at gas station Monday evening",
+      "duration": 121,
+      "channel": {
+        "name": "KTVU FOX 2 San Francisco",
+        "id": "UCVhtkN7-c8mA8GXEoxS4YQw"
       }
     }
   ]
