@@ -2,7 +2,7 @@
   "totalSize": "11.5 GB",
   "totalVideoSize": "4.5 GB",
   "totalAudioSize": "7.0 GB",
-  "totalVideos": 2785,
+  "totalVideos": 2786,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -25067,6 +25067,15 @@
       "channel": {
         "name": "WWE",
         "id": "UCJ5v_MCY6GNUBTO8-D3XoAg"
+      }
+    },
+    {
+      "id": "3h2rewjGiu0",
+      "title": "Official: 7 killed in California, suspect arrested",
+      "duration": 107,
+      "channel": {
+        "name": "Associated Press",
+        "id": "UC52X5wxOL_s5yw0dQk7NtgA"
       }
     }
   ]
