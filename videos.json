@@ -2,7 +2,7 @@
   "totalSize": "11.5 GB",
   "totalVideoSize": "4.4 GB",
   "totalAudioSize": "7.0 GB",
-  "totalVideos": 2776,
+  "totalVideos": 2777,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -24986,6 +24986,15 @@
       "channel": {
         "name": "The Dodo",
         "id": "UCINb0wqPz-A0dV9nARjJlOQ"
+      }
+    },
+    {
+      "id": "v5BGcEBIpR4",
+      "title": "Congress must have the courage to stand up to powerful corporate interests and their lobbyists.",
+      "duration": 51,
+      "channel": {
+        "name": "Senator Bernie Sanders",
+        "id": "UCD_DaKNac0Ta-2PeHuoQ1uA"
       }
     }
   ]
