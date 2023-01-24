@@ -1,8 +1,8 @@
 {
   "totalSize": "11.5 GB",
-  "totalVideoSize": "4.4 GB",
+  "totalVideoSize": "4.5 GB",
   "totalAudioSize": "7.0 GB",
-  "totalVideos": 2779,
+  "totalVideos": 2780,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -25013,6 +25013,15 @@
       "channel": {
         "name": "WLWT",
         "id": "UCkr9qZ5tj9dGd7JvE3a8X4Q"
+      }
+    },
+    {
+      "id": "yYd9UGxLRmE",
+      "title": "FDA clears exoskeleton for stroke rehabilitation",
+      "duration": 185,
+      "channel": {
+        "name": "Reuters",
+        "id": "UChqUTb7kYRX8-EiaN3XFrSQ"
       }
     }
   ]
