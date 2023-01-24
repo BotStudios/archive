@@ -2,7 +2,7 @@
   "totalSize": "11.5 GB",
   "totalVideoSize": "4.5 GB",
   "totalAudioSize": "7.0 GB",
-  "totalVideos": 2784,
+  "totalVideos": 2785,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -25054,6 +25054,15 @@
     {
       "id": "HE8Tr3ulEXo",
       "title": "Jey Uso stands up for the defense of Sami Zayn: Raw, Jan. 23, 2023",
+      "duration": 188,
+      "channel": {
+        "name": "WWE",
+        "id": "UCJ5v_MCY6GNUBTO8-D3XoAg"
+      }
+    },
+    {
+      "id": "0QwAxi3lfb8",
+      "title": "DX and Kurt Angle get under the skin of Imperium: Raw, Jan. 23, 2023",
       "duration": 188,
       "channel": {
         "name": "WWE",
