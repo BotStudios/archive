@@ -2,7 +2,7 @@
   "totalSize": "11.6 GB",
   "totalVideoSize": "4.5 GB",
   "totalAudioSize": "7.1 GB",
-  "totalVideos": 2809,
+  "totalVideos": 2811,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -25283,6 +25283,24 @@
       "channel": {
         "name": "euronews",
         "id": "UCSrZ3UV4jOidv8ppoVuvW9Q"
+      }
+    },
+    {
+      "id": "yNYofSohvWM",
+      "title": "Seven dead in Half Moon Bay, one of three California mass shootings in three days",
+      "duration": 153,
+      "channel": {
+        "name": "CBSDFW",
+        "id": "UCxMXl9L79X1Mq_4iwCOyPFg"
+      }
+    },
+    {
+      "id": "MDdAjVAEjo8",
+      "title": "7 killed in California community; suspect arrested",
+      "duration": 129,
+      "channel": {
+        "name": "THV11",
+        "id": "UCStCUMvCw067Nw5uSlbyDsw"
       }
     }
   ]
