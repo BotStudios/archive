@@ -2,7 +2,7 @@
   "totalSize": "11.8 GB",
   "totalVideoSize": "4.6 GB",
   "totalAudioSize": "7.2 GB",
-  "totalVideos": 2857,
+  "totalVideos": 2858,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -25715,6 +25715,15 @@
       "channel": {
         "name": "Click On Detroit | Local 4 | WDIV",
         "id": "UCqMdEOPBZbGPykVOhUqWqfA"
+      }
+    },
+    {
+      "id": "36FwpMjpIO8",
+      "title": "DeSantis speaks on decision to reject Black history course",
+      "duration": 231,
+      "channel": {
+        "name": "ABC Action News",
+        "id": "UCK0UUsCjtMRNtS3BPh1Yc4w"
       }
     }
   ]
