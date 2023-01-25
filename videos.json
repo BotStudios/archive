@@ -2,7 +2,7 @@
   "totalSize": "11.9 GB",
   "totalVideoSize": "4.6 GB",
   "totalAudioSize": "7.3 GB",
-  "totalVideos": 2875,
+  "totalVideos": 2876,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -25877,6 +25877,15 @@
       "channel": {
         "name": "WDR BIG BAND",
         "id": "UCulDi5lPqT4Wa49gZhNgKdg"
+      }
+    },
+    {
+      "id": "EwHrjZxAT7g",
+      "title": "Pedro Pascal & Bella Ramsey Get To Know Me | The Last of Us | HBO Max",
+      "duration": 295,
+      "channel": {
+        "name": "HBO Max",
+        "id": "UCx-KWLTKlB83hDI6UKECtJQ"
       }
     }
   ]
