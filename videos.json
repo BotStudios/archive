@@ -2,7 +2,7 @@
   "totalSize": "11.8 GB",
   "totalVideoSize": "4.6 GB",
   "totalAudioSize": "7.2 GB",
-  "totalVideos": 2861,
+  "totalVideos": 2862,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -25751,6 +25751,15 @@
       "channel": {
         "name": "FOX 4 Dallas-Fort Worth",
         "id": "UCruQg25yVBppUWjza8AlyZA"
+      }
+    },
+    {
+      "id": "yFPJGwij_rA",
+      "title": "First Alert Weather Day: Snow starts to move into North Texas",
+      "duration": 268,
+      "channel": {
+        "name": "CBSDFW",
+        "id": "UCxMXl9L79X1Mq_4iwCOyPFg"
       }
     }
   ]
