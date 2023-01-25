@@ -2,7 +2,7 @@
   "totalSize": "11.7 GB",
   "totalVideoSize": "4.5 GB",
   "totalAudioSize": "7.2 GB",
-  "totalVideos": 2843,
+  "totalVideos": 2845,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -25589,6 +25589,24 @@
       "channel": {
         "name": "Fox News",
         "id": "UCXIJgqnII2ZOINSWNOGFThA"
+      }
+    },
+    {
+      "id": "0Zs8UpOlFAE",
+      "title": "Here’s how schools are preparing for closures ahead of Michigan winter snowstorm",
+      "duration": 180,
+      "channel": {
+        "name": "Click On Detroit | Local 4 | WDIV",
+        "id": "UCqMdEOPBZbGPykVOhUqWqfA"
+      }
+    },
+    {
+      "id": "L2YhrDdHvx0",
+      "title": "Houston weather update: Chief Meteorologist David Paul is tracking severe thunderstorms",
+      "duration": 272,
+      "channel": {
+        "name": "KHOU 11",
+        "id": "UCXwRxm0zS0jBNTMOVI6xZJw"
       }
     }
   ]
