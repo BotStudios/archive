@@ -2,7 +2,7 @@
   "totalSize": "12.0 GB",
   "totalVideoSize": "4.6 GB",
   "totalAudioSize": "7.4 GB",
-  "totalVideos": 2908,
+  "totalVideos": 2909,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -26174,6 +26174,15 @@
       "channel": {
         "name": "WTHR",
         "id": "UCSFLs1nwzqSC3Tq6cXhJkLg"
+      }
+    },
+    {
+      "id": "8kAN76DY4XA",
+      "title": "Schiff announces run for Senate in California",
+      "duration": 163,
+      "channel": {
+        "name": "MSNBC",
+        "id": "UCaXkIU1QidjPwiAYu6GcHjg"
       }
     }
   ]
