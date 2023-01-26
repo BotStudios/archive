@@ -2,7 +2,7 @@
   "totalSize": "12.0 GB",
   "totalVideoSize": "4.6 GB",
   "totalAudioSize": "7.4 GB",
-  "totalVideos": 2912,
+  "totalVideos": 2913,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -26210,6 +26210,15 @@
       "channel": {
         "name": "LIBIANCA",
         "id": "UCdW_0Vy02MdetPba75D1LTg"
+      }
+    },
+    {
+      "id": "q1qgHUtuAXU",
+      "title": "Alec Baldwin faces manslaughter charges for deadly shooting on movie set",
+      "duration": 277,
+      "channel": {
+        "name": "PBS NewsHour",
+        "id": "UC6ZFN9Tx6xh-skXCuRHCDpQ"
       }
     }
   ]
