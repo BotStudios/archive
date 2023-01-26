@@ -2,7 +2,7 @@
   "totalSize": "12.0 GB",
   "totalVideoSize": "4.6 GB",
   "totalAudioSize": "7.3 GB",
-  "totalVideos": 2895,
+  "totalVideos": 2896,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -26057,6 +26057,15 @@
       "channel": {
         "name": "Click On Detroit | Local 4 | WDIV",
         "id": "UCqMdEOPBZbGPykVOhUqWqfA"
+      }
+    },
+    {
+      "id": "cToWX63VMNU",
+      "title": "Damian Lillard Highlights (60 points) | Portland Trail Blazers | Jan. 25, 2023",
+      "duration": 150,
+      "channel": {
+        "name": "Portland Trail Blazers",
+        "id": "UCXk66yyzXo7-2M1BMqLhltQ"
       }
     }
   ]
