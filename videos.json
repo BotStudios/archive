@@ -2,7 +2,7 @@
   "totalSize": "11.9 GB",
   "totalVideoSize": "4.6 GB",
   "totalAudioSize": "7.3 GB",
-  "totalVideos": 2893,
+  "totalVideos": 2894,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -26039,6 +26039,15 @@
       "channel": {
         "name": "CBS 8 San Diego",
         "id": "UCMscWako8oDvpdF4pppku-g"
+      }
+    },
+    {
+      "id": "G94jFWH8NSM",
+      "title": "Gothic architecture explained",
+      "duration": 271,
+      "channel": {
+        "name": "Smarthistory",
+        "id": "UC3R-xanNgtoa8b7gpVexVlA"
       }
     }
   ]
