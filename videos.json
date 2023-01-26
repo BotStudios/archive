@@ -2,7 +2,7 @@
   "totalSize": "11.9 GB",
   "totalVideoSize": "4.6 GB",
   "totalAudioSize": "7.3 GB",
-  "totalVideos": 2885,
+  "totalVideos": 2886,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -25967,6 +25967,15 @@
       "channel": {
         "name": "CBS Evening News",
         "id": "UCAeWdyKJXGWmVAXFpgLNNTg"
+      }
+    },
+    {
+      "id": "l43suTKxsGQ",
+      "title": "Josh Hawley: 'We need to act right now'",
+      "duration": 173,
+      "channel": {
+        "name": "Fox News",
+        "id": "UCXIJgqnII2ZOINSWNOGFThA"
       }
     }
   ]
