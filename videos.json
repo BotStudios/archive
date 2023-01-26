@@ -2,7 +2,7 @@
   "totalSize": "11.9 GB",
   "totalVideoSize": "4.6 GB",
   "totalAudioSize": "7.3 GB",
-  "totalVideos": 2884,
+  "totalVideos": 2885,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -25958,6 +25958,15 @@
       "channel": {
         "name": "The Dodo",
         "id": "UCINb0wqPz-A0dV9nARjJlOQ"
+      }
+    },
+    {
+      "id": "08XM_ktD96c",
+      "title": "Winter storm pummels Eastern U.S.",
+      "duration": 170,
+      "channel": {
+        "name": "CBS Evening News",
+        "id": "UCAeWdyKJXGWmVAXFpgLNNTg"
       }
     }
   ]
