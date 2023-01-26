@@ -2,7 +2,7 @@
   "totalSize": "11.9 GB",
   "totalVideoSize": "4.6 GB",
   "totalAudioSize": "7.3 GB",
-  "totalVideos": 2890,
+  "totalVideos": 2891,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -26012,6 +26012,15 @@
       "channel": {
         "name": "News 19 WLTX",
         "id": "UCVaXclURQZlakiTMzuwHvRw"
+      }
+    },
+    {
+      "id": "BrOXeKouUMg",
+      "title": "Cold on Thursday with occasional snow showers",
+      "duration": 260,
+      "channel": {
+        "name": "WLKY News Louisville",
+        "id": "UCojNA7ZvnmGuIvYnm44wl3Q"
       }
     }
   ]
