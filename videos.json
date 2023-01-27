@@ -2,7 +2,7 @@
   "totalSize": "12.2 GB",
   "totalVideoSize": "4.7 GB",
   "totalAudioSize": "7.5 GB",
-  "totalVideos": 2958,
+  "totalVideos": 2960,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -26624,6 +26624,24 @@
       "channel": {
         "name": "Therewolf Media",
         "id": "UCNWciYkcIRsizFqKdeRSrCA"
+      }
+    },
+    {
+      "id": "DQVBYoX_5Fc",
+      "title": "Sarah Reeves - Jealousy (Official Music Video)",
+      "duration": 215,
+      "channel": {
+        "name": "Sarah Reeves",
+        "id": "UCGxcgfDw8p2FZ6PFsaQHFhw"
+      }
+    },
+    {
+      "id": "4jVAWQUvrLI",
+      "title": "Jersey Giant",
+      "duration": 267,
+      "channel": {
+        "name": "Elle King",
+        "id": "UCwkf_iOIokpkirdl4-adAZQ"
       }
     }
   ]
