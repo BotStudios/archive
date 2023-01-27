@@ -2,7 +2,7 @@
   "totalSize": "12.1 GB",
   "totalVideoSize": "4.7 GB",
   "totalAudioSize": "7.5 GB",
-  "totalVideos": 2937,
+  "totalVideos": 2938,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -26435,6 +26435,15 @@
       "channel": {
         "name": "WFAA",
         "id": "UCBu0KdNokE4MqdkacvH37_A"
+      }
+    },
+    {
+      "id": "q8CEw8oiwsE",
+      "title": "Eric Reprid - Loner [Official Video]",
+      "duration": 145,
+      "channel": {
+        "name": "Eric Reprid",
+        "id": "UCYugqcud2SwC5pKj78p4DVA"
       }
     }
   ]
