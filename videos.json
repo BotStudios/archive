@@ -1,8 +1,8 @@
 {
-  "totalSize": "12.1 GB",
+  "totalSize": "12.2 GB",
   "totalVideoSize": "4.7 GB",
   "totalAudioSize": "7.5 GB",
-  "totalVideos": 2938,
+  "totalVideos": 2939,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -26444,6 +26444,15 @@
       "channel": {
         "name": "Eric Reprid",
         "id": "UCYugqcud2SwC5pKj78p4DVA"
+      }
+    },
+    {
+      "id": "eI2aELYknJk",
+      "title": "David Goggins: Ozempic users for weight loss miss biggest part of journey | CUOMO",
+      "duration": 272,
+      "channel": {
+        "name": "NewsNation",
+        "id": "UCCjG8NtOig0USdrT5D1FpxQ"
       }
     }
   ]
