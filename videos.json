@@ -2,7 +2,7 @@
   "totalSize": "12.2 GB",
   "totalVideoSize": "4.7 GB",
   "totalAudioSize": "7.5 GB",
-  "totalVideos": 2950,
+  "totalVideos": 2951,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -26552,6 +26552,15 @@
       "channel": {
         "name": "NBC Bay Area",
         "id": "UCmKKVuZrBfSGiuvtOuipoDA"
+      }
+    },
+    {
+      "id": "h8DLofLM7No",
+      "title": "Taylor Swift - Lavender Haze (Official Music Video)",
+      "duration": 211,
+      "channel": {
+        "name": "Taylor Swift",
+        "id": "UCqECaJ8Gagnn7YCbPEzWH6g"
       }
     }
   ]
