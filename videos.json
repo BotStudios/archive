@@ -2,7 +2,7 @@
   "totalSize": "12.3 GB",
   "totalVideoSize": "4.7 GB",
   "totalAudioSize": "7.6 GB",
-  "totalVideos": 2974,
+  "totalVideos": 2975,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -26768,6 +26768,15 @@
       "channel": {
         "name": "KTVU FOX 2 San Francisco",
         "id": "UCVhtkN7-c8mA8GXEoxS4YQw"
+      }
+    },
+    {
+      "id": "JTkG7hJi6MM",
+      "title": "Better Than I | Ben Everson A Cappella",
+      "duration": 246,
+      "channel": {
+        "name": "Ben Everson",
+        "id": "UCcv8PBFPfCkWhqPXUwZwrLw"
       }
     }
   ]
