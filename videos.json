@@ -2,7 +2,7 @@
   "totalSize": "12.3 GB",
   "totalVideoSize": "4.7 GB",
   "totalAudioSize": "7.5 GB",
-  "totalVideos": 2965,
+  "totalVideos": 2967,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -26687,6 +26687,24 @@
       "channel": {
         "name": "Liam Dowling",
         "id": "UC-UnBy_fgcZ3ruourp5bTqA"
+      }
+    },
+    {
+      "id": "-wVzORqJcGI",
+      "title": "Fashion",
+      "duration": 175,
+      "channel": {
+        "name": "BILKYOUTUBE",
+        "id": "UChLX5PzjRD5el7_XJTuOkkA"
+      }
+    },
+    {
+      "id": "6X7ex3cDvfg",
+      "title": "I Want To Grow Old With You",
+      "duration": 165,
+      "channel": {
+        "name": "Marcelo Rezende",
+        "id": "UCjz7G6e4NC5iRmIA2gIQmMA"
       }
     }
   ]
