@@ -2,7 +2,7 @@
   "totalSize": "12.4 GB",
   "totalVideoSize": "4.8 GB",
   "totalAudioSize": "7.6 GB",
-  "totalVideos": 2995,
+  "totalVideos": 2996,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -26957,6 +26957,15 @@
       "channel": {
         "name": "Eyewitness News WTVO WQRF",
         "id": "UC5SQnMaPmg79B8616fP2yBQ"
+      }
+    },
+    {
+      "id": "srO3jqZqMIA",
+      "title": "Judge allows Mosby's attorneys to withdraw",
+      "duration": 131,
+      "channel": {
+        "name": "WBAL-TV 11 Baltimore",
+        "id": "UCpmb83_U37eDBlgEezsxK7w"
       }
     }
   ]
