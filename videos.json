@@ -2,7 +2,7 @@
   "totalSize": "12.5 GB",
   "totalVideoSize": "4.8 GB",
   "totalAudioSize": "7.7 GB",
-  "totalVideos": 3020,
+  "totalVideos": 3021,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -27182,6 +27182,15 @@
       "channel": {
         "name": "Saturday Night Live",
         "id": "UCqFzWxSCi39LnW1JKFR3efg"
+      }
+    },
+    {
+      "id": "PZm1bjxE5co",
+      "title": "Local community works through the traumas of police brutality",
+      "duration": 189,
+      "channel": {
+        "name": "KARE 11",
+        "id": "UC1JAwKeDUjN2orv5t7LWODQ"
       }
     }
   ]
