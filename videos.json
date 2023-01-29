@@ -2,7 +2,7 @@
   "totalSize": "12.4 GB",
   "totalVideoSize": "4.8 GB",
   "totalAudioSize": "7.6 GB",
-  "totalVideos": 3009,
+  "totalVideos": 3010,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -27083,6 +27083,15 @@
       "channel": {
         "name": "Entertainment Tonight",
         "id": "UCdtXPiqI2cLorKaPrfpKc4g"
+      }
+    },
+    {
+      "id": "HiRTRmzi4ow",
+      "title": "Weekend Update: TikTok Fights Texas Ban, Chipotle Hiring for \"Burrito Season\" - SNL",
+      "duration": 114,
+      "channel": {
+        "name": "Saturday Night Live",
+        "id": "UCqFzWxSCi39LnW1JKFR3efg"
       }
     }
   ]
