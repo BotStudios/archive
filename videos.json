@@ -2,7 +2,7 @@
   "totalSize": "12.4 GB",
   "totalVideoSize": "4.8 GB",
   "totalAudioSize": "7.7 GB",
-  "totalVideos": 3013,
+  "totalVideos": 3014,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -27119,6 +27119,15 @@
       "channel": {
         "name": "BuzzFeed News",
         "id": "UCf4FYTsGFFcdc68AUPIU3RA"
+      }
+    },
+    {
+      "id": "vs9E0AxBEVU",
+      "title": "Protesters gather in Hollywood and downtown LA, demanding justice for Tyre Nichols",
+      "duration": 145,
+      "channel": {
+        "name": "ABC7",
+        "id": "UCVxBA3Cbu3pm8w8gEIoMEog"
       }
     }
   ]
