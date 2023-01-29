@@ -2,7 +2,7 @@
   "totalSize": "12.5 GB",
   "totalVideoSize": "4.8 GB",
   "totalAudioSize": "7.7 GB",
-  "totalVideos": 3036,
+  "totalVideos": 3038,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -27326,6 +27326,24 @@
       "channel": {
         "name": "Highlight Heaven",
         "id": "UCq0grzC77X9UZd9xngQRTjg"
+      }
+    },
+    {
+      "id": "78KO6DfIjHU",
+      "title": "Towel Guys - SNL",
+      "duration": 295,
+      "channel": {
+        "name": "Saturday Night Live",
+        "id": "UCqFzWxSCi39LnW1JKFR3efg"
+      }
+    },
+    {
+      "id": "9zoAv0QEz8A",
+      "title": "Breaking Down Gov. DeSantis' Latest Fear Mongering Tactic",
+      "duration": 204,
+      "channel": {
+        "name": "NowThis News",
+        "id": "UCn4sPeUomNGIr26bElVdDYg"
       }
     }
   ]
