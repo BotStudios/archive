@@ -1,8 +1,8 @@
 {
   "totalSize": "12.6 GB",
-  "totalVideoSize": "4.8 GB",
+  "totalVideoSize": "4.9 GB",
   "totalAudioSize": "7.8 GB",
-  "totalVideos": 3061,
+  "totalVideos": 3062,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -27551,6 +27551,15 @@
       "channel": {
         "name": "Drakensberg Boys Choir",
         "id": "UCsY5Us1rsX3S9jlnSP923ZA"
+      }
+    },
+    {
+      "id": "AN5bXUiWXdo",
+      "title": "The Making of 'The Fabulous World of Dior' at Harrods",
+      "duration": 169,
+      "channel": {
+        "name": "Christian Dior",
+        "id": "UC6xD-jKli-_qIYXDTsNv4dw"
       }
     }
   ]
