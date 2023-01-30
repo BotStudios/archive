@@ -1,8 +1,8 @@
 {
   "totalSize": "12.6 GB",
   "totalVideoSize": "4.8 GB",
-  "totalAudioSize": "7.7 GB",
-  "totalVideos": 3049,
+  "totalAudioSize": "7.8 GB",
+  "totalVideos": 3051,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -27443,6 +27443,24 @@
       "channel": {
         "name": "Movie Trailers Source",
         "id": "UCpJN7kiUkDrH11p0GQhLyFw"
+      }
+    },
+    {
+      "id": "GIiPDehhrgM",
+      "title": "Chiefs Super Bowl bound: Arrowhead Stadium fireworks",
+      "duration": 66,
+      "channel": {
+        "name": "KMBC 9",
+        "id": "UCWTkpYvniGIUe1jeCncFzKw"
+      }
+    },
+    {
+      "id": "sy65Q3iTGPI",
+      "title": "Excitement in New Orleans East as Krewe of Nefertiti rolls for fourth time",
+      "duration": 179,
+      "channel": {
+        "name": "WWLTV",
+        "id": "UCJCreS7pODbA6XYRsI5fdLg"
       }
     }
   ]
