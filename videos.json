@@ -2,7 +2,7 @@
   "totalSize": "12.7 GB",
   "totalVideoSize": "4.9 GB",
   "totalAudioSize": "7.8 GB",
-  "totalVideos": 3067,
+  "totalVideos": 3068,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -27605,6 +27605,15 @@
       "channel": {
         "name": "WPRI",
         "id": "UCnwI-VN5jXWIGQKOI9PMDMw"
+      }
+    },
+    {
+      "id": "2Kx-BAatCZY",
+      "title": "PCH closed by flooding in Huntington Beach",
+      "duration": 91,
+      "channel": {
+        "name": "KTLA 5",
+        "id": "UCinjnmQEwCddOudyCC1v7qA"
       }
     }
   ]
