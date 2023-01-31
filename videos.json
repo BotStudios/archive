@@ -2,7 +2,7 @@
   "totalSize": "12.8 GB",
   "totalVideoSize": "4.9 GB",
   "totalAudioSize": "7.9 GB",
-  "totalVideos": 3106,
+  "totalVideos": 3108,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -27956,6 +27956,24 @@
       "channel": {
         "name": "FOX 4 Dallas-Fort Worth",
         "id": "UCruQg25yVBppUWjza8AlyZA"
+      }
+    },
+    {
+      "id": "EFPTe9vOIkc",
+      "title": "Hidden Camera Catches Cat Comforting Anxious Dog While Family's Away | The Dodo Odd Couples",
+      "duration": 189,
+      "channel": {
+        "name": "The Dodo",
+        "id": "UCINb0wqPz-A0dV9nARjJlOQ"
+      }
+    },
+    {
+      "id": "6xGOZwZo1S8",
+      "title": "JUST IN: Trump Reveals Plan To Ban Gender-Affirming Care For Minors Including Punishment For Doctors",
+      "duration": 215,
+      "channel": {
+        "name": "Forbes Breaking News",
+        "id": "UCg40OxZ1GYh3u3jBntB6DLg"
       }
     }
   ]
