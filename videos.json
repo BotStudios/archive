@@ -2,7 +2,7 @@
   "totalSize": "12.8 GB",
   "totalVideoSize": "4.9 GB",
   "totalAudioSize": "7.9 GB",
-  "totalVideos": 3117,
+  "totalVideos": 3118,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -28055,6 +28055,15 @@
       "channel": {
         "name": "CBS Mornings",
         "id": "UC-SJ6nODDmufqBzPBwCvYvQ"
+      }
+    },
+    {
+      "id": "qBPJ-WMGzuI",
+      "title": "Gunman shot to death after opening fire inside Nebraska Target",
+      "duration": 124,
+      "channel": {
+        "name": "NBC News",
+        "id": "UCeY0bbntWzzVIaj2z3QigXg"
       }
     }
   ]
