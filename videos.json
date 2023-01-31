@@ -2,7 +2,7 @@
   "totalSize": "12.7 GB",
   "totalVideoSize": "4.9 GB",
   "totalAudioSize": "7.8 GB",
-  "totalVideos": 3087,
+  "totalVideos": 3088,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -27785,6 +27785,15 @@
       "channel": {
         "name": "Mark Zabel",
         "id": "UCnAFjKTNBVRkXWbFL4AUmbA"
+      }
+    },
+    {
+      "id": "-qBRxKyhAIE",
+      "title": "Drivers will see temporary changes on Tropicana and the I-15 for 'Dropicana' project",
+      "duration": 162,
+      "channel": {
+        "name": "KTNV Channel 13 Las Vegas",
+        "id": "UCDqchFCm3HNLAob6OpsLWLw"
       }
     }
   ]
