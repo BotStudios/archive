@@ -2,7 +2,7 @@
   "totalSize": "12.8 GB",
   "totalVideoSize": "4.9 GB",
   "totalAudioSize": "7.9 GB",
-  "totalVideos": 3096,
+  "totalVideos": 3097,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -27866,6 +27866,15 @@
       "channel": {
         "name": "WKYC Channel 3",
         "id": "UCNBmxc6FvKyxtCpUygcdINA"
+      }
+    },
+    {
+      "id": "vV4BHkbu0pY",
+      "title": "Winter weather advisory through Tuesday morning.",
+      "duration": 263,
+      "channel": {
+        "name": "WLKY News Louisville",
+        "id": "UCojNA7ZvnmGuIvYnm44wl3Q"
       }
     }
   ]
