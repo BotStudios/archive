@@ -2,7 +2,7 @@
   "totalSize": "12.7 GB",
   "totalVideoSize": "4.9 GB",
   "totalAudioSize": "7.8 GB",
-  "totalVideos": 3081,
+  "totalVideos": 3083,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -27728,6 +27728,24 @@
       "id": "bpuJeABn2QY",
       "title": "how to be happy",
       "duration": 172,
+      "channel": {
+        "name": "Project AER",
+        "id": "UCccbEOCu4w1RvS76IApumaQ"
+      }
+    },
+    {
+      "id": "-3v4OsPmsUg",
+      "title": "How It's Actually Made - Chocolate",
+      "duration": 226,
+      "channel": {
+        "name": "Huggbees",
+        "id": "UC8CsGpP6kVNrWeBVmlJ2UyA"
+      }
+    },
+    {
+      "id": "1jyf7g75HdQ",
+      "title": "february 15th",
+      "duration": 148,
       "channel": {
         "name": "Project AER",
         "id": "UCccbEOCu4w1RvS76IApumaQ"
