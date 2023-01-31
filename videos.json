@@ -2,7 +2,7 @@
   "totalSize": "12.8 GB",
   "totalVideoSize": "4.9 GB",
   "totalAudioSize": "7.9 GB",
-  "totalVideos": 3115,
+  "totalVideos": 3116,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -28037,6 +28037,15 @@
       "channel": {
         "name": "Sotheby's International Realty",
         "id": "UCNZ3t1dMKJGl6-kV9BD5Lqg"
+      }
+    },
+    {
+      "id": "LK2zmFr5wV4",
+      "title": "Destiny 2: Lightfall | Weapons and Gear Trailer",
+      "duration": 110,
+      "channel": {
+        "name": "Destiny 2",
+        "id": "UC52XYgEExV9VG6Rt-6vnzVA"
       }
     }
   ]
