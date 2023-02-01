@@ -1,8 +1,8 @@
 {
-  "totalSize": "13.0 GB",
+  "totalSize": "13.1 GB",
   "totalVideoSize": "5.0 GB",
   "totalAudioSize": "8.1 GB",
-  "totalVideos": 3169,
+  "totalVideos": 3170,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -28523,6 +28523,15 @@
       "channel": {
         "name": "Project AER",
         "id": "UCccbEOCu4w1RvS76IApumaQ"
+      }
+    },
+    {
+      "id": "_tkQpVAoATM",
+      "title": "Oregon bill would extend protections for renters facing eviction",
+      "duration": 156,
+      "channel": {
+        "name": "KGW News",
+        "id": "UCKgAB8lqTbqbwXC-e6_9lhQ"
       }
     }
   ]
