@@ -2,7 +2,7 @@
   "totalSize": "13.0 GB",
   "totalVideoSize": "5.0 GB",
   "totalAudioSize": "8.0 GB",
-  "totalVideos": 3160,
+  "totalVideos": 3161,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -28442,6 +28442,15 @@
       "channel": {
         "name": "WMUR-TV",
         "id": "UCwuZjWoiT30kDTz0G41Y8gQ"
+      }
+    },
+    {
+      "id": "h76LjW9sYHg",
+      "title": "The incredible Australian Shepherd | One of my favourite clients",
+      "duration": 222,
+      "channel": {
+        "name": "Girl With The Dogs",
+        "id": "UCUFnGWHIQvybwmR7XDh7-9A"
       }
     }
   ]
