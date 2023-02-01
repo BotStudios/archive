@@ -2,7 +2,7 @@
   "totalSize": "13.0 GB",
   "totalVideoSize": "5.0 GB",
   "totalAudioSize": "8.0 GB",
-  "totalVideos": 3152,
+  "totalVideos": 3153,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -28370,6 +28370,15 @@
       "channel": {
         "name": "FRANCE 24 English",
         "id": "UCQfwfsi5VrQ8yKZ-UWmAEFg"
+      }
+    },
+    {
+      "id": "V8L7zJOORxc",
+      "title": "Rihanna - Bitch Better Have My Money (Natsu Fuji Remix) [2015]",
+      "duration": 227,
+      "channel": {
+        "name": "Natsu Fuji",
+        "id": "UCLDT-D4_JYazuGflOY6RXVg"
       }
     }
   ]
