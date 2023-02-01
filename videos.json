@@ -2,7 +2,7 @@
   "totalSize": "13.0 GB",
   "totalVideoSize": "5.0 GB",
   "totalAudioSize": "8.0 GB",
-  "totalVideos": 3150,
+  "totalVideos": 3151,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -28352,6 +28352,15 @@
       "channel": {
         "name": "WFAA",
         "id": "UCBu0KdNokE4MqdkacvH37_A"
+      }
+    },
+    {
+      "id": "BtyBjOW8sGY",
+      "title": "Hogwarts Legacy - Official Launch Trailer 4K",
+      "duration": 149,
+      "channel": {
+        "name": "Hogwarts Legacy",
+        "id": "UCNflpbEsoC9uWkSPrx6hMqg"
       }
     }
   ]
