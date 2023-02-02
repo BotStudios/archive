@@ -2,7 +2,7 @@
   "totalSize": "13.1 GB",
   "totalVideoSize": "5.0 GB",
   "totalAudioSize": "8.1 GB",
-  "totalVideos": 3180,
+  "totalVideos": 3181,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -28622,6 +28622,15 @@
       "channel": {
         "name": "ABC7",
         "id": "UCVxBA3Cbu3pm8w8gEIoMEog"
+      }
+    },
+    {
+      "id": "GU1VL7uTuHE",
+      "title": "Stock market down awaiting Fed interest rate announcement",
+      "duration": 122,
+      "channel": {
+        "name": "Yahoo Finance",
+        "id": "UCEAZeUIeJs0IjQiqTCdVSIg"
       }
     }
   ]
