@@ -2,7 +2,7 @@
   "totalSize": "13.1 GB",
   "totalVideoSize": "5.0 GB",
   "totalAudioSize": "8.1 GB",
-  "totalVideos": 3181,
+  "totalVideos": 3183,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -28628,6 +28628,24 @@
       "id": "GU1VL7uTuHE",
       "title": "Stock market down awaiting Fed interest rate announcement",
       "duration": 122,
+      "channel": {
+        "name": "Yahoo Finance",
+        "id": "UCEAZeUIeJs0IjQiqTCdVSIg"
+      }
+    },
+    {
+      "id": "N3pRwiRbUMs",
+      "title": "Intel CEO Patrick Gelsinger takes pay cut amid cost reduction plans",
+      "duration": 279,
+      "channel": {
+        "name": "Yahoo Finance",
+        "id": "UCEAZeUIeJs0IjQiqTCdVSIg"
+      }
+    },
+    {
+      "id": "fJ0mx4k3RCY",
+      "title": "Congress needs to raise the debt ceiling,' says Fed Chair Jerome Powell",
+      "duration": 241,
       "channel": {
         "name": "Yahoo Finance",
         "id": "UCEAZeUIeJs0IjQiqTCdVSIg"
