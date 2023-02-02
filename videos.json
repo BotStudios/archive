@@ -2,7 +2,7 @@
   "totalSize": "13.2 GB",
   "totalVideoSize": "5.1 GB",
   "totalAudioSize": "8.2 GB",
-  "totalVideos": 3212,
+  "totalVideos": 3213,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -28910,6 +28910,15 @@
       "channel": {
         "name": "iizcat",
         "id": "UCVYN_6dCSN9yGImu4yGiXow"
+      }
+    },
+    {
+      "id": "2cnHYMrxAhc",
+      "title": "The Sims 4 Growing Together Expansion Pack: Official Reveal Trailer",
+      "duration": 135,
+      "channel": {
+        "name": "The Sims",
+        "id": "UCFXKLSrT-4-Mf5TRqv40rgw"
       }
     }
   ]
