@@ -2,7 +2,7 @@
   "totalSize": "13.4 GB",
   "totalVideoSize": "5.1 GB",
   "totalAudioSize": "8.3 GB",
-  "totalVideos": 3253,
+  "totalVideos": 3254,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -29279,6 +29279,15 @@
       "channel": {
         "name": "3 Minutes of Aviation",
         "id": "UCCB1oLQY3XM86ACD05Lq4HQ"
+      }
+    },
+    {
+      "id": "zv9Xh8YyDbo",
+      "title": "How stocks are trading on Fed soft landing speculation",
+      "duration": 203,
+      "channel": {
+        "name": "Yahoo Finance",
+        "id": "UCEAZeUIeJs0IjQiqTCdVSIg"
       }
     }
   ]
