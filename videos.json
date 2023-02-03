@@ -2,7 +2,7 @@
   "totalSize": "13.3 GB",
   "totalVideoSize": "5.1 GB",
   "totalAudioSize": "8.2 GB",
-  "totalVideos": 3237,
+  "totalVideos": 3238,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -29135,6 +29135,15 @@
       "channel": {
         "name": "MyNBC5-WPTZ",
         "id": "UCO3KF4ZlaGjyels6A7riZug"
+      }
+    },
+    {
+      "id": "SgbMFqLbAvk",
+      "title": "Staten Island lawyer killed while traveling abroad in Chile",
+      "duration": 216,
+      "channel": {
+        "name": "Eyewitness News ABC7NY",
+        "id": "UCrlIS7z20CnVaCrMvdkig_g"
       }
     }
   ]
