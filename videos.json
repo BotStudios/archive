@@ -2,7 +2,7 @@
   "totalSize": "13.4 GB",
   "totalVideoSize": "5.1 GB",
   "totalAudioSize": "8.3 GB",
-  "totalVideos": 3259,
+  "totalVideos": 3260,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -29333,6 +29333,15 @@
       "channel": {
         "name": "The Dodo",
         "id": "UCINb0wqPz-A0dV9nARjJlOQ"
+      }
+    },
+    {
+      "id": "GHGd83RekBQ",
+      "title": "Cicilline to Gaetz: Insurrectionists should be banned from leading the Pledge",
+      "duration": 228,
+      "channel": {
+        "name": "MSNBC",
+        "id": "UCaXkIU1QidjPwiAYu6GcHjg"
       }
     }
   ]
