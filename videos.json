@@ -2,7 +2,7 @@
   "totalSize": "13.6 GB",
   "totalVideoSize": "5.2 GB",
   "totalAudioSize": "8.4 GB",
-  "totalVideos": 3298,
+  "totalVideos": 3299,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -29684,6 +29684,15 @@
       "channel": {
         "name": "1News",
         "id": "UCxPAYgO8OpFev3PUTKbsxNw"
+      }
+    },
+    {
+      "id": "7vdLE4ddEWE",
+      "title": "Love Always (A Promise Made)",
+      "duration": 300,
+      "channel": {
+        "name": "Joshua Haun",
+        "id": "UCHxLDwQLJ3_Pohs6S9CTymQ"
       }
     }
   ]
