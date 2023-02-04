@@ -2,7 +2,7 @@
   "totalSize": "13.6 GB",
   "totalVideoSize": "5.2 GB",
   "totalAudioSize": "8.4 GB",
-  "totalVideos": 3295,
+  "totalVideos": 3298,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -29657,6 +29657,33 @@
       "channel": {
         "name": "Fox News",
         "id": "UCXIJgqnII2ZOINSWNOGFThA"
+      }
+    },
+    {
+      "id": "3UfRXNnm4d0",
+      "title": "Netflix reveals details on password sharing crackdown",
+      "duration": 195,
+      "channel": {
+        "name": "Yahoo Finance",
+        "id": "UCEAZeUIeJs0IjQiqTCdVSIg"
+      }
+    },
+    {
+      "id": "f7INo56YLVY",
+      "title": "Suspected Chinese spy balloon shot down l ABC News",
+      "duration": 137,
+      "channel": {
+        "name": "ABC News",
+        "id": "UCBi2mrWuNuyYy4gbM6fU18Q"
+      }
+    },
+    {
+      "id": "-1HP8Q6Hkrw",
+      "title": "Families speak out a week after Auckland floods began",
+      "duration": 226,
+      "channel": {
+        "name": "1News",
+        "id": "UCxPAYgO8OpFev3PUTKbsxNw"
       }
     }
   ]
