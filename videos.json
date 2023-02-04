@@ -2,7 +2,7 @@
   "totalSize": "13.6 GB",
   "totalVideoSize": "5.2 GB",
   "totalAudioSize": "8.4 GB",
-  "totalVideos": 3293,
+  "totalVideos": 3295,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -29639,6 +29639,24 @@
       "channel": {
         "name": "KPIX CBS SF Bay Area",
         "id": "UCF4LEacx9sDvAbEJnlaJfKQ"
+      }
+    },
+    {
+      "id": "H2gS803OolU",
+      "title": "BREAKING: Chinese spy balloon shot down by U.S. off the Carolina coast",
+      "duration": 190,
+      "channel": {
+        "name": "MSNBC",
+        "id": "UCaXkIU1QidjPwiAYu6GcHjg"
+      }
+    },
+    {
+      "id": "s8G0zXYZcxc",
+      "title": "SC Rep Russell Fry reacts to Chinese spy balloon shot down right off the coast of his district",
+      "duration": 252,
+      "channel": {
+        "name": "Fox News",
+        "id": "UCXIJgqnII2ZOINSWNOGFThA"
       }
     }
   ]
