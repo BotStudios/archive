@@ -2,7 +2,7 @@
   "totalSize": "13.5 GB",
   "totalVideoSize": "5.2 GB",
   "totalAudioSize": "8.4 GB",
-  "totalVideos": 3288,
+  "totalVideos": 3289,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -29594,6 +29594,15 @@
       "channel": {
         "name": "ABC 7 Chicago",
         "id": "UC_vFLohxs5PkAxlk7Y6jEtw"
+      }
+    },
+    {
+      "id": "o5O7i3rujiI",
+      "title": "Gabriella - Crucial Conversation (Official Lyric Video)",
+      "duration": 209,
+      "channel": {
+        "name": "Gabriella",
+        "id": "UCH_lFY-7qLxoBiBeLU3cABw"
       }
     }
   ]
