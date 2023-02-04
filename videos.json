@@ -2,7 +2,7 @@
   "totalSize": "13.4 GB",
   "totalVideoSize": "5.1 GB",
   "totalAudioSize": "8.3 GB",
-  "totalVideos": 3257,
+  "totalVideos": 3259,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -29312,6 +29312,24 @@
       "id": "LyC0MK-r95I",
       "title": "Horse Falls In Love With His Mom's Boyfriend | The Dodo Soulmates",
       "duration": 198,
+      "channel": {
+        "name": "The Dodo",
+        "id": "UCINb0wqPz-A0dV9nARjJlOQ"
+      }
+    },
+    {
+      "id": "i04mY2O9_UA",
+      "title": "Tomo's Mom | Tomo-chan Is a Girl!",
+      "duration": 119,
+      "channel": {
+        "name": "Crunchyroll Collection",
+        "id": "UC6pGDc4bFGD1_36IKv3FnYg"
+      }
+    },
+    {
+      "id": "EZU7mA6TFHE",
+      "title": "Everyone Has That One Coworker  | The Dodo Cat Crazy",
+      "duration": 200,
       "channel": {
         "name": "The Dodo",
         "id": "UCINb0wqPz-A0dV9nARjJlOQ"
