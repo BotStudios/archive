@@ -2,7 +2,7 @@
   "totalSize": "13.6 GB",
   "totalVideoSize": "5.2 GB",
   "totalAudioSize": "8.4 GB",
-  "totalVideos": 3311,
+  "totalVideos": 3312,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -29801,6 +29801,15 @@
       "channel": {
         "name": "Fox News",
         "id": "UCXIJgqnII2ZOINSWNOGFThA"
+      }
+    },
+    {
+      "id": "fMPg1ISmYtw",
+      "title": "US downs Chinese balloon, drawing a threat from China",
+      "duration": 155,
+      "channel": {
+        "name": "WGN News",
+        "id": "UCDrLGkZTcNCshOLiKi5NtEw"
       }
     }
   ]
