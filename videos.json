@@ -1,8 +1,8 @@
 {
   "totalSize": "13.8 GB",
   "totalVideoSize": "5.2 GB",
-  "totalAudioSize": "8.5 GB",
-  "totalVideos": 3347,
+  "totalAudioSize": "8.6 GB",
+  "totalVideos": 3348,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -30125,6 +30125,15 @@
       "channel": {
         "name": "WFAA",
         "id": "UCBu0KdNokE4MqdkacvH37_A"
+      }
+    },
+    {
+      "id": "0Aq7xlRCzX0",
+      "title": "Cam Thomas Postgame Interview | Brooklyn Nets beat Washington Wizards 125-123",
+      "duration": 219,
+      "channel": {
+        "name": "NBA Interviews",
+        "id": "UCyRsadnp-V55odngtwhIVvA"
       }
     }
   ]
