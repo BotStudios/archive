@@ -1,8 +1,8 @@
 {
   "totalSize": "13.6 GB",
   "totalVideoSize": "5.2 GB",
-  "totalAudioSize": "8.4 GB",
-  "totalVideos": 3312,
+  "totalAudioSize": "8.5 GB",
+  "totalVideos": 3314,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -29810,6 +29810,24 @@
       "channel": {
         "name": "WGN News",
         "id": "UCDrLGkZTcNCshOLiKi5NtEw"
+      }
+    },
+    {
+      "id": "ttZNkK23JI8",
+      "title": "Fantastic Negrito - \"They Go Low\" Acoustic Reimagined (Official Audio)",
+      "duration": 250,
+      "channel": {
+        "name": "Fantastic Negrito",
+        "id": "UCHxx0po38MFjACpGCsoUw1g"
+      }
+    },
+    {
+      "id": "ShbRWWnybKA",
+      "title": "Brandi Carlile - You and Me On The Rock (Saturday Night Live)",
+      "duration": 244,
+      "channel": {
+        "name": "Brandi Carlile",
+        "id": "UCxrOSjIQ1MbK1hUohxZNwpA"
       }
     }
   ]
