@@ -2,7 +2,7 @@
   "totalSize": "13.8 GB",
   "totalVideoSize": "5.2 GB",
   "totalAudioSize": "8.5 GB",
-  "totalVideos": 3343,
+  "totalVideos": 3345,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -30089,6 +30089,24 @@
       "channel": {
         "name": "Funny Or Die",
         "id": "UCzS3-65Y91JhOxFiM7j6grg"
+      }
+    },
+    {
+      "id": "1yraW3e8gRk",
+      "title": "We're having a baby!",
+      "duration": 91,
+      "channel": {
+        "name": "PewDiePie",
+        "id": "UC-lHJZR3Gqxm24_Vd_AJ5Yw"
+      }
+    },
+    {
+      "id": "ME8gJmin5A4",
+      "title": "Metro Detroit weather forecast Feb. 4, 2023 -- 6 p.m. Update",
+      "duration": 206,
+      "channel": {
+        "name": "Click On Detroit | Local 4 | WDIV",
+        "id": "UCqMdEOPBZbGPykVOhUqWqfA"
       }
     }
   ]
