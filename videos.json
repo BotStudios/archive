@@ -2,7 +2,7 @@
   "totalSize": "13.8 GB",
   "totalVideoSize": "5.2 GB",
   "totalAudioSize": "8.5 GB",
-  "totalVideos": 3340,
+  "totalVideos": 3341,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -30062,6 +30062,15 @@
       "channel": {
         "name": "The Dodo",
         "id": "UCINb0wqPz-A0dV9nARjJlOQ"
+      }
+    },
+    {
+      "id": "jEJ6fG-uoiY",
+      "title": "Cats Improve to 21-3 Highlights",
+      "duration": 121,
+      "channel": {
+        "name": "Arizona Wildcats",
+        "id": "UCqG1fYrO-2Mp8OHMU1Pdizg"
       }
     }
   ]
