@@ -2,7 +2,7 @@
   "totalSize": "13.9 GB",
   "totalVideoSize": "5.3 GB",
   "totalAudioSize": "8.6 GB",
-  "totalVideos": 3367,
+  "totalVideos": 3368,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -30305,6 +30305,15 @@
       "channel": {
         "name": "Old Money Prices",
         "id": "UCfVaFbBUzSeVjvxuIH4-bnw"
+      }
+    },
+    {
+      "id": "1L4eW8zzBhQ",
+      "title": "The Tarot",
+      "duration": 205,
+      "channel": {
+        "name": "The Beat Merchantz",
+        "id": "UCD8kD-pamtmKjjxm-h_YSoA"
       }
     }
   ]
