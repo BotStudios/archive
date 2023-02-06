@@ -2,7 +2,7 @@
   "totalSize": "13.9 GB",
   "totalVideoSize": "5.3 GB",
   "totalAudioSize": "8.6 GB",
-  "totalVideos": 3381,
+  "totalVideos": 3382,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -30431,6 +30431,15 @@
       "channel": {
         "name": "NBC News",
         "id": "UCeY0bbntWzzVIaj2z3QigXg"
+      }
+    },
+    {
+      "id": "EJgv-O905Rg",
+      "title": "এক হাজার অন্ধকে পৃথিবীর আলো দেখালেন ইউটিউবার মিস্টার বিস্ট, Bangla news @MrBeast",
+      "duration": 83,
+      "channel": {
+        "name": "NBS24 TV Bulletin",
+        "id": "UC631QMgFDuZsOZ_lL1pNc-A"
       }
     }
   ]
