@@ -2,7 +2,7 @@
   "totalSize": "14.0 GB",
   "totalVideoSize": "5.3 GB",
   "totalAudioSize": "8.7 GB",
-  "totalVideos": 3402,
+  "totalVideos": 3403,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -30620,6 +30620,15 @@
       "channel": {
         "name": "9NEWS",
         "id": "UC72nbKQLSDyiSARhg0Ywj4w"
+      }
+    },
+    {
+      "id": "lpN3tJTz9kE",
+      "title": "Apex Legends: Revelry Launch Trailer",
+      "duration": 137,
+      "channel": {
+        "name": "Apex Legends",
+        "id": "UC0ZV6M2THA81QT9hrVWJG3A"
       }
     }
   ]
