@@ -2,7 +2,7 @@
   "totalSize": "14.0 GB",
   "totalVideoSize": "5.3 GB",
   "totalAudioSize": "8.7 GB",
-  "totalVideos": 3406,
+  "totalVideos": 3407,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -30653,6 +30653,15 @@
       "id": "-1g-k3dyDkE",
       "title": "How did the US shoot down China's 'spy balloon'?",
       "duration": 135,
+      "channel": {
+        "name": "Sky News",
+        "id": "UCoMdktPbSTixAyNGwb-UYkQ"
+      }
+    },
+    {
+      "id": "h7_K26Eg1UI",
+      "title": "Moment China 'spy balloon' is shot down by fighter jet",
+      "duration": 151,
       "channel": {
         "name": "Sky News",
         "id": "UCoMdktPbSTixAyNGwb-UYkQ"
