@@ -2,7 +2,7 @@
   "totalSize": "14.1 GB",
   "totalVideoSize": "5.3 GB",
   "totalAudioSize": "8.8 GB",
-  "totalVideos": 3436,
+  "totalVideos": 3439,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -30926,6 +30926,33 @@
       "channel": {
         "name": "videogamedunkey",
         "id": "UCsvn_Po0SmunchJYOWpOxMg"
+      }
+    },
+    {
+      "id": "5a2XbjW82Es",
+      "title": "From $258 to $23, SNAP recipients will see a major reduction in benefits",
+      "duration": 264,
+      "channel": {
+        "name": "WMAR-2 News",
+        "id": "UCADaBeM0qiKEZIw9_OuYmuA"
+      }
+    },
+    {
+      "id": "3z9MGazIoQo",
+      "title": "Newsom calls for investigation into California's high natural gas prices",
+      "duration": 136,
+      "channel": {
+        "name": "KTVU FOX 2 San Francisco",
+        "id": "UCVhtkN7-c8mA8GXEoxS4YQw"
+      }
+    },
+    {
+      "id": "AK55ZO5rGOU",
+      "title": "The Way It Goes",
+      "duration": 207,
+      "channel": {
+        "name": "Voodoo Jimi H",
+        "id": "UCUlAS7mylzFQu7LtLYIWOWg"
       }
     }
   ]
