@@ -1,8 +1,8 @@
 {
   "totalSize": "14.1 GB",
   "totalVideoSize": "5.3 GB",
-  "totalAudioSize": "8.7 GB",
-  "totalVideos": 3428,
+  "totalAudioSize": "8.8 GB",
+  "totalVideos": 3429,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -30854,6 +30854,15 @@
       "channel": {
         "name": "Megan Moroney",
         "id": "UCVJw311xTzReixTY2r9P8HQ"
+      }
+    },
+    {
+      "id": "l5_JXURXTvo",
+      "title": "HCSO touts more arrests in countywide street racing crackdown",
+      "duration": 122,
+      "channel": {
+        "name": "FOX 13 Tampa Bay",
+        "id": "UC13mSI38YWz5zfvxXDPpePA"
       }
     }
   ]
