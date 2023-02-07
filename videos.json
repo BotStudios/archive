@@ -2,7 +2,7 @@
   "totalSize": "14.0 GB",
   "totalVideoSize": "5.3 GB",
   "totalAudioSize": "8.7 GB",
-  "totalVideos": 3416,
+  "totalVideos": 3417,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -30746,6 +30746,15 @@
       "channel": {
         "name": "CBS News",
         "id": "UC8p1vwvWtl6T73JiExfWs1g"
+      }
+    },
+    {
+      "id": "1l8E8wFTI7Q",
+      "title": "Dead Space Remake Who Built This Barricade (Explained)",
+      "duration": 122,
+      "channel": {
+        "name": "JoshuaPare",
+        "id": "UCVmyIbUq6g4s1XlvlAHTzlA"
       }
     }
   ]
