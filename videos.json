@@ -2,7 +2,7 @@
   "totalSize": "14.2 GB",
   "totalVideoSize": "5.4 GB",
   "totalAudioSize": "8.8 GB",
-  "totalVideos": 3449,
+  "totalVideos": 3450,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -31043,6 +31043,15 @@
       "channel": {
         "name": "Science Channel",
         "id": "UCvJiYiBUbw4tmpRSZT2r1Hw"
+      }
+    },
+    {
+      "id": "a_VRzsiGGw8",
+      "title": "Biden gives first State of the Union address to divided government",
+      "duration": 269,
+      "channel": {
+        "name": "KTLA 5",
+        "id": "UCinjnmQEwCddOudyCC1v7qA"
       }
     }
   ]
