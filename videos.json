@@ -2,7 +2,7 @@
   "totalSize": "14.1 GB",
   "totalVideoSize": "5.4 GB",
   "totalAudioSize": "8.8 GB",
-  "totalVideos": 3441,
+  "totalVideos": 3445,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -30971,6 +30971,42 @@
       "channel": {
         "name": "WKYC Channel 3",
         "id": "UCNBmxc6FvKyxtCpUygcdINA"
+      }
+    },
+    {
+      "id": "Ts9LliUa9c4",
+      "title": "Chicago mayoral race heats up weeks out from election",
+      "duration": 133,
+      "channel": {
+        "name": "FOX 32 Chicago",
+        "id": "UCFmofUYwZd1Ibf_O3PF71jg"
+      }
+    },
+    {
+      "id": "yzWMo75DcMc",
+      "title": "'Here's The Real State Of The Union...': Trump Responds To Biden's 2023 SOTU",
+      "duration": 121,
+      "channel": {
+        "name": "Forbes Breaking News",
+        "id": "UCg40OxZ1GYh3u3jBntB6DLg"
+      }
+    },
+    {
+      "id": "rUfFmADh4C4",
+      "title": "Trial begins for two former Ohio State football players accused of rape, kidnapping",
+      "duration": 108,
+      "channel": {
+        "name": "NBC4 Columbus",
+        "id": "UCDFLiE2iGUvlZMmhemzy6eA"
+      }
+    },
+    {
+      "id": "uCsC9pgkyMc",
+      "title": "The Bros. Landreth • Made up Mind (Live at the Dakota)",
+      "duration": 245,
+      "channel": {
+        "name": "The Bros. Landreth",
+        "id": "UCRBDSrP2R2ue9htZCyTAgGQ"
       }
     }
   ]
