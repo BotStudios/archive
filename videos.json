@@ -2,7 +2,7 @@
   "totalSize": "14.2 GB",
   "totalVideoSize": "5.4 GB",
   "totalAudioSize": "8.8 GB",
-  "totalVideos": 3463,
+  "totalVideos": 3464,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -31169,6 +31169,15 @@
       "channel": {
         "name": "CBS 8 San Diego",
         "id": "UCMscWako8oDvpdF4pppku-g"
+      }
+    },
+    {
+      "id": "GKl_HL3PK4c",
+      "title": "China responds to Biden's State of the Union address, calls on U.S. to be 'objective and rational'",
+      "duration": 243,
+      "channel": {
+        "name": "CNBC Television",
+        "id": "UCrp_UI8XtuYfpiqluWLD7Lw"
       }
     }
   ]
