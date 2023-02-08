@@ -2,7 +2,7 @@
   "totalSize": "14.2 GB",
   "totalVideoSize": "5.4 GB",
   "totalAudioSize": "8.8 GB",
-  "totalVideos": 3452,
+  "totalVideos": 3453,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -31070,6 +31070,15 @@
       "channel": {
         "name": "ABC7 News Bay Area",
         "id": "UCYUbNjkuE4lsr2v1Id2O1oA"
+      }
+    },
+    {
+      "id": "0ilFxSrlbXc",
+      "title": "Kennedy State of the Union response: Louisianians deserve better than Biden’s record",
+      "duration": 133,
+      "channel": {
+        "name": "Senator John Kennedy",
+        "id": "UCDgjkA5Y_npoxeUiSW18JZQ"
       }
     }
   ]
