@@ -2,7 +2,7 @@
   "totalSize": "14.2 GB",
   "totalVideoSize": "5.4 GB",
   "totalAudioSize": "8.8 GB",
-  "totalVideos": 3450,
+  "totalVideos": 3451,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -31052,6 +31052,15 @@
       "channel": {
         "name": "KTLA 5",
         "id": "UCinjnmQEwCddOudyCC1v7qA"
+      }
+    },
+    {
+      "id": "bBIBs6N1zhQ",
+      "title": "Biden in State of Union exhorts Congress: 'Finish the job'",
+      "duration": 191,
+      "channel": {
+        "name": "WCNC",
+        "id": "UC-RxXi2Xws6Uk22vp-sLbGA"
       }
     }
   ]
