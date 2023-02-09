@@ -2,7 +2,7 @@
   "totalSize": "14.3 GB",
   "totalVideoSize": "5.4 GB",
   "totalAudioSize": "8.9 GB",
-  "totalVideos": 3475,
+  "totalVideos": 3476,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -31277,6 +31277,15 @@
       "channel": {
         "name": "KTLA 5",
         "id": "UCinjnmQEwCddOudyCC1v7qA"
+      }
+    },
+    {
+      "id": "vgRpFAeEAn4",
+      "title": "Apex Legends: Revelry Gameplay Trailer",
+      "duration": 142,
+      "channel": {
+        "name": "Apex Legends",
+        "id": "UC0ZV6M2THA81QT9hrVWJG3A"
       }
     }
   ]
