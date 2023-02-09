@@ -2,7 +2,7 @@
   "totalSize": "14.3 GB",
   "totalVideoSize": "5.4 GB",
   "totalAudioSize": "8.9 GB",
-  "totalVideos": 3483,
+  "totalVideos": 3484,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -31349,6 +31349,15 @@
       "channel": {
         "name": "NBA",
         "id": "UCWJ2lWNubArHWmf3FIHbfcQ"
+      }
+    },
+    {
+      "id": "In97jdPUdq4",
+      "title": "'Do You Think All Conservatives Are Nazis?': Ex-Twitter Exec Confronted Over Past Tweets",
+      "duration": 274,
+      "channel": {
+        "name": "Forbes Breaking News",
+        "id": "UCg40OxZ1GYh3u3jBntB6DLg"
       }
     }
   ]
