@@ -2,7 +2,7 @@
   "totalSize": "14.3 GB",
   "totalVideoSize": "5.4 GB",
   "totalAudioSize": "8.9 GB",
-  "totalVideos": 3486,
+  "totalVideos": 3487,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -31376,6 +31376,15 @@
       "channel": {
         "name": "WPTV News - FL Palm Beaches and Treasure Coast",
         "id": "UC0bCUnP5RrkJZUtd3bBz6Kw"
+      }
+    },
+    {
+      "id": "6oCEWQoqZuo",
+      "title": "The state of downtown Minneapolis",
+      "duration": 149,
+      "channel": {
+        "name": "KARE 11",
+        "id": "UC1JAwKeDUjN2orv5t7LWODQ"
       }
     }
   ]
