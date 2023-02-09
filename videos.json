@@ -2,7 +2,7 @@
   "totalSize": "14.3 GB",
   "totalVideoSize": "5.4 GB",
   "totalAudioSize": "8.9 GB",
-  "totalVideos": 3477,
+  "totalVideos": 3478,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -31295,6 +31295,15 @@
       "channel": {
         "name": "rebecca",
         "id": "UCGPI7zCpQYpPhDLdOAmpAww"
+      }
+    },
+    {
+      "id": "gWmqIF3iuIc",
+      "title": "Kyrie Irving MAVS DEBUT 🔥 24 PTS 5 AST Full Highlights vs Clippers",
+      "duration": 172,
+      "channel": {
+        "name": "House of Highlights",
+        "id": "UCqQo7ewe87aYAe7ub5UqXMw"
       }
     }
   ]
