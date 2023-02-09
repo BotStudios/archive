@@ -2,7 +2,7 @@
   "totalSize": "14.4 GB",
   "totalVideoSize": "5.4 GB",
   "totalAudioSize": "9.0 GB",
-  "totalVideos": 3504,
+  "totalVideos": 3505,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -31538,6 +31538,15 @@
       "channel": {
         "name": "Toronto Sun",
         "id": "UCkjNuLzfw5Ep7EJuMdeFylw"
+      }
+    },
+    {
+      "id": "JzrWUPuiaCY",
+      "title": "Watch: Starbucks customer confronts employee for stealing credit card info",
+      "duration": 130,
+      "channel": {
+        "name": "CBS News",
+        "id": "UC8p1vwvWtl6T73JiExfWs1g"
       }
     }
   ]
