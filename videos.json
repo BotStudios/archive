@@ -2,7 +2,7 @@
   "totalSize": "14.3 GB",
   "totalVideoSize": "5.4 GB",
   "totalAudioSize": "8.9 GB",
-  "totalVideos": 3490,
+  "totalVideos": 3491,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -31412,6 +31412,15 @@
       "channel": {
         "name": "Big Boss Vette",
         "id": "UCiSf1K-CjojfE_KMUOuPx8g"
+      }
+    },
+    {
+      "id": "hhOfI_o3kjc",
+      "title": "John Legend - Nervous (Audio)",
+      "duration": 195,
+      "channel": {
+        "name": "John Legend",
+        "id": "UCEa-JnNdYCIFn3HMhjGEWpQ"
       }
     }
   ]
