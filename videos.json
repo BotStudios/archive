@@ -2,7 +2,7 @@
   "totalSize": "14.3 GB",
   "totalVideoSize": "5.4 GB",
   "totalAudioSize": "8.9 GB",
-  "totalVideos": 3481,
+  "totalVideos": 3482,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -31331,6 +31331,15 @@
       "channel": {
         "name": "ESPN",
         "id": "UCiWLfSweyRNmLpgEHekhoAg"
+      }
+    },
+    {
+      "id": "-7dDpsY4HUA",
+      "title": "Nets Trade Kevin Durant to Suns! 2022-23 NBA Season",
+      "duration": 179,
+      "channel": {
+        "name": "Chris Smoove",
+        "id": "UCnzbVkknmqhRqUKg7RDTDeg"
       }
     }
   ]
