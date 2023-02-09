@@ -2,7 +2,7 @@
   "totalSize": "14.3 GB",
   "totalVideoSize": "5.4 GB",
   "totalAudioSize": "8.9 GB",
-  "totalVideos": 3482,
+  "totalVideos": 3483,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -31340,6 +31340,15 @@
       "channel": {
         "name": "Chris Smoove",
         "id": "UCnzbVkknmqhRqUKg7RDTDeg"
+      }
+    },
+    {
+      "id": "hwjJqPa_pMs",
+      "title": "Kyrie Irving's Mavericks Debut 👀 | February 8, 2023",
+      "duration": 182,
+      "channel": {
+        "name": "NBA",
+        "id": "UCWJ2lWNubArHWmf3FIHbfcQ"
       }
     }
   ]
