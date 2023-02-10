@@ -2,7 +2,7 @@
   "totalSize": "14.5 GB",
   "totalVideoSize": "5.5 GB",
   "totalAudioSize": "9.0 GB",
-  "totalVideos": 3525,
+  "totalVideos": 3526,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -31727,6 +31727,15 @@
       "channel": {
         "name": "The Good Time Girls",
         "id": "UCHojJOmFfNYofMmgumEb5og"
+      }
+    },
+    {
+      "id": "4NRFmaVHJxM",
+      "title": "Owners asked to pay $175,000 each toward Miami condo 40-year recertification",
+      "duration": 194,
+      "channel": {
+        "name": "CBS Miami",
+        "id": "UCXJryYh6xcW5iEeJGzK191A"
       }
     }
   ]
