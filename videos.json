@@ -2,7 +2,7 @@
   "totalSize": "14.5 GB",
   "totalVideoSize": "5.5 GB",
   "totalAudioSize": "9.0 GB",
-  "totalVideos": 3520,
+  "totalVideos": 3521,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -31682,6 +31682,15 @@
       "channel": {
         "name": "Depeche Mode",
         "id": "UCM-CWGUijAC-8idv6k6Fygw"
+      }
+    },
+    {
+      "id": "ErSmRD67pzo",
+      "title": "Discord in 2045:",
+      "duration": 196,
+      "channel": {
+        "name": "Beluga",
+        "id": "UCmSp4bDxS9R0jpeZEvkut2g"
       }
     }
   ]
