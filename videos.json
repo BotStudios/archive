@@ -2,7 +2,7 @@
   "totalSize": "14.4 GB",
   "totalVideoSize": "5.5 GB",
   "totalAudioSize": "9.0 GB",
-  "totalVideos": 3512,
+  "totalVideos": 3513,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -31610,6 +31610,15 @@
       "channel": {
         "name": "the detail.",
         "id": "UCmm6-VuugeKmgHmuneX1FGw"
+      }
+    },
+    {
+      "id": "HsvB9qH8CUo",
+      "title": "This Cam Thomas & Spencer Dinwiddie interview is GOLD 🤣",
+      "duration": 123,
+      "channel": {
+        "name": "House of Highlights",
+        "id": "UCqQo7ewe87aYAe7ub5UqXMw"
       }
     }
   ]
