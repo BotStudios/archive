@@ -2,7 +2,7 @@
   "totalSize": "14.5 GB",
   "totalVideoSize": "5.5 GB",
   "totalAudioSize": "9.0 GB",
-  "totalVideos": 3533,
+  "totalVideos": 3534,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -31799,6 +31799,15 @@
       "channel": {
         "name": "CNN",
         "id": "UCupvZG-5ko_eiXAupbDfxWw"
+      }
+    },
+    {
+      "id": "8rB7_UUDKlM",
+      "title": "Out of Control",
+      "duration": 164,
+      "channel": {
+        "name": "Yumeaki",
+        "id": "UCAbD9yEXTLpCrSQSeAQOtPA"
       }
     }
   ]
