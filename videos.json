@@ -2,7 +2,7 @@
   "totalSize": "14.6 GB",
   "totalVideoSize": "5.5 GB",
   "totalAudioSize": "9.1 GB",
-  "totalVideos": 3539,
+  "totalVideos": 3540,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -31853,6 +31853,15 @@
       "channel": {
         "name": "The Action Lab",
         "id": "UC1VLQPn9cYSqx8plbk9RxxQ"
+      }
+    },
+    {
+      "id": "l12L27DDZ9k",
+      "title": "Chicago hotel cancels on friends who normally sleep on the streets",
+      "duration": 170,
+      "channel": {
+        "name": "WGN News",
+        "id": "UCDrLGkZTcNCshOLiKi5NtEw"
       }
     }
   ]
