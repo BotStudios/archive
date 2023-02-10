@@ -2,7 +2,7 @@
   "totalSize": "14.5 GB",
   "totalVideoSize": "5.5 GB",
   "totalAudioSize": "9.0 GB",
-  "totalVideos": 3521,
+  "totalVideos": 3522,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -31691,6 +31691,15 @@
       "channel": {
         "name": "Beluga",
         "id": "UCmSp4bDxS9R0jpeZEvkut2g"
+      }
+    },
+    {
+      "id": "eUVjeUwzmvE",
+      "title": "Tarasenko traded to New York Rangers, Blais returns to St. Louis Blues",
+      "duration": 44,
+      "channel": {
+        "name": "KSDK News",
+        "id": "UCVHTypjbrXH-maZaIkwweJA"
       }
     }
   ]
