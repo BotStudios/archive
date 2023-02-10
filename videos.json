@@ -2,7 +2,7 @@
   "totalSize": "14.5 GB",
   "totalVideoSize": "5.5 GB",
   "totalAudioSize": "9.1 GB",
-  "totalVideos": 3537,
+  "totalVideos": 3538,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -31835,6 +31835,15 @@
       "channel": {
         "name": "The Dodo",
         "id": "UCINb0wqPz-A0dV9nARjJlOQ"
+      }
+    },
+    {
+      "id": "X8dG4k1wEmI",
+      "title": "Apex Legends: Revelry Battle Pass Trailer",
+      "duration": 119,
+      "channel": {
+        "name": "Apex Legends",
+        "id": "UC0ZV6M2THA81QT9hrVWJG3A"
       }
     }
   ]
