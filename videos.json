@@ -2,7 +2,7 @@
   "totalSize": "14.6 GB",
   "totalVideoSize": "5.5 GB",
   "totalAudioSize": "9.1 GB",
-  "totalVideos": 3548,
+  "totalVideos": 3549,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -31934,6 +31934,15 @@
       "channel": {
         "name": "CBS Evening News",
         "id": "UCAeWdyKJXGWmVAXFpgLNNTg"
+      }
+    },
+    {
+      "id": "6JoHyVdv4bA",
+      "title": "ZAYDE WOLF - THAT ENERGY - Lyric Video official",
+      "duration": 208,
+      "channel": {
+        "name": "Zayde Wolf",
+        "id": "UCHhliZW5fmKsl9-QnbJRKNA"
       }
     }
   ]
