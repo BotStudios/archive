@@ -2,7 +2,7 @@
   "totalSize": "14.7 GB",
   "totalVideoSize": "5.5 GB",
   "totalAudioSize": "9.2 GB",
-  "totalVideos": 3573,
+  "totalVideos": 3574,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -32159,6 +32159,15 @@
       "channel": {
         "name": "Crowder",
         "id": "UCvOftPsbp9Cj9cTSPfDMK7w"
+      }
+    },
+    {
+      "id": "9eluLpABpoY",
+      "title": "Right Beneath the Stars (Sped up)",
+      "duration": 158,
+      "channel": {
+        "name": "Arnold Navii",
+        "id": "UCkxtv7FxEtelEciie2LlwjQ"
       }
     }
   ]
