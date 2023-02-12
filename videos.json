@@ -2,7 +2,7 @@
   "totalSize": "14.9 GB",
   "totalVideoSize": "5.6 GB",
   "totalAudioSize": "9.3 GB",
-  "totalVideos": 3634,
+  "totalVideos": 3635,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -32708,6 +32708,15 @@
       "channel": {
         "name": "DC",
         "id": "UCiifkYAs_bq1pt_zbNAzYGg"
+      }
+    },
+    {
+      "id": "JqcncLPi9zw",
+      "title": "Marvel Studios’ Guardians of the Galaxy Vol. 3 | New Trailer",
+      "duration": 142,
+      "channel": {
+        "name": "Marvel Entertainment",
+        "id": "UCvC4D8onUfXzvjTOM-dBfEA"
       }
     }
   ]
