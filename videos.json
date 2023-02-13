@@ -2,7 +2,7 @@
   "totalSize": "15.0 GB",
   "totalVideoSize": "5.7 GB",
   "totalAudioSize": "9.4 GB",
-  "totalVideos": 3661,
+  "totalVideos": 3662,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -32951,6 +32951,15 @@
       "channel": {
         "name": "FOX 11 Los Angeles",
         "id": "UCHfF8wFnipMeDpJf8OmMxDg"
+      }
+    },
+    {
+      "id": "pdSPDK6iQ5c",
+      "title": "Rihanna’s ASL Interpreter Goes VIRAL During Super Bowl Performance",
+      "duration": 158,
+      "channel": {
+        "name": "Entertainment Tonight",
+        "id": "UCdtXPiqI2cLorKaPrfpKc4g"
       }
     }
   ]
