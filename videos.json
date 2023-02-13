@@ -2,7 +2,7 @@
   "totalSize": "15.1 GB",
   "totalVideoSize": "5.7 GB",
   "totalAudioSize": "9.4 GB",
-  "totalVideos": 3665,
+  "totalVideos": 3666,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -32987,6 +32987,15 @@
       "channel": {
         "name": "Tubi",
         "id": "UCNDsk0uhSlG1-br1Ex2Rgfg"
+      }
+    },
+    {
+      "id": "SPrXIgPpHbg",
+      "title": "How Rihanna CELEBRATED After Revealing Pregnancy With Baby No. 2 at Super Bowl",
+      "duration": 228,
+      "channel": {
+        "name": "Entertainment Tonight",
+        "id": "UCdtXPiqI2cLorKaPrfpKc4g"
       }
     }
   ]
