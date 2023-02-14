@@ -2,7 +2,7 @@
   "totalSize": "15.2 GB",
   "totalVideoSize": "5.7 GB",
   "totalAudioSize": "9.5 GB",
-  "totalVideos": 3709,
+  "totalVideos": 3710,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -33383,6 +33383,15 @@
       "channel": {
         "name": "FOX 4 Dallas-Fort Worth",
         "id": "UCruQg25yVBppUWjza8AlyZA"
+      }
+    },
+    {
+      "id": "4c1tCFm8RxY",
+      "title": "Ashley Cooke - Brett Young - Never Til Now (Wedding Version)",
+      "duration": 174,
+      "channel": {
+        "name": "Ashley Cooke",
+        "id": "UCerLAYKg_eFJ1hh2RHhooHg"
       }
     }
   ]
