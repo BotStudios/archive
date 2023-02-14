@@ -2,7 +2,7 @@
   "totalSize": "15.2 GB",
   "totalVideoSize": "5.7 GB",
   "totalAudioSize": "9.5 GB",
-  "totalVideos": 3690,
+  "totalVideos": 3692,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -33212,6 +33212,24 @@
       "channel": {
         "name": "Daily Dose Of Internet",
         "id": "UCdC0An4ZPNr_YiFiYoVbwaw"
+      }
+    },
+    {
+      "id": "8a42YE8Md1c",
+      "title": "San Diego State University building shut down after person diagnosed with Legionella pneumonia",
+      "duration": 188,
+      "channel": {
+        "name": "CBS 8 San Diego",
+        "id": "UCMscWako8oDvpdF4pppku-g"
+      }
+    },
+    {
+      "id": "jJAo2cn1IC0",
+      "title": "Grupo Frontera x Grupo Marca Registrada - Di Que Si (Video Oficial)",
+      "duration": 198,
+      "channel": {
+        "name": "Grupo Frontera",
+        "id": "UCKsN6xyJ2w8g7p4p9apXkYQ"
       }
     }
   ]
