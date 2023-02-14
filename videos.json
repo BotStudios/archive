@@ -2,7 +2,7 @@
   "totalSize": "15.1 GB",
   "totalVideoSize": "5.7 GB",
   "totalAudioSize": "9.5 GB",
-  "totalVideos": 3687,
+  "totalVideos": 3689,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -33185,6 +33185,24 @@
       "channel": {
         "name": "KGW News",
         "id": "UCKgAB8lqTbqbwXC-e6_9lhQ"
+      }
+    },
+    {
+      "id": "gi4_Rw4A-Rk",
+      "title": "Protests in Israel over Benjamin Netanyahu justice plans",
+      "duration": 208,
+      "channel": {
+        "name": "Reuters",
+        "id": "UChqUTb7kYRX8-EiaN3XFrSQ"
+      }
+    },
+    {
+      "id": "rwhvFLHIlBs",
+      "title": "Zakk Wylde Plays Black Sabbath on Hello Kitty Mini-Guitar",
+      "duration": 285,
+      "channel": {
+        "name": "Loudwire",
+        "id": "UC8mnXeOlR9hC2w8aYqY9WNQ"
       }
     }
   ]
