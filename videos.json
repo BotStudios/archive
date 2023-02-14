@@ -2,7 +2,7 @@
   "totalSize": "15.1 GB",
   "totalVideoSize": "5.7 GB",
   "totalAudioSize": "9.5 GB",
-  "totalVideos": 3686,
+  "totalVideos": 3687,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -33176,6 +33176,15 @@
       "channel": {
         "name": "Lauren Spencer Smith",
         "id": "UC5_0AVrgtXhtBObIFSX7JlA"
+      }
+    },
+    {
+      "id": "YS25xG7o4BQ",
+      "title": "Portland commuters, schools prepare for icy Tuesday morning",
+      "duration": 130,
+      "channel": {
+        "name": "KGW News",
+        "id": "UCKgAB8lqTbqbwXC-e6_9lhQ"
       }
     }
   ]
