@@ -2,7 +2,7 @@
   "totalSize": "15.2 GB",
   "totalVideoSize": "5.7 GB",
   "totalAudioSize": "9.5 GB",
-  "totalVideos": 3698,
+  "totalVideos": 3699,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -33284,6 +33284,15 @@
       "channel": {
         "name": "Daily Dose Of Internet",
         "id": "UCdC0An4ZPNr_YiFiYoVbwaw"
+      }
+    },
+    {
+      "id": "Op6zledRbjw",
+      "title": "Doctor breaks down when speaking about the victims from the Michigan State University shooting",
+      "duration": 182,
+      "channel": {
+        "name": "NBC News",
+        "id": "UCeY0bbntWzzVIaj2z3QigXg"
       }
     }
   ]
