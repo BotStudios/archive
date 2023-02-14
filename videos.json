@@ -2,7 +2,7 @@
   "totalSize": "15.1 GB",
   "totalVideoSize": "5.7 GB",
   "totalAudioSize": "9.4 GB",
-  "totalVideos": 3675,
+  "totalVideos": 3676,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -33077,6 +33077,15 @@
       "channel": {
         "name": "Forbes Breaking News",
         "id": "UCg40OxZ1GYh3u3jBntB6DLg"
+      }
+    },
+    {
+      "id": "cHzGjP5woqU",
+      "title": "Arrest made in connection to SF home explosion; police report details new clues found in debris",
+      "duration": 209,
+      "channel": {
+        "name": "ABC7 News Bay Area",
+        "id": "UCYUbNjkuE4lsr2v1Id2O1oA"
       }
     }
   ]
