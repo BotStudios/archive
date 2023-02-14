@@ -2,7 +2,7 @@
   "totalSize": "15.1 GB",
   "totalVideoSize": "5.7 GB",
   "totalAudioSize": "9.4 GB",
-  "totalVideos": 3681,
+  "totalVideos": 3682,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -33131,6 +33131,15 @@
       "channel": {
         "name": "House of Highlights",
         "id": "UCqQo7ewe87aYAe7ub5UqXMw"
+      }
+    },
+    {
+      "id": "lduo8xRdl4Y",
+      "title": "BREAKING: Suspect in Michigan State shooting found dead",
+      "duration": 161,
+      "channel": {
+        "name": "MSNBC",
+        "id": "UCaXkIU1QidjPwiAYu6GcHjg"
       }
     }
   ]
