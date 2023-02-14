@@ -2,7 +2,7 @@
   "totalSize": "15.2 GB",
   "totalVideoSize": "5.7 GB",
   "totalAudioSize": "9.5 GB",
-  "totalVideos": 3702,
+  "totalVideos": 3703,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -33320,6 +33320,15 @@
       "channel": {
         "name": "Good Morning America",
         "id": "UCH1oRy1dINbMVp3UFWrKP0w"
+      }
+    },
+    {
+      "id": "FjeNGkyEY2I",
+      "title": "Destiny 2: The Witch Queen - Season 19 Ending Cinematic",
+      "duration": 236,
+      "channel": {
+        "name": "Destiny 2",
+        "id": "UC52XYgEExV9VG6Rt-6vnzVA"
       }
     }
   ]
