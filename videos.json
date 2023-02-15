@@ -1,8 +1,8 @@
 {
   "totalSize": "15.3 GB",
-  "totalVideoSize": "5.7 GB",
+  "totalVideoSize": "5.8 GB",
   "totalAudioSize": "9.6 GB",
-  "totalVideos": 3730,
+  "totalVideos": 3732,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -33572,6 +33572,24 @@
       "channel": {
         "name": "KTLA 5",
         "id": "UCinjnmQEwCddOudyCC1v7qA"
+      }
+    },
+    {
+      "id": "os0YJBjLPcc",
+      "title": "Chiefs WR JuJu Smith-Schuster serves up chicken tenders at Raising Cane's",
+      "duration": 128,
+      "channel": {
+        "name": "KSHB 41",
+        "id": "UCzhtAFR4aiLOr8IWqA92-5w"
+      }
+    },
+    {
+      "id": "fZ5a8Ea6RSw",
+      "title": "Highlights | Syracuse vs. NC State",
+      "duration": 126,
+      "channel": {
+        "name": "Syracuse Orange",
+        "id": "UCOBlh9E4bgmCWrDhuQGEkQA"
       }
     }
   ]
