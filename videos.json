@@ -2,7 +2,7 @@
   "totalSize": "15.3 GB",
   "totalVideoSize": "5.7 GB",
   "totalAudioSize": "9.6 GB",
-  "totalVideos": 3727,
+  "totalVideos": 3728,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -33545,6 +33545,15 @@
       "channel": {
         "name": "NBA on ESPN",
         "id": "UCVSSpcmZD2PwPBqb8yKQKBA"
+      }
+    },
+    {
+      "id": "t6OBk9YBLQU",
+      "title": "how they use shotguns in movies",
+      "duration": 101,
+      "channel": {
+        "name": "Gus Johnson",
+        "id": "UCpIafFPGutTAKOBHMtGen7g"
       }
     }
   ]
