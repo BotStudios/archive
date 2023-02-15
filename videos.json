@@ -2,7 +2,7 @@
   "totalSize": "15.3 GB",
   "totalVideoSize": "5.7 GB",
   "totalAudioSize": "9.5 GB",
-  "totalVideos": 3717,
+  "totalVideos": 3718,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -33455,6 +33455,15 @@
       "channel": {
         "name": "STAYC",
         "id": "UCod5V2dpnpJLklGvVOv5FcQ"
+      }
+    },
+    {
+      "id": "zL2snqF-qgY",
+      "title": "Macy Gray and The California Jet Club - Thinking Of You (Official Audio)",
+      "duration": 273,
+      "channel": {
+        "name": "Macy Gray",
+        "id": "UC-vfCyibell_51GCZAd_60A"
       }
     }
   ]
