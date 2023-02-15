@@ -2,7 +2,7 @@
   "totalSize": "15.4 GB",
   "totalVideoSize": "5.8 GB",
   "totalAudioSize": "9.6 GB",
-  "totalVideos": 3757,
+  "totalVideos": 3759,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -33815,6 +33815,24 @@
       "channel": {
         "name": "CGP Grey",
         "id": "UC2C_jShtL725hvbm1arSV9w"
+      }
+    },
+    {
+      "id": "S5xWWrKX498",
+      "title": "\"Oops.... wrong emoji\"",
+      "duration": 152,
+      "channel": {
+        "name": "Beluga",
+        "id": "UCmSp4bDxS9R0jpeZEvkut2g"
+      }
+    },
+    {
+      "id": "aw6NLMycGrQ",
+      "title": "Esports: San Antonio's booming job industry",
+      "duration": 208,
+      "channel": {
+        "name": "News 4 (WOAI) San Antonio",
+        "id": "UCpsuSNiFkl4T4owtIb8QqWQ"
       }
     }
   ]
