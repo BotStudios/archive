@@ -2,7 +2,7 @@
   "totalSize": "15.3 GB",
   "totalVideoSize": "5.7 GB",
   "totalAudioSize": "9.5 GB",
-  "totalVideos": 3718,
+  "totalVideos": 3720,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -33464,6 +33464,24 @@
       "channel": {
         "name": "Macy Gray",
         "id": "UC-vfCyibell_51GCZAd_60A"
+      }
+    },
+    {
+      "id": "CwRttSfnfcc",
+      "title": "Dicing an Onion by Chef Jean Pierre",
+      "duration": 270,
+      "channel": {
+        "name": "Chef Jean-Pierre",
+        "id": "UCLGNeElk4sNgzUrZr0c9krA"
+      }
+    },
+    {
+      "id": "ssPWDriMCN0",
+      "title": "All The Small Things (Wedding Version) | The Hound + The Fox",
+      "duration": 182,
+      "channel": {
+        "name": "The Hound + The Fox",
+        "id": "UCjdbqDJRNJeDUKcJGjpn3Aw"
       }
     }
   ]
