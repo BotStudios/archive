@@ -2,7 +2,7 @@
   "totalSize": "15.4 GB",
   "totalVideoSize": "5.8 GB",
   "totalAudioSize": "9.6 GB",
-  "totalVideos": 3747,
+  "totalVideos": 3748,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -33725,6 +33725,15 @@
       "channel": {
         "name": "breathe.",
         "id": "UCbhtzt0bHz_UIkVsAKE2fvw"
+      }
+    },
+    {
+      "id": "6weABAhwvN4",
+      "title": "Guy Eats a Wild Glizzy",
+      "duration": 152,
+      "channel": {
+        "name": "Daily Dose Of Internet",
+        "id": "UCdC0An4ZPNr_YiFiYoVbwaw"
       }
     }
   ]
