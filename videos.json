@@ -1,8 +1,8 @@
 {
   "totalSize": "15.3 GB",
   "totalVideoSize": "5.7 GB",
-  "totalAudioSize": "9.5 GB",
-  "totalVideos": 3720,
+  "totalAudioSize": "9.6 GB",
+  "totalVideos": 3723,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -33482,6 +33482,33 @@
       "channel": {
         "name": "The Hound + The Fox",
         "id": "UCjdbqDJRNJeDUKcJGjpn3Aw"
+      }
+    },
+    {
+      "id": "AkBmxAk2a7s",
+      "title": "Sources: Idaho victims Ethan and Xana found dead by best friend | Banfield",
+      "duration": 294,
+      "channel": {
+        "name": "NewsNation",
+        "id": "UCCjG8NtOig0USdrT5D1FpxQ"
+      }
+    },
+    {
+      "id": "r0BBzRNzCg0",
+      "title": "MSU community recovering from deadly on-campus mass shooting",
+      "duration": 184,
+      "channel": {
+        "name": "CBS New York",
+        "id": "UCNZyLULUQBp5e9Q1cKtvk6Q"
+      }
+    },
+    {
+      "id": "gHynJ_VpRJc",
+      "title": "Gov. DeSantis ramps up feud with College Board",
+      "duration": 47,
+      "channel": {
+        "name": "CBS Miami",
+        "id": "UCXJryYh6xcW5iEeJGzK191A"
       }
     }
   ]
