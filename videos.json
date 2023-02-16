@@ -2,7 +2,7 @@
   "totalSize": "15.5 GB",
   "totalVideoSize": "5.8 GB",
   "totalAudioSize": "9.7 GB",
-  "totalVideos": 3768,
+  "totalVideos": 3770,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -33914,6 +33914,24 @@
       "channel": {
         "name": "BBC News",
         "id": "UC16niRr50-MSBwiO3YDb3RA"
+      }
+    },
+    {
+      "id": "bsxsR6F5Ycc",
+      "title": "Dogs are accidentally eating cannabis residue, here are the symptoms to look out for",
+      "duration": 106,
+      "channel": {
+        "name": "FOX 5 New York",
+        "id": "UCIjSUWHWp6KohfnR5OQTXnQ"
+      }
+    },
+    {
+      "id": "5U7DgX665F8",
+      "title": "Pentagon officials confirm TN National Guard helicopter crash",
+      "duration": 292,
+      "channel": {
+        "name": "NewsChannel 5",
+        "id": "UCO6kzQ-7wcG0x8W5LpBA9RQ"
       }
     }
   ]
