@@ -1,8 +1,8 @@
 {
   "totalSize": "15.6 GB",
   "totalVideoSize": "5.8 GB",
-  "totalAudioSize": "9.7 GB",
-  "totalVideos": 3801,
+  "totalAudioSize": "9.8 GB",
+  "totalVideos": 3802,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -34211,6 +34211,15 @@
       "channel": {
         "name": "The Action Lab",
         "id": "UC1VLQPn9cYSqx8plbk9RxxQ"
+      }
+    },
+    {
+      "id": "GtZyHKUSf_Q",
+      "title": "Haunting Footage of the Titanic Released to Public",
+      "duration": 223,
+      "channel": {
+        "name": "Inside Edition",
+        "id": "UC9k-yiEpRHMNVOnOi_aQK8w"
       }
     }
   ]
