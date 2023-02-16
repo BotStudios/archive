@@ -2,7 +2,7 @@
   "totalSize": "15.5 GB",
   "totalVideoSize": "5.8 GB",
   "totalAudioSize": "9.7 GB",
-  "totalVideos": 3771,
+  "totalVideos": 3773,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -33941,6 +33941,24 @@
       "channel": {
         "name": "Law&Crime Network",
         "id": "UCz8K1occVvDTYDfFo7N5EZw"
+      }
+    },
+    {
+      "id": "Jr8yEgu7sHU",
+      "title": "ELVIS Comes Alive To Sing with Simon Cowell, Sofia Vergara and Heidi Klum on America's Got Talent!",
+      "duration": 299,
+      "channel": {
+        "name": "Talent Recap",
+        "id": "UCSWwb_YyNB8vuC1VDcfPPaQ"
+      }
+    },
+    {
+      "id": "aGsXh_loS7k",
+      "title": "Jimmy Kimmel’s Oscars Trailer - Exclusive World Premiere",
+      "duration": 239,
+      "channel": {
+        "name": "Jimmy Kimmel Live",
+        "id": "UCa6vGFO9ty8v5KZJXQxdhaw"
       }
     }
   ]
