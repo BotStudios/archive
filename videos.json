@@ -2,7 +2,7 @@
   "totalSize": "15.6 GB",
   "totalVideoSize": "5.8 GB",
   "totalAudioSize": "9.7 GB",
-  "totalVideos": 3798,
+  "totalVideos": 3799,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -34181,6 +34181,15 @@
       "id": "8db8a8YJJEc",
       "title": "Stocks moving in after hours: Roku, Zillow, Twilio, Boston Beer Company",
       "duration": 208,
+      "channel": {
+        "name": "Yahoo Finance",
+        "id": "UCEAZeUIeJs0IjQiqTCdVSIg"
+      }
+    },
+    {
+      "id": "wjCduIy3fdk",
+      "title": "ETFs: Investors are trying to ‘grab more longer-term exposure’ amid Fed rate hikes, expert says",
+      "duration": 276,
       "channel": {
         "name": "Yahoo Finance",
         "id": "UCEAZeUIeJs0IjQiqTCdVSIg"
