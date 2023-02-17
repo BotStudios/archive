@@ -2,7 +2,7 @@
   "totalSize": "15.7 GB",
   "totalVideoSize": "5.9 GB",
   "totalAudioSize": "9.8 GB",
-  "totalVideos": 3826,
+  "totalVideos": 3827,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -34436,6 +34436,15 @@
       "channel": {
         "name": "WXYZ-TV Detroit | Channel 7",
         "id": "UC6HyKpYWmX4zsy6_bJZIK7A"
+      }
+    },
+    {
+      "id": "xGnIKfHi--s",
+      "title": "Governor Gavin Newsom wants to temporarily halt the release of water from reservoirs",
+      "duration": 98,
+      "channel": {
+        "name": "CBS Sacramento",
+        "id": "UCxZMOY2RdtK6LQUbIYgec4A"
       }
     }
   ]
