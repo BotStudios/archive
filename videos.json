@@ -2,7 +2,7 @@
   "totalSize": "15.7 GB",
   "totalVideoSize": "5.9 GB",
   "totalAudioSize": "9.8 GB",
-  "totalVideos": 3827,
+  "totalVideos": 3828,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -34445,6 +34445,15 @@
       "channel": {
         "name": "CBS Sacramento",
         "id": "UCxZMOY2RdtK6LQUbIYgec4A"
+      }
+    },
+    {
+      "id": "wt8XhtWlSYI",
+      "title": "FREE | Lil Peep Type Beat \"Mistakes\" | Alternative Rock Type Beat",
+      "duration": 174,
+      "channel": {
+        "name": "R3DQX",
+        "id": "UC3AxTCe2XAGog_Ax50UH32w"
       }
     }
   ]
