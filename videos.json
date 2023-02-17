@@ -2,7 +2,7 @@
   "totalSize": "15.7 GB",
   "totalVideoSize": "5.9 GB",
   "totalAudioSize": "9.8 GB",
-  "totalVideos": 3820,
+  "totalVideos": 3821,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -34382,6 +34382,15 @@
       "channel": {
         "name": "Autotrader",
         "id": "UC5XoIXdf_zeLvaBG3jErFkw"
+      }
+    },
+    {
+      "id": "MS2J5Yl6R9E",
+      "title": "[FREE] Juice WRLD Type Beat 2023 - \"GO HARD 2.0\"",
+      "duration": 171,
+      "channel": {
+        "name": "SOGIMURA",
+        "id": "UCouveXPQbt5RfrZPUvY42oA"
       }
     }
   ]
