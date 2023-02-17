@@ -2,7 +2,7 @@
   "totalSize": "15.7 GB",
   "totalVideoSize": "5.9 GB",
   "totalAudioSize": "9.8 GB",
-  "totalVideos": 3824,
+  "totalVideos": 3825,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -34418,6 +34418,15 @@
       "channel": {
         "name": "cleveland.com",
         "id": "UCJkc1COQO0WiZ2CI7dRdwAQ"
+      }
+    },
+    {
+      "id": "Dm6SWjgPUjc",
+      "title": "This archeological dig site in Miami is uncovering 7,000-year-old history",
+      "duration": 260,
+      "channel": {
+        "name": "Miami Herald",
+        "id": "UC7Ij5ZCf2E9GmZ86cIw3vVg"
       }
     }
   ]
