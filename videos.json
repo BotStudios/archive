@@ -2,7 +2,7 @@
   "totalSize": "15.7 GB",
   "totalVideoSize": "5.9 GB",
   "totalAudioSize": "9.9 GB",
-  "totalVideos": 3839,
+  "totalVideos": 3840,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -34553,6 +34553,15 @@
       "channel": {
         "name": "Alex Lustig",
         "id": "UCEH7MWf76x64fgb9k5L-a4w"
+      }
+    },
+    {
+      "id": "xZkIfFNG6nM",
+      "title": "Buster Murdaugh Allegedly Made Rude Gesture Toward Witness",
+      "duration": 103,
+      "channel": {
+        "name": "Inside Edition",
+        "id": "UC9k-yiEpRHMNVOnOi_aQK8w"
       }
     }
   ]
