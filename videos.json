@@ -2,7 +2,7 @@
   "totalSize": "15.7 GB",
   "totalVideoSize": "5.9 GB",
   "totalAudioSize": "9.8 GB",
-  "totalVideos": 3825,
+  "totalVideos": 3826,
   "videos": [
     {
       "id": "4c_CvOey-BM",
@@ -34427,6 +34427,15 @@
       "channel": {
         "name": "Miami Herald",
         "id": "UC7Ij5ZCf2E9GmZ86cIw3vVg"
+      }
+    },
+    {
+      "id": "EiCDL6SCvEQ",
+      "title": "Winter Weather Advisory today",
+      "duration": 110,
+      "channel": {
+        "name": "WXYZ-TV Detroit | Channel 7",
+        "id": "UC6HyKpYWmX4zsy6_bJZIK7A"
       }
     }
   ]
